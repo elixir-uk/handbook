@@ -1,7 +1,6 @@
 ---
 title: Community participation model
 description: How people engage with ELIXIR-UK — the rules of the road, who's in the community, how participation deepens, and how we recognise contribution.
-editor: [Xenia Perez Sitja]
 page_id: community-participation-model
 ---
 
@@ -18,7 +17,7 @@ The [Participation guidelines](/cp-guidelines) are the floor — start there. Ev
 
 ## In this section
 
-{% include section-navigation-tiles.html type="community-participation-model" except="community-participation-model.md" %}
+{% include section-navigation-tiles.html type="community_participation_model" except="community-participation-model.md" %}
 
 ## Companion sections
 

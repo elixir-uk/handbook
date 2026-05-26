@@ -22,10 +22,10 @@ $btn-primary-bg-hover:    $secondary;
 $btn-primary-color-hover: $accent-color;
 
 /*-----Top navigation-----*/
-$topnav-bg:              $light;
-$topnav-brand-height:    4rem;
-$topnav-title-color:     $primary;
-$topnav-searchbar:       $white;
+$topnav-bg:              $dark;
+$topnav-brand-height:    40px;
+$topnav-title-color:     $white;
+$topnav-searchbar:       rgba($white, 0.1);
 
 /*-----Search-----*/
 $search-result-color: $accent-color;

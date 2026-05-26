@@ -1,7 +1,6 @@
-title: ELIXIR-UK Brand & Style Guide
-# topnav_title intentionally omitted — the horizontal logo carries the brand on its own
-topnav_title:
-description: "Brand, voice, communications strategy, and community participation model for ELIXIR-UK — built to be read by humans and by language models."
+title: ELIXIR-UK Handbook
+topnav_title: ELIXIR-UK Handbook
+description: "The ELIXIR-UK Handbook — brand, voice, communications strategy, and community participation model. Built to be read by humans and by language models."
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@6.0.0
 
@@ -15,13 +14,13 @@ sass:
 
 theme_variables:
   topnav:
-    brand_logo: assets/img/logos/main-logo-horizontal.svg
-    theme: light
+    # brand_logo intentionally omitted — using text title instead of a logo image
+    theme: dark
   back_to_top: true
   fonts:
     - https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap
 
-topnav_banner: "This brand & style guide is under active reconstruction — expect things to move."
+topnav_banner: "This handbook is under active reconstruction — expect things to move."
 
 exclude:
   - README.md
@@ -49,19 +48,19 @@ defaults:
       path: "pages/style-guide"
     values:
       sidebar: style-guide
-      type: style-guide
+      type: style_guide
   -
     scope:
       path: "pages/communications-strategy"
     values:
       sidebar: communications-strategy
-      type: communications-strategy
+      type: communications_strategy
   -
     scope:
       path: "pages/community-participation-model"
     values:
       sidebar: community-participation-model
-      type: community-participation-model
+      type: community_participation_model
 
 plugins:
   - elixir-toolkit-theme-plugins

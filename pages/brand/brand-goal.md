@@ -1,8 +1,14 @@
 ---
 title: Brand goal
 description: What ELIXIR-UK exists to do — mission, vision, tagline, values.
-editor: [Xenia Perez Sitja]
 page_id: brand-goal
+related_pages:
+  brand:
+    - brand-keywords
+  style_guide:
+    - voice
+  communications_strategy:
+    - cs-audiences
 ---
 
 ELIXIR-UK is the UK node of [ELIXIR](https://elixir-europe.org), the European research infrastructure for life science data. We are a **network** of UK research-performing organisations: we advocate, coordinate, train, and set standards. Members deliver the work; the Node connects them.

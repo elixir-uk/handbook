@@ -1,7 +1,6 @@
 ---
 title: Communications strategy
 description: Who we talk to, what we say, where, how often, and how we know it worked. Follows the OASIS framework.
-editor: [Xenia Perez Sitja]
 page_id: communications-strategy
 ---
 
@@ -17,4 +16,4 @@ How ELIXIR-UK plans, runs, and measures its communications. Structured around **
 
 ## In this section
 
-{% include section-navigation-tiles.html type="communications-strategy" except="communications-strategy.md" %}
+{% include section-navigation-tiles.html type="communications_strategy" except="communications-strategy.md" %}

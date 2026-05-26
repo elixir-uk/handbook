@@ -1,65 +1,14 @@
-## Top navigation
-## If you want to list an external URL, use external_url instead of url — the theme applies a different link base.
+## Top navigation — flat, no dropdowns.
+## Sub-page discovery happens via the sidebar once you're inside a section.
+## If you want to list an external URL, use external_url instead of url.
 subitems:
   - title: Home
     url: /index
-
   - title: Brand
     url: /brand
-    subitems:
-      - title: Brand goal
-        url: /brand-goal
-      - title: Brand keywords
-        url: /brand-keywords
-      - title: Logos
-        url: /logos
-      - title: Colour
-        url: /colour
-      - title: Typography
-        url: /typography
-      - title: Imagery
-        url: /imagery
-      - title: Templates & downloads
-        url: /templates
-
   - title: Style guide
     url: /style-guide
-    subitems:
-      - title: Voice
-        url: /voice
-      - title: Do & don't
-        url: /do-and-dont
-      - title: Lexicon
-        url: /lexicon
-      - title: LLM system prompt
-        url: /llm-system-prompt
-
   - title: Communications
     url: /communications-strategy
-    subitems:
-      - title: Objectives
-        url: /cs-objectives
-      - title: Audiences & key messages
-        url: /cs-audiences
-      - title: Strategy & resources
-        url: /cs-strategy
-      - title: Implementation
-        url: /cs-implementation
-      - title: Crisis communications
-        url: /cs-crisis
-      - title: Evaluation
-        url: /cs-evaluation
-
   - title: Community
     url: /community-participation-model
-    subitems:
-      - title: Participation guidelines
-        url: /cp-guidelines
-      - title: Who the community is
-        url: /cp-who
-      - title: Pathways
-        url: /cp-pathways
-      - title: How we engage
-        url: /cp-engagement
-      - title: Governance & recognition
-        url: /cp-governance

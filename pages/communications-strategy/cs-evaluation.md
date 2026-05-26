@@ -1,8 +1,11 @@
 ---
 title: Evaluation
 description: What we measure, what we don't, and how we report.
-editor: [Xenia Perez Sitja]
 page_id: cs-evaluation
+related_pages:
+  communications_strategy:
+    - cs-implementation
+    - cs-objectives
 ---
 
 The "S" of OASIS. Without measurement we'll either do too much (everything feels urgent) or too little (nothing feels rewarded).

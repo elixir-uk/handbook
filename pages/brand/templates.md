@@ -1,39 +1,18 @@
 ---
 title: Templates & downloads
+description: Working files — logos, document templates, fonts, and the external resources ELIXIR-UK inherits from.
+page_id: templates
+resources: [main-logo-horizontal, main-logo-mark, logo-sponsored, logo-expanded, tpl-letterhead, tpl-slide-deck, tpl-social-post, tpl-webstory-hero, tpl-event-announcement, font-lato, font-source-serif, font-work-sans, elixir-hub, elixir-uk-website, elitma, rdmkit, ds-handbook, workflowhub, steers-comms-toolkit, elixir-brand-guidelines, elixir-style-guide]
 ---
 
-The working files — logo vectors, templates, fonts, and anything else you need to actually make something on-brand.
+Everything you need to make something on-brand: logos, document templates, fonts, and the external resources we inherit from.
 
-## Logo files
+The table below is the single source of truth. Each row's "Related pages" column lists where the resource is used or referenced across this guide. Sort or search the table directly.
 
-> _To author once reconstructed/recovered._
+## How to add or update a file
 
-- `elixir-uk-logo-primary.svg` — _to add_
-- `elixir-uk-logo-mark-only.svg` — _to add_
-- `elixir-uk-logo-sponsored.svg` — _to add_
-- `elixir-uk-logo-expanded.svg` — _to add_
-- PNG exports at 1x, 2x, 3x — _to add_
+1. Drop the file in `assets/img/logos/` (or another suitable `assets/` subfolder) via a pull request to [the repo](https://github.com/elixir-uk/style-guide).
+2. Register it in [`_data/tool_and_resource_list.yml`](https://github.com/elixir-uk/style-guide/blob/main/_data/tool_and_resource_list.yml) with an `id`, `name`, `url`, `description`, and `category` (`template` / `external_resource` / `internal_resource`).
+3. Reference it from any page's frontmatter via `resources: [your-new-id]` — it will appear in that page's "Tools and resources" section, and the page will appear in this table's "Related pages" column for that row.
 
-## Document templates
-
-> _To author. Examples that often live here:_
-> _- presentation deck (Google Slides / PowerPoint / Keynote)_
-> _- letterhead_
-> _- email signature snippets_
-> _- one-pager template (Word / Google Docs)_
-
-## Social templates
-
-> _To author:_
-> _- Twitter / Bluesky post template (Figma / Canva)_
-> _- LinkedIn post template_
-> _- Webstory hero image template_
-> _- Event announcement template_
-
-## Fonts
-
-> _To author. Direct download links to the font files we use, with the licence info. If we're using open-source fonts (IBM Plex, Inter, etc.) link to the official sources rather than re-hosting._
-
-## How files are organised
-
-Everything goes in [`/assets/`](https://github.com/elixir-uk/style-guide/tree/main/assets) in the GitHub repo. To add or update a file: open a pull request against the repo, drop the file in, and update this page to link to it.
+{% include resource-table-all.html %}

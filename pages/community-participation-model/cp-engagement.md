@@ -1,8 +1,13 @@
 ---
 title: How we engage
 description: The events, programmes, channels, and one-to-one work that hold the ELIXIR-UK community together.
-editor: [Xenia Perez Sitja]
 page_id: cp-engagement
+related_pages:
+  community_participation_model:
+    - cp-pathways
+    - cp-governance
+  communications_strategy:
+    - cs-implementation
 ---
 
 The mechanisms by which the community actually meets ELIXIR-UK. Each one has a job.

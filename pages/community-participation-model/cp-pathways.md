@@ -1,8 +1,12 @@
 ---
 title: Pathways
 description: How participation deepens over time, from newcomer to community leader. Includes the buddy model for entry.
-editor: [Xenia Perez Sitja]
 page_id: cp-pathways
+related_pages:
+  community_participation_model:
+    - cp-engagement
+    - cp-who
+    - cp-governance
 ---
 
 How someone moves from "I heard about ELIXIR-UK once" to "I co-deliver an ELIXIR-UK programme." If we don't design the steps, we get sporadic enthusiasm and not much else.

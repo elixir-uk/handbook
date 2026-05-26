@@ -1,5 +1,5 @@
 ---
-title: ELIXIR-UK Brand & Style Guide
+title: ELIXIR-UK Handbook
 ---
 
 A living reference for who ELIXIR-UK is, how we sound, who we talk to, and how the community shows up alongside us.

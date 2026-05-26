@@ -1,7 +1,6 @@
 ---
 title: Style guide
 description: How ELIXIR-UK sounds in writing — voice, lexicon, examples, and a system prompt you can hand to a language model.
-editor: [Xenia Perez Sitja]
 page_id: style-guide
 ---
 
@@ -20,7 +19,7 @@ The single source of truth for the ELIXIR-UK voice. Authored once. Read by human
 
 ## In this section
 
-{% include section-navigation-tiles.html type="style-guide" except="style-guide.md" %}
+{% include section-navigation-tiles.html type="style_guide" except="style-guide.md" %}
 
 ## Companion sections
 

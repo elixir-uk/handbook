@@ -1,8 +1,12 @@
 ---
 title: Strategy & resources
 description: Principles, people, money, and channels available to ELIXIR-UK comms.
-editor: [Xenia Perez Sitja]
 page_id: cs-strategy
+related_pages:
+  communications_strategy:
+    - cs-objectives
+    - cs-implementation
+    - cs-evaluation
 ---
 
 The "S" in OASIS. **Automate the routine, hand-craft the story.**

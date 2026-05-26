@@ -1,8 +1,12 @@
 ---
 title: Crisis communications
 description: How ELIXIR-UK responds when something goes wrong.
-editor: [Xenia Perez Sitja]
 page_id: cs-crisis
+related_pages:
+  community_participation_model:
+    - cp-guidelines
+  communications_strategy:
+    - cs-strategy
 ---
 
 Recommended by the [ELIXIR-STEERS Toolkit (2025)](https://elixir-europe.org). _Draft — to be ratified by the Coordination Office._

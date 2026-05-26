@@ -1,8 +1,11 @@
 ---
 title: Governance & recognition
 description: How decisions get made in ELIXIR-UK, and how contribution is acknowledged.
-editor: [Xenia Perez Sitja]
 page_id: cp-governance
+related_pages:
+  community_participation_model:
+    - cp-guidelines
+    - cp-engagement
 ---
 
 Two things that often live separately but really shouldn't. Communities that get recognition wrong stop bothering with governance.

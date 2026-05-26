@@ -1,8 +1,13 @@
 ---
 title: Participation guidelines
 description: The four principles all ELIXIR-UK community spaces operate by, and what happens when behaviour doesn't align with them. Based on the ELIXIR Hub Code of Conduct.
-editor: [Xenia Perez Sitja]
 page_id: cp-guidelines
+related_pages:
+  community_participation_model:
+    - cp-who
+    - cp-governance
+  communications_strategy:
+    - cs-crisis
 ---
 
 
@@ -74,8 +79,3 @@ Steps may be taken to protect the community. These may include:
 - Temporary limits on participation in future ELIXIR-UK events or calls
 - In serious cases, referral to the person's home institution
 
-## Related
-
-- [Who the community is](/cp-who) — the people these guidelines apply to
-- [Governance & recognition](/cp-governance) — the wider governance context the guidelines sit within
-- [Crisis communications](/cs-crisis) — for incidents that have a public dimension, the crisis comms workflow runs in parallel with this reporting process; this page takes precedence on conduct matters

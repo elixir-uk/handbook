@@ -1,3 +1,148 @@
-# Required by elixir-toolkit-theme-plugins. We don't use tool tagging on this site —
-# keep this file empty (just the comment + the empty list) so the plugin can load.
-[]
+# Central registry of tools, templates, and external resources for the
+# ELIXIR-UK Handbook. Pattern borrowed from
+# github.com/elixir-europe/ds-handbook.
+#
+# Reference an entry from a page's frontmatter by its `id`:
+#
+#     resources: [main-logo-horizontal, elixir-hub, elitma]
+#
+# Categories
+#   template          – downloadable artefact you'd reuse (logo, slides, doc template)
+#   internal_resource – another page or asset inside this site
+#   external_resource – anything hosted outside this site
+
+
+# --- Logos --------------------------------------------------------------
+- id: main-logo-horizontal
+  name: ELIXIR-UK logo — horizontal lockup
+  url: /assets/img/logos/main-logo-horizontal.svg
+  description: Primary horizontal logo lockup. SVG. (Currently using the parent ELIXIR mark — to be replaced with ELIXIR-UK-specific lockup once recovered/reconstructed.)
+  category: template
+
+- id: main-logo-mark
+  name: ELIXIR-UK logo — main mark
+  url: /assets/img/logos/main_logo.svg
+  description: Square logo mark. SVG. Use when the wordmark would be too long for the available space.
+  category: template
+
+- id: logo-sponsored
+  name: ELIXIR-UK logo — sponsored variant
+  url: "#"
+  description: For events or sponsorship occasions. _To be added._
+  category: template
+
+- id: logo-expanded
+  name: ELIXIR-UK logo — expanded variant
+  url: "#"
+  description: For occasions where the logotype needs horizontal alignment and the logomark alone isn't enough. _To be added._
+  category: template
+
+
+# --- Document templates -------------------------------------------------
+- id: tpl-letterhead
+  name: Letterhead template
+  url: "#"
+  description: Official ELIXIR-UK letterhead in A4 + US Letter. _To be added._
+  category: template
+
+- id: tpl-slide-deck
+  name: Slide-deck template
+  url: "#"
+  description: Default 16:9 slide deck. _To be added — Google Slides and PowerPoint._
+  category: template
+
+- id: tpl-social-post
+  name: Social post templates
+  url: "#"
+  description: LinkedIn / Bluesky / Mastodon post graphics. _To be added — Figma + Canva._
+  category: template
+
+- id: tpl-webstory-hero
+  name: Webstory hero image template
+  url: "#"
+  description: Hero-image template for ELIXIR-UK webstories. _To be added — Figma._
+  category: template
+
+- id: tpl-event-announcement
+  name: Event announcement template
+  url: "#"
+  description: Event poster + social graphic template. _To be added._
+  category: template
+
+
+# --- Fonts --------------------------------------------------------------
+- id: font-lato
+  name: Lato
+  url: https://fonts.google.com/specimen/Lato
+  description: Primary typeface. Used for body, UI, and headings.
+  category: external_resource
+
+- id: font-source-serif
+  name: Source Serif 4
+  url: https://fonts.google.com/specimen/Source+Serif+4
+  description: Editorial serif accent.
+  category: external_resource
+
+- id: font-work-sans
+  name: Work Sans
+  url: https://fonts.google.com/specimen/Work+Sans
+  description: Alternate sans for variable-weight needs.
+  category: external_resource
+
+
+# --- ELIXIR ecosystem ---------------------------------------------------
+- id: elixir-hub
+  name: ELIXIR (Hub)
+  url: https://elixir-europe.org
+  description: The parent ELIXIR organisation — European life-science data infrastructure.
+  category: external_resource
+
+- id: elixir-uk-website
+  name: ELIXIR-UK website
+  url: https://elixiruk.org
+  description: The public-facing ELIXIR-UK website.
+  category: external_resource
+
+- id: elitma
+  name: ELITMa — ELIXIR Training Programme in Management
+  url: https://elixir-europe-training.github.io/ELIXIR-ELITMa
+  description: Sibling toolkit-theme site using the canonical ELIXIR brand. CSS reference for this style guide.
+  category: external_resource
+
+- id: rdmkit
+  name: RDMkit
+  url: https://rdmkit.elixir-europe.org
+  description: ELIXIR's researcher-facing Research Data Management resource. Built on the same toolkit theme.
+  category: external_resource
+
+- id: ds-handbook
+  name: Data Stewardship Handbook
+  url: https://elixir-europe.github.io/ds-handbook
+  description: ELIXIR community handbook for data stewards. Reference for related-pages and tool-registry patterns.
+  category: external_resource
+
+- id: workflowhub
+  name: WorkflowHub
+  url: https://workflowhub.eu
+  description: Registry of computational workflows. Built on the toolkit theme.
+  category: external_resource
+
+
+# --- Strategy & toolkit references --------------------------------------
+- id: steers-comms-toolkit
+  name: ELIXIR Node Communications Strategy Toolkit
+  url: https://elixir-europe.org
+  description: ELIXIR-STEERS M5.3 (Nov 2025) — canonical template for Node communications strategies.
+  category: external_resource
+
+- id: elixir-brand-guidelines
+  name: ELIXIR (parent) Brand Guidelines
+  url: https://elixir-europe.org
+  description: Parent ELIXIR brand book — palette, logo, type. ELIXIR-UK inherits from this.
+  category: external_resource
+
+- id: elixir-style-guide
+  name: ELIXIR (parent) Style Guide
+  url: https://elixir-europe.org
+  description: Parent ELIXIR voice and tone reference.
+  category: external_resource

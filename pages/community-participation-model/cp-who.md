@@ -1,8 +1,13 @@
 ---
 title: Who the community is
 description: The roles, institutions, and individuals that make up the ELIXIR-UK community.
-editor: [Xenia Perez Sitja]
 page_id: cp-who
+related_pages:
+  community_participation_model:
+    - cp-pathways
+    - cp-engagement
+  communications_strategy:
+    - cs-audiences
 ---
 
 The ELIXIR-UK community is not the same thing as the ELIXIR-UK staff team. Name it clearly first.

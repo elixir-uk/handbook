@@ -1,7 +1,6 @@
 ---
 title: Brand
 description: The ELIXIR-UK visual identity — what we stand for, what we look like, and the working files.
-editor: [Xenia Perez Sitja]
 page_id: brand
 ---
 

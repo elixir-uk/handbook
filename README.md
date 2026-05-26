@@ -1,14 +1,15 @@
-# ELIXIR-UK Brand Guidelines
+# ELIXIR-UK Handbook
 
-A Jekyll site that documents the ELIXIR-UK visual brand and voice & tone — and doubles as an LLM system prompt for on-brand drafting.
+A Jekyll site that documents the ELIXIR-UK brand, voice, communications strategy, and community participation model — and doubles as an LLM system prompt for on-brand drafting.
 
 Source for the [published site](https://elixir-uk.github.io/style-guide/) _(once deployed)_.
 
 ## What's here
 
-- **Brand, Logos, Colour, Typography, Imagery** — the visual brand reference
-- **Voice & tone** — how we write. Includes a copy-pasteable [LLM system prompt](pages/voice-and-tone/llm-system-prompt.md) generated from the voice/lexicon/examples pages
-- **Templates & downloads** — working files (logo SVGs, document templates, fonts)
+- **Brand** — visual identity: logos, colour, typography, imagery, templates
+- **Style guide** — how we write: voice, lexicon, do-and-don't, LLM system prompt
+- **Communications strategy** — OASIS framework: objectives, audiences, channels, implementation, evaluation, crisis comms
+- **Community participation model** — participation guidelines (code of conduct), who the community is, pathways, engagement, governance
 
 ## How to edit
 

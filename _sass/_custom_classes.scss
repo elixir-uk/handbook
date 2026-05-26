@@ -19,33 +19,66 @@ body {
 ::-moz-selection { color: $white; background: $accent-color; }
 
 
-/*-----Top navigation (ELITMa)-----*/
+/*-----Top navigation (RDMkit pattern: theme: dark via _config + $topnav-bg override)-----*/
+// All the heavy lifting is done by the theme via `topnav.theme: dark`
+// in _config.yml and `$topnav-bg: $dark` in _custom_variables.scss. We
+// only add: nowrap on items, active state, and a logo filter so the
+// navy-and-orange logo reads on the dark navbar.
 .navbar-nav .nav-item > a {
+    white-space: nowrap;
     &.active {
-        color: $white;
-        background-color: $primary-light;
+        background-color: $accent-color;
         border-radius: $border-radius;
     }
 }
 
+// Navbar items — force white text on dark navbar (theme's dark variant
+// doesn't always cascade the color through)
 header .navbar {
-    box-shadow: none !important;
-    background: $light-background !important;
-
     .navbar-brand, .nav-link {
-        color: $primary !important;
+        color: $white !important;
+
+        &:hover, &:focus { color: $accent-color !important; }
     }
 }
 
-#home {
-    header .navbar {
-        margin-bottom: 0 !important;
-        box-shadow: none !important;
-        background: $light-background !important;
+// Topnav title (text replaces the brand logo)
+header .navbar .navbar-brand {
+    font-family: $font-family-theme;
+    font-weight: 700;
+    font-size: 1.125rem;
+    letter-spacing: -0.01em;
+    color: $white !important;
 
-        .navbar-brand, .nav-link {
-            color: $primary !important;
+    &:hover, &:focus { color: $accent-color !important; }
+
+    // Hide the theme's default brand logo image (we're using text)
+    img {
+        display: none !important;
+    }
+}
+
+// Search input — white text on dark navbar
+header .navbar {
+    .form-control, .search-input {
+        background-color: rgba($white, 0.08) !important;
+        color: $white !important;
+        border: 1px solid rgba($white, 0.2) !important;
+
+        &::placeholder { color: rgba($white, 0.65) !important; opacity: 1; }
+        &:focus {
+            background-color: rgba($white, 0.12) !important;
+            border-color: $accent-color !important;
+            box-shadow: none !important;
+            color: $white !important;
         }
+    }
+
+    .input-group-text {
+        background-color: rgba($white, 0.08) !important;
+        color: $white !important;
+        border: 1px solid rgba($white, 0.2) !important;
+        border-right: 0 !important;
     }
 }
 
@@ -78,8 +111,44 @@ footer .col-6.col-lg-6.d-flex.justify-content-lg-start {
     line-height: 110%;
 }
 
-footer {
-    margin-top: 40px;
+
+/*-----Page intro — page title + uppercase type subtitle on white-----*/
+// The theme renders <div id="intro"> wrapping the H1 + the type subtitle
+// + the edit-me action buttons. Keep it plain on white; the type
+// subtitle becomes a thin light-weight uppercase eyebrow above the H1
+// with a divider line under, separating "this is meta" from the page.
+#intro h1 > span.d-block,
+#intro h1 > span.d-block.text-secondary,
+#intro h1 > span.d-block.ff-body {
+    display: block !important;
+    font-family: $font-family-sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 0.8125rem !important;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: $slate !important;
+    border-bottom: 1px solid $rule;
+    padding-bottom: 0.75rem;
+    margin-bottom: 1rem;
+}
+
+// TOC: anchor to the top of its grid cell, tighten the spacing
+// between "On this page" heading and the list of items.
+#toc {
+    align-self: start;
+
+    strong {
+        margin-bottom: 0 !important;
+        padding-top: 0 !important;
+    }
+
+    hr {
+        margin: 0.25rem 0 0.5rem 0 !important;
+    }
+
+    ul {
+        margin-top: 0 !important;
+    }
 }
 
 
@@ -211,11 +280,15 @@ footer {
     height: 100%;
     overflow: visible;
 
+    // Thin top accent line in orange (ds-handbook tonal cue, ELIXIR-skinned)
+    border-top: 3px solid $accent-color !important;
+    border-radius: 0 0 $border-radius $border-radius !important;
+
     // Numeral, top-right
     &::before {
         content: counter(card-num, decimal-leading-zero);
         position: absolute;
-        top: 1rem;
+        top: 0.85rem;
         right: 1.25rem;
         font-family: $font-family-monospace;
         font-size: 0.85rem;
@@ -254,6 +327,26 @@ footer {
         gap: 0.4rem;
     }
 
+    // Type label row — uppercase letter-spaced, orange, ds-handbook flavour
+    .card-body > .d-flex.align-items-center {
+        margin-bottom: 0.1rem;
+
+        small {
+            font-family: $font-family-monospace;
+            font-size: 0.7rem;
+            font-weight: 600;
+            letter-spacing: 0.14em;
+            text-transform: uppercase;
+            color: $accent-color;
+        }
+
+        .type-icon {
+            width: 1rem;
+            height: 1rem;
+            object-fit: contain;
+        }
+    }
+
     .section-title {
         font-family: $font-family-theme;
         font-weight: 700;
@@ -261,7 +354,8 @@ footer {
         color: $primary !important;
         text-decoration: none;
         border-bottom: 0 !important;
-        margin-top: 0.5rem;
+        margin-top: 0.25rem;
+        line-height: 1.25;
 
         &:hover { color: $accent-color !important; }
     }
@@ -271,6 +365,108 @@ footer {
         font-size: 0.9375rem;
         line-height: 1.5;
         margin-bottom: 0;
+    }
+}
+
+// "Related pages" heading — make it a section divider, not a giant H2
+#main h2:has(~ .navigation-tiles),
+#main > h2 + .row.navigation-tiles {
+    // Selector above is best-effort; the heading already sits just above
+    // the related-pages tiles. Tone it down a touch.
+}
+
+// The auto-rendered "Related pages" block sits at the very bottom of the
+// page layout. Add some breathing room above it.
+.navigation-tiles + .navigation-tiles,
+#main > h2 + .navigation-tiles {
+    margin-top: 1rem;
+}
+
+
+/*-----Sidebar — RDMkit split-background pattern-----*/
+// Body gets a left-half-grey / right-half-white gradient so the sidebar
+// block visually extends to the LEFT edge of the screen (past the
+// container's max-width). Main#main has its own white bg that masks
+// the gradient inside the content area, so the grey only appears where
+// the sidebar lives. min-height on #main keeps the row tall enough so
+// the grey doesn't bleed below content on short pages.
+@include media-breakpoint-up(lg) {
+    body:not(:has(.landingpage)) {
+        #layout {
+            gap: 0 !important;
+        }
+
+        header nav.navbar {
+            margin-bottom: 0 !important;
+        }
+
+        aside#sidebar {
+            padding-top: $spacer * 3;
+            padding-right: 0.9rem;
+        }
+
+        main#main {
+            padding-top: $spacer * 3;
+            padding-left: 2.1rem;
+            background-color: $white;
+        }
+
+        background: linear-gradient(to right, $light 0 50%, $white 50% 100%);
+    }
+}
+
+#main {
+    min-height: 100vh;
+}
+
+// Mobile: the sidebar collapses into a toggle button. Keep it light.
+@include media-breakpoint-down(lg) {
+    .sidebar-collapse {
+        background-color: $light;
+    }
+    #sidebar > nav .sidebar-title-wrapper {
+        background: $white;
+    }
+}
+
+
+/*-----Sidebar (RDMkit pattern: theme defaults + tiny spacing tweak)-----*/
+// Let the theme handle the item padding, the `::after` rounded-tile
+// active state (uses $primary-light = #9BCBDD), and the section title.
+// We only set the background colour on the column and a small top
+// margin on the list, mirroring RDMkit.
+#sidebar {
+    background: $light;
+}
+
+#side-nav > ul {
+    margin-top: $spacer * 0.5;
+}
+
+// Active tab — light blue at #9BCBDD is invisible on the #EEEEEE
+// sidebar bg, so override the theme's ::after to a stronger
+// orange-tinted tile, add a bold orange left bar, and bolden the text.
+#sidebar > nav > ul li a.active::after,
+#sidebar > nav > ul li a:hover::after {
+    background: rgba($accent-color, 0.22) !important;
+}
+
+#sidebar > nav > ul li:has(> a.active) {
+    &::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0.25rem;
+        bottom: 0.25rem;
+        width: 4px;
+        background-color: $accent-color;
+        border-radius: 2px;
+        z-index: 2;
+    }
+
+    > a.active {
+        font-weight: 700 !important;
+        color: $primary !important;
     }
 }
 

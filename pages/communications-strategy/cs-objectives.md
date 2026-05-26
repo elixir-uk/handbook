@@ -1,8 +1,13 @@
 ---
 title: Objectives
 description: The four ELIXIR-UK communications objectives — Belong, Grow, Amplify, Raise.
-editor: [Xenia Perez Sitja]
 page_id: cs-objectives
+related_pages:
+  communications_strategy:
+    - cs-audiences
+    - cs-implementation
+  brand:
+    - brand-goal
 ---
 
 Every implementation activity should serve at least one of these four. If it doesn't, ask why we're doing it.

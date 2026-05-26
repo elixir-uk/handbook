@@ -1,8 +1,13 @@
 ---
 title: Audiences & key messages
 description: The audiences ELIXIR-UK communicates with, and the single sentence each one hears from us.
-editor: [Xenia Perez Sitja]
 page_id: cs-audiences
+related_pages:
+  communications_strategy:
+    - cs-objectives
+    - cs-strategy
+  community_participation_model:
+    - cp-who
 ---
 
 A small set of audiences, each with a single key message. _The ELIXIR-UK boilerplate (standard 3–5 sentence description) will be added when supplied._
