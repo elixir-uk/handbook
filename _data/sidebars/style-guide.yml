@@ -1,0 +1,11 @@
+title: Style guide
+title_url: /style-guide
+subitems:
+  - title: Voice
+    url: /voice
+  - title: Do & don't
+    url: /do-and-dont
+  - title: Lexicon
+    url: /lexicon
+  - title: LLM system prompt
+    url: /llm-system-prompt

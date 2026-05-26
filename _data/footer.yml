@@ -1,0 +1,23 @@
+copyright: "© ELIXIR-UK"
+extra_line: "A living document. Brand, voice, strategy, and how the community works."
+columns:
+  - type: links
+    width: 4
+    children:
+      - url_text: Brand
+        url: /brand
+      - url_text: Style guide
+        url: /style-guide
+      - url_text: Communications strategy
+        url: /communications-strategy
+      - url_text: Community participation
+        url: /community-participation-model
+  - type: links
+    width: 4
+    children:
+      - url_text: ELIXIR Europe
+        url: https://elixir-europe.org
+      - url_text: ELIXIR-UK website
+        url: https://elixiruk.org
+      - url_text: Source on GitHub
+        url: https://github.com/elixir-uk/style-guide

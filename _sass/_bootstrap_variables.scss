@@ -1,0 +1,72 @@
+/*========================================================================
+  ELIXIR-UK Brand & Style Guide — palette
+  Canonical ELIXIR brand colours, sourced from the ELIXIR Hub /
+  ELIXIR-ELITMa toolkit-theme site. Navy primary, orange accent.
+========================================================================*/
+
+// ELIXIR canonical brand colours
+$primary:           #023452;  // ELIXIR navy
+$secondary:         #037EAB;  // ELIXIR mid blue
+$primary-light:     #9BCBDD;  // ELIXIR light blue
+$dark:              #001F33;  // ELIXIR near-black blue (body text + footer)
+$light:             #EEEEEE;  // ELIXIR light grey (surface fills, sidebar bg)
+$white:             #FFFFFF;
+
+$accent-color:       #F47D20;  // ELIXIR orange — links, accent, helix orange
+$accent-color-light: #FDF9F6;  // very pale orange wash
+
+// Derived tokens (named for clarity in custom_classes.scss)
+$ink:           $dark;             // body text
+$paper:         $white;            // body background
+$rule:          #DDE3E7;           // hairline borders, dividers (light blue-grey)
+$wash:          $light;            // subtle surface fills
+$slate:         #4A6577;           // secondary text — desaturated navy mid-tone
+$elixir-orange-soft: $accent-color-light;
+$elixir-orange-line: lighten($accent-color, 30%);  // ~#FACFA8
+
+/*-----Bootstrap mappings-----*/
+$success:     #198038;
+$info:        $primary-light;
+$warning:     #F1C21B;
+$danger:      #DA1E28;
+
+/*-----Custom Bootstrap variable overrides-----*/
+$component-active-bg: $accent-color;
+$dark-text:           $dark;
+$light-text:          $light;
+$light-background:    $light;
+
+$navbar-hover-color:           $light;
+$navbar-active:                $secondary;
+$navbar-toggler-border-color:  transparent;
+
+$body-bg:    $paper;
+$body-color: $dark;
+
+$link-color:       $accent-color;
+$link-decoration:  none;
+$link-hover-color: $secondary;
+
+$border-radius:        0.3rem;
+$btn-border-radius-sm: $border-radius;
+
+$card-border-width: 0;
+$card-bg:           transparent;
+$card-cap-bg:       $dark;
+
+$input-bg:               $primary;
+$input-group-addon-bg:   $primary;
+$input-border-width:     0;
+
+$hr-border-color:   $rule;
+$hr-border-width:   1px;
+$hr-margin-y:       2.5rem;
+
+$alert-border-width: 0;
+
+// Heading sizes
+$h1-font-size: 1rem * 3 !default;
+$h3-font-size: 1rem * 1.5 !default;
+$h4-font-size: 1rem * 1.1 !default;
+$h5-font-size: 1rem !default;
+$h6-font-size: 1rem !default;

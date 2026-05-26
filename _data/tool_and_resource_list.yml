@@ -1,0 +1,3 @@
+# Required by elixir-toolkit-theme-plugins. We don't use tool tagging on this site —
+# keep this file empty (just the comment + the empty list) so the plugin can load.
+[]

@@ -1,0 +1,83 @@
+/*========================================================================
+  ELIXIR-UK Brand & Style Guide — component variables
+  Tokens consumed by the elixir-toolkit-theme's component partials.
+  Mirrors the canonical ELIXIR brand (navy + orange accent + Lato).
+========================================================================*/
+
+/*-----Fonts-----*/
+//   theme = Lato            (primary — body, UI, headings)
+//   serif = Source Serif 4  (editorial accent — pull quotes, key statements)
+//   sans  = Work Sans       (alt sans for variable-weight needs)
+$font-family-theme:       "Lato", -apple-system, "Segoe UI", Roboto, sans-serif;
+$font-family-sans-serif:  "Lato", -apple-system, "Segoe UI", Roboto, sans-serif;
+$font-family-serif:       "Source Serif 4", Georgia, "Times New Roman", serif;
+$font-family-alt:         "Work Sans", "Lato", sans-serif;
+
+/*-----Headings-----*/
+$h2-color: $primary;
+$h3-color: $primary;
+
+/*-----Buttons hover style-----*/
+$btn-primary-bg-hover:    $secondary;
+$btn-primary-color-hover: $accent-color;
+
+/*-----Top navigation-----*/
+$topnav-bg:              $light;
+$topnav-brand-height:    4rem;
+$topnav-title-color:     $primary;
+$topnav-searchbar:       $white;
+
+/*-----Search-----*/
+$search-result-color: $accent-color;
+
+/*-----Sidebar-----*/
+$sidebar-bg:                 $light;
+$sidebar-color:              $dark;
+$sidebar-title-bg:           $light;
+$sidebar-link-color-active:  $primary;
+$sidebar-link-bg-active:     $primary-light;
+$sidebar-bg-active:          $primary-light;
+$sidebar-color-active:       $dark;
+
+/*-----Section navigation tiles-----*/
+$nav-card-bg:           $light;
+$nav-card-color:        $dark;
+$nav-card-bg-hover:     $primary-light;
+$nav-card-color-hover:  $dark;
+$nav-card-header-bg:    $dark;
+$nav-card-header-color: $secondary;
+$nav-card-badge-color:  $accent-color;
+$nav-card-badge-bg:     $dark;
+
+/*-----More information tiles-----*/
+$info-card-bg:           $light;
+$info-card-color:        $dark;
+$info-card-bg-hover:     $primary;
+$info-card-color-hover:  $white;
+
+/*-----Contributors cards-----*/
+$contr-card-bg: $light;
+
+/*-----Page metadata-----*/
+$page-metadata-bg:       $light;
+$page-metadata-link-bg:  $white;
+$contr-popover-bg:       $white;
+
+/*-----Events & news-----*/
+$news-border-color:  $primary;
+$news-title-bg:      $primary;
+$news-title-color:   $white;
+
+/*-----Default badge-----*/
+$badge-color:        $white;
+$badge-bg:           $primary;
+$badge-color-hover:  $white;
+$badge-bg-hover:     $accent-color;
+
+/*-----Footer-----*/
+$footer-bg:               $dark;
+$footer-color:            $white;
+$footer-link-color:       $white;
+$footer-link-color-hover: $secondary;
+$footer-copyright-bg:     rgba($white, 0.04);
+$footer-ett:              $accent-color;

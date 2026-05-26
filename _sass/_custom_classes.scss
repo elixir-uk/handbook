@@ -1,0 +1,307 @@
+/*========================================================================
+  ELIXIR-UK Brand & Style Guide — custom classes
+  Mostly mirrors elixir-europe-training/ELIXIR-ELITMa.
+  Section navigation tiles take inspiration from
+  elixir-europe/ds-handbook's related-pages (numbered cards + chevron CTA),
+  re-skinned to the ELIXIR brand (navy + orange) and Lato/Work Sans.
+========================================================================*/
+
+/*-----Body baseline-----*/
+body {
+    font-family: $font-family-sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: $paper;
+    color: $ink;
+}
+
+::selection      { color: $white; background: $accent-color; }
+::-moz-selection { color: $white; background: $accent-color; }
+
+
+/*-----Top navigation (ELITMa)-----*/
+.navbar-nav .nav-item > a {
+    &.active {
+        color: $white;
+        background-color: $primary-light;
+        border-radius: $border-radius;
+    }
+}
+
+header .navbar {
+    box-shadow: none !important;
+    background: $light-background !important;
+
+    .navbar-brand, .nav-link {
+        color: $primary !important;
+    }
+}
+
+#home {
+    header .navbar {
+        margin-bottom: 0 !important;
+        box-shadow: none !important;
+        background: $light-background !important;
+
+        .navbar-brand, .nav-link {
+            color: $primary !important;
+        }
+    }
+}
+
+// Topnav banner ("under reconstruction" notice)
+.topnav-banner, .topnav_banner {
+    background: $elixir-orange-soft;
+    color: $ink;
+    border-bottom: 1px solid $elixir-orange-line;
+    font-size: 0.875rem;
+}
+
+
+/*-----Footer (ELITMa)-----*/
+.footer-title {
+    font-family: $font-family-sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+footer .list-unstyled a {
+    font-size: 13px;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+footer .col-6.col-lg-6.d-flex.justify-content-lg-start {
+    color: $white;
+    font-size: 1.5rem;
+    font-weight: 200;
+    line-height: 110%;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+
+/*-----Headings (gentle, Lato bold, primary colour)-----*/
+#main {
+    h1, h2, h3, h4, h5, h6 {
+        font-family: $font-family-theme;
+        color: $primary;
+    }
+    h1 { font-weight: 700; }
+    h2 { font-weight: 700; margin-top: 2.5rem; margin-bottom: 0.75rem; }
+    h3 { font-weight: 700; margin-top: 1.75rem; margin-bottom: 0.5rem; }
+    h4 { font-weight: 700; margin-top: 1.25rem; color: $slate; }
+
+    p, li { color: $ink; }
+
+    strong, b { font-weight: 700; color: $ink; }
+
+    // Blockquotes are used as "to author" placeholders.
+    blockquote {
+        margin: 1.5rem 0;
+        padding: 0.25rem 0 0.25rem 1.25rem;
+        border-left: 2px solid $elixir-orange-line;
+        color: $slate;
+        font-style: italic;
+        p { color: $slate; margin-bottom: 0.5rem; }
+        p:last-child { margin-bottom: 0; }
+    }
+}
+
+
+/*-----Landing page (ELITMa)-----*/
+.landingpage {
+    h2 {
+        font-weight: 700;
+        font-family: $font-family-theme;
+    }
+
+    h3 {
+        font-weight: 600;
+        font-family: $font-family-theme;
+    }
+
+    .card {
+        &:hover {
+            box-shadow: $box-shadow;
+        }
+
+        .card-img-top {
+            width: unset;
+            padding: $card-spacer-x $card-spacer-x 0 $card-spacer-x;
+        }
+    }
+}
+
+
+/*-----Visual section (ELITMa)-----*/
+.visual {
+    background: $light-background;
+    padding: 30px 0;
+    margin-bottom: 0;
+}
+
+
+/*-----Download button (ELITMa)-----*/
+.btn-download {
+    @extend .btn;
+
+    background-color: $primary;
+    border: none;
+    color: $white;
+
+    border-radius: $btn-border-radius-sm;
+    font-weight: 600;
+    font-size: 0.875rem;
+    padding: 12px 28px;
+    text-decoration: $link-decoration;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 15px rgba($primary, 0.3);
+
+    &:hover {
+        background-color: $secondary;
+        color: $white;
+        transform: translateY(-2px);
+        box-shadow: 0 8px 25px rgba($primary, 0.5);
+    }
+
+    &:active {
+        transform: translateY(0);
+    }
+
+    .fas, .fa-solid {
+        transition: transform 0.2s ease;
+    }
+
+    &:hover .fas, &:hover .fa-solid {
+        transform: translateY(-1px);
+    }
+}
+
+
+/*-----Icon sizing helpers (ELITMa)-----*/
+.h-icon-8 { height: 8em; }
+.h-icon-6 { height: 6em; }
+.h-icon-5 { height: 5em; }
+.h-icon-4 { height: 4em; }
+
+
+/*-----Section navigation tiles (ds-handbook-inspired, ELIXIR-skinned)-----*/
+// Numbered cards with mono numeral top-right, chevron bottom-right that
+// slides on hover, navy headings, orange accent border on hover.
+.navigation-tiles {
+    counter-reset: card-num;
+    --bs-card-bg: transparent;
+    margin-bottom: 2rem;
+}
+
+.navigation-tiles .card {
+    counter-increment: card-num;
+    position: relative;
+    background: $white !important;
+    border: 1px solid $rule !important;
+    border-radius: $border-radius !important;
+    padding: 1.5rem 1.5rem 3rem 1.5rem;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+    height: 100%;
+    overflow: visible;
+
+    // Numeral, top-right
+    &::before {
+        content: counter(card-num, decimal-leading-zero);
+        position: absolute;
+        top: 1rem;
+        right: 1.25rem;
+        font-family: $font-family-monospace;
+        font-size: 0.85rem;
+        font-weight: 500;
+        letter-spacing: 0.06em;
+        color: rgba($ink, 0.4);
+    }
+
+    // Chevron, bottom-right
+    &::after {
+        content: "→";
+        position: absolute;
+        bottom: 1rem;
+        right: 1.25rem;
+        color: $accent-color;
+        font-size: 1.25rem;
+        font-weight: 600;
+        line-height: 1;
+        transition: transform 0.25s ease;
+    }
+
+    &:hover {
+        border-color: $accent-color !important;
+        box-shadow: 0 8px 22px -8px rgba($primary, 0.18);
+        transform: translateY(-2px);
+
+        &::after {
+            transform: translateX(0.45rem);
+        }
+    }
+
+    .card-body {
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 0.4rem;
+    }
+
+    .section-title {
+        font-family: $font-family-theme;
+        font-weight: 700;
+        font-size: 1.125rem;
+        color: $primary !important;
+        text-decoration: none;
+        border-bottom: 0 !important;
+        margin-top: 0.5rem;
+
+        &:hover { color: $accent-color !important; }
+    }
+
+    .card-text {
+        color: $ink;
+        font-size: 0.9375rem;
+        line-height: 1.5;
+        margin-bottom: 0;
+    }
+}
+
+
+/*-----Task list checkboxes (ELITMa)-----*/
+ul.task-list {
+    list-style: none;
+    padding-left: 0;
+
+    li.task-list-item {
+        padding-left: 0;
+        margin-bottom: 0.5rem;
+
+        input[type="checkbox"] {
+            margin-right: 0.5rem;
+            accent-color: $primary;
+        }
+    }
+}
+
+
+/*-----Mobile (ELITMa)-----*/
+@media screen and (max-width: 768px) {
+    .unit-lesson-plan {
+        display: block;
+    }
+    .search-nav-item {
+        display: block;
+
+        &:before {
+            display: none;
+        }
+    }
+}

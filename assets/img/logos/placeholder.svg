@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <!-- Placeholder for the ELIXIR-UK primary logo. Replace once recovered. -->
+  <rect width="400" height="200" fill="#fff" stroke="#ddd" stroke-dasharray="6 6"/>
+  <text x="200" y="100" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#888">primary logo placeholder</text>
+  <text x="200" y="125" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#aaa">replace with elixir-uk-logo-primary.svg</text>
+</svg>
