@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Stakeholder influence-by-interest matrix with eight ELIXIR-UK audiences plotted across four quadrants. Keep satisfied (top-left, high influence and low interest): ELIXIR Hub and other Nodes. Manage closely (top-right, high influence and high interest): ELIXIR-UK members (active) and Funders. Monitor (bottom-left, low influence and low interest): Potential members and Media and public. Keep informed (bottom-right, low influence and high interest): ELIXIR-UK members (inactive), Other UK data organisations and Users of ELIXIR-UK resources.">
+  <rect x="70" y="20" width="255" height="190" fill="#e8edf2"/>
+  <rect x="325" y="20" width="255" height="190" fill="#fceee0"/>
+  <rect x="70" y="210" width="255" height="190" fill="#f4f4f4"/>
+  <rect x="325" y="210" width="255" height="190" fill="#ebf0f3"/>
+
+  <text x="90" y="45" font-family="Lato, sans-serif" font-size="13" font-weight="700" fill="#023452" opacity="0.55">Keep satisfied</text>
+  <text x="560" y="45" font-family="Lato, sans-serif" font-size="13" font-weight="700" fill="#023452" opacity="0.55" text-anchor="end">Manage closely</text>
+  <text x="90" y="395" font-family="Lato, sans-serif" font-size="13" font-weight="700" fill="#023452" opacity="0.55">Monitor</text>
+  <text x="560" y="395" font-family="Lato, sans-serif" font-size="13" font-weight="700" fill="#023452" opacity="0.55" text-anchor="end">Keep informed</text>
+
+  <line x1="70" y1="400" x2="580" y2="400" stroke="#023452" stroke-width="1.5"/>
+  <line x1="70" y1="20" x2="70" y2="400" stroke="#023452" stroke-width="1.5"/>
+  <line x1="325" y1="20" x2="325" y2="400" stroke="#023452" stroke-width="0.5" opacity="0.4"/>
+  <line x1="70" y1="210" x2="580" y2="210" stroke="#023452" stroke-width="0.5" opacity="0.4"/>
+
+  <text x="62" y="30" font-family="Lato, sans-serif" font-size="11" fill="#023452" text-anchor="end">High</text>
+  <text x="62" y="404" font-family="Lato, sans-serif" font-size="11" fill="#023452" text-anchor="end">Low</text>
+  <text x="20" y="210" font-family="Lato, sans-serif" font-size="12" font-weight="600" fill="#023452" text-anchor="middle" transform="rotate(-90 20 210)">INFLUENCE</text>
+
+  <text x="75" y="418" font-family="Lato, sans-serif" font-size="11" fill="#023452" text-anchor="start">Low</text>
+  <text x="575" y="418" font-family="Lato, sans-serif" font-size="11" fill="#023452" text-anchor="end">High</text>
+  <text x="325" y="440" font-family="Lato, sans-serif" font-size="12" font-weight="600" fill="#023452" text-anchor="middle">INTEREST</text>
+
+  <circle cx="520" cy="70" r="5" fill="#023452"/>
+  <text x="513" y="74" font-family="Lato, sans-serif" font-size="11" font-weight="600" fill="#023452" text-anchor="end">Members (active)</text>
+
+  <circle cx="465" cy="130" r="5" fill="#023452"/>
+  <text x="458" y="134" font-family="Lato, sans-serif" font-size="11" font-weight="600" fill="#023452" text-anchor="end">Funders</text>
+
+  <circle cx="195" cy="140" r="5" fill="#023452"/>
+  <text x="205" y="144" font-family="Lato, sans-serif" font-size="11" font-weight="600" fill="#023452">ELIXIR Hub &amp; Nodes</text>
+
+  <circle cx="385" cy="260" r="5" fill="#023452"/>
+  <text x="395" y="264" font-family="Lato, sans-serif" font-size="11" font-weight="600" fill="#023452">Members (inactive)</text>
+
+  <circle cx="425" cy="305" r="5" fill="#023452"/>
+  <text x="435" y="309" font-family="Lato, sans-serif" font-size="11" font-weight="600" fill="#023452">Other UK data orgs</text>
+
+  <circle cx="545" cy="360" r="5" fill="#023452"/>
+  <text x="538" y="364" font-family="Lato, sans-serif" font-size="11" font-weight="600" fill="#023452" text-anchor="end">Users</text>
+
+  <circle cx="235" cy="280" r="5" fill="#023452"/>
+  <text x="245" y="284" font-family="Lato, sans-serif" font-size="11" font-weight="600" fill="#023452">Potential members</text>
+
+  <circle cx="135" cy="370" r="5" fill="#023452"/>
+  <text x="145" y="374" font-family="Lato, sans-serif" font-size="11" font-weight="600" fill="#023452">Media &amp; public</text>
+</svg>

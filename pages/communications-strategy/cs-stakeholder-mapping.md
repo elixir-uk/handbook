@@ -1,49 +1,115 @@
 ---
 title: Stakeholder mapping
-description: Mapping ELIXIR-UK's stakeholders by influence and interest, to prioritise comms effort and channels.
+description: Mapping ELIXIR-UK's stakeholders by influence and interest – the matrix, the four engagement modes, and the full per-audience detail.
 page_id: cs-stakeholder-mapping
 related_pages:
   communications_strategy:
     - cs-audiences
     - cs-strategy
+    - cs-crisis
 ---
 
-A working tool, not a finished artefact. The audience list on [Audiences & key messages](/cs-audiences) names *who* we communicate with. This page is *how we prioritise* the effort across them – by influence on our mission, by interest in our work, and by the resulting engagement strategy.
+A working tool, not a finished artefact. The headline list on [Audiences & key messages](/cs-audiences) names *who* we communicate with. This page is *how we prioritise* the effort across them – by influence on our mission, by interest in our work, and by the resulting engagement strategy. The full per-audience detail (why each matters, what we want, channels) lives here too.
 
-## Influence × Interest matrix
+## The matrix
 
-The classic four-quadrant view. *Influence* is how much an audience can shape ELIXIR-UK's ability to deliver its mission (funding, policy, member recruitment, partnership). *Interest* is how much they care about what we do day-to-day.
+*Influence* is how much an audience can shape ELIXIR-UK's ability to deliver its mission (funding, policy, member recruitment, partnership). *Interest* is how much they care about what we do day-to-day.
 
-| | Low influence | High influence |
-|---|---|---|
-| **High interest** | **Keep informed** – regular updates, opportunities to engage. | **Manage closely** – direct relationship, frequent contact, named owner. |
-| **Low interest** | **Monitor** – minimal active effort; respond when they reach out. | **Keep satisfied** – periodic high-level updates; surface when relevant. |
+![Stakeholder influence-by-interest matrix with eight ELIXIR-UK audiences named on the chart, placed across the four quadrants Keep satisfied, Manage closely, Monitor and Keep informed.](/assets/img/communications-strategy/stakeholder-influence-interest-matrix.svg){:style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;"}
 
-## Where each audience sits
+### What each quadrant means
 
-*To author – this needs a working session with the Coordination Office to place each named audience from [Audiences & key messages](/cs-audiences) on the matrix above, with the reasoning recorded.*
+- **Manage closely** – named-relationship work. Direct meetings, briefings, drafts shared in advance. Frequent contact.
+- **Keep satisfied** – periodic high-level updates. Surface when relevant; don't overwhelm.
+- **Keep informed** – scheduled, scannable comms. Newsletter, webstories, social. Easy to dip in and out.
+- **Monitor** – passive presence. Website, social feed. Respond if they reach out; don't actively pursue.
 
-A first-pass starting point, to be refined:
+## Manage closely
 
-| Audience | Influence | Interest | Quadrant |
-|---|---|---|---|
-| Funders (UKRI, Wellcome, EU) | High | Medium–High | Manage closely |
-| ELIXIR-UK members (active) | High | High | Manage closely |
-| ELIXIR-UK members (inactive) | Medium | Low–Medium | Keep informed |
-| Potential new members | Medium | Low | Keep informed |
-| Users of ELIXIR-UK resources | Low | High | Keep informed |
-| ELIXIR Hub & other Nodes | High | Medium | Keep satisfied |
-| Other UK data organisations | Medium | Medium | Keep informed |
-| Media & public | Low | Variable | Monitor |
+The two audiences where high influence meets high interest. These need named-relationship work.
 
-## How to use this map
+### Funders
 
-When planning a piece of comms, ask: *which quadrant is this for, and does our channel/cadence match the quadrant's needs?*
+Charities and research councils that have funded or might fund ELIXIR-UK. Historically: UKRI (BBSRC leading, MRC, NERC), Wellcome Trust, EU (EXCELERATE, IMIs, EOSC-Life), ELIXIR itself.
 
-- **Manage closely** stakeholders need named-relationship work – direct meetings, briefings, drafts shared in advance.
-- **Keep informed** stakeholders need scheduled, scannable comms – newsletter, webstories, social.
-- **Keep satisfied** stakeholders need targeted high-level summaries – quarterly briefs, conference moments, formal reports.
-- **Monitor** stakeholders need a passive presence – website, social feed.
+- **Why they matter:** without funding, there's no ELIXIR-UK.
+- **What we want:** funding for ELIXIR-UK-related activities; understanding of their priorities; their feedback on life-science RI needs.
+- **Key message:** _"ELIXIR-UK activities are a cost-efficient way of furthering your mission."_
+
+### ELIXIR-UK members (active)
+
+PIs, software developers, training coordinators, Joint Heads of Nodes, Tech/Training Coordinators, Coordination Office staff – anyone delivering Node Resources.
+
+- **Why they matter:** they do the voluntary work the Node depends on. Their reputation drives ELIXIR-UK's.
+- **What they pay:** time, energy, resources.
+- **What they get:** ELIXIR-specific funding access; UK/European bioinformatics network; one-voice influence with funders; raised personal profile; community of peers.
+- **What we want:** continue or increase engagement; convert "lurkers" to active; organise collaborations.
+- **Key message:** _"The effort you put into working with ELIXIR-UK is worth it."_
+
+## Keep satisfied
+
+High influence, lower day-to-day interest. Targeted updates, not constant comms.
+
+### ELIXIR Hub and other Nodes
+
+People at the ELIXIR Hub and at other country Nodes. Particularly those making decisions about Node influence within ELIXIR.
+
+- **Why they matter:** high profile in the network means more influence and more inclusion in cross-Node work.
+- **What we want:** ELIXIR-UK seen as a major contributor.
+- **Key message:** _"ELIXIR-UK makes a major contribution to the success of ELIXIR."_
+- **Channels:** ELIXIR Hub Weekly Brief, Europe All-Hands, social, website.
+
+## Keep informed
+
+Lower influence individually, but high interest. Scheduled, scannable comms reach them best.
+
+### ELIXIR-UK members (inactive)
+
+Staff at member organisations not currently engaged with ELIXIR-UK.
+
+- **Why they matter:** single-point-of-failure risk if the one engaged person at an org leaves. Broader base reduces gatekeeper effect.
+- **What we want:** lower the activation barrier; offer entry points that fit them.
+- **Key message:** _to author._
+
+### Users of ELIXIR-UK resources
+
+Anyone using ELIXIR-UK resources worldwide. Of particular relevance: users who advise funders on grant decisions.
+
+- **Why they matter:** grant reviewers are often users – recognition of ELIXIR-UK by reviewers helps funding bids.
+- **What we want:** name recognition; awareness of ELIXIR-UK's value to their work.
+- **Key message:** _"ELIXIR-UK exists, and it helps you get your work done more effectively and efficiently."_
+
+### Other UK data organisations
+
+UK organisations and networks in the biological-data space – Software Sustainability Institute, Health Data UK, RDA-UK, UKRI-funded data infrastructures.
+
+- **Why they matter:** mission overlap and greater reach in their specific communities. Partnership extends ours.
+- **Key message:** _"ELIXIR-UK can work in partnership to further your mission."_
+- **Channels:** direct meetings, networking, social, website.
+
+## Monitor
+
+Lower influence, lower or variable interest. Passive presence; respond when they reach out.
+
+### Potential new ELIXIR-UK members
+
+Individuals at UK research-performing organisations that aren't ELIXIR-UK members. Membership is free.
+
+- **What we want:** understand the reasons they stay disconnected.
+- **Key message:** _to author._
+
+### Other potential member organisations
+
+UK research-performing organisations not currently ELIXIR-UK members. Membership is free for them.
+
+- **What we do:** publish the info; don't actively pursue.
+- **Key message:** _"There is value to your institution in becoming a Consortium member."_
+
+### Media & the public
+
+Not a primary consumer of our comms. But growing public interest in health-related research data helps build profile and justify funding.
+
+- **Key message:** _to author._
 
 ## Revisiting the map
 
@@ -51,5 +117,5 @@ The matrix changes when ELIXIR-UK's situation changes. Review at least annually,
 
 - A funding cycle is approaching.
 - A new partnership or member joins.
-- An external event shifts public/policy interest in life-science data.
+- An external event shifts public or policy interest in life-science data.
 - The 2024 SIAB-style reviews land.
