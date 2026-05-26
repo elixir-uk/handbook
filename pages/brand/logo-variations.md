@@ -1,5 +1,7 @@
 ---
 title: Logo variations
+page_id: logo-variations
+type: brand
 ---
 
 From the surviving brand guidelines page, two variations are documented:

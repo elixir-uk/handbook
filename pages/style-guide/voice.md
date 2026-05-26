@@ -1,5 +1,7 @@
 ---
 title: Voice
+page_id: voice
+type: style_guide
 ---
 
 ELIXIR-UK writes like a reporter, not an announcer: the community's work is the story; we're the byline.

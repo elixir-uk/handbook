@@ -28,7 +28,11 @@
 {%- assign all = site.data.tool_and_resource_list -%}
 {%- assign resources = "" | split: "" -%}
 
-{%- if key -%}
+{%- comment -%}
+  Skip rendering on pages that opt out (e.g. section landing pages where
+  the section-navigation-tiles already do the discovery job).
+{%- endcomment -%}
+{%- if page.hide_resources != true and key -%}
   {%- for r in all -%}
     {%- if r.section contains key -%}
       {%- assign resources = resources | push: r -%}

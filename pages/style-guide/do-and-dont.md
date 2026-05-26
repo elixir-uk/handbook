@@ -1,5 +1,7 @@
 ---
 title: Do & don't
+page_id: do-and-dont
+type: style_guide
 ---
 
 Worked examples – the fastest way to absorb the voice and the most useful raw material for the [LLM system prompt](/llm-system-prompt). Each pair is built from a real ELIXIR-UK publication pattern, lightly paraphrased.

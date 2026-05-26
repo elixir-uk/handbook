@@ -2,6 +2,7 @@
 title: Audiences & key messages
 description: The audiences ELIXIR-UK communicates with, the umbrella mission and tagline, and the one-line key message for each audience.
 page_id: cs-audiences
+type: communications_strategy
 related_pages:
   communications_strategy:
     - cs-objectives

@@ -2,6 +2,7 @@
 title: Brand keywords
 description: The adjectives that describe how ELIXIR-UK feels – a gut-check when designing, writing or briefing collaborators.
 page_id: brand-keywords
+type: brand
 related_pages:
   brand:
     - boilerplate

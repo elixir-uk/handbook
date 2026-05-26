@@ -2,6 +2,7 @@
 title: Objectives
 description: The long-term vision and the four ELIXIR-UK communications objectives – Belong, Grow, Amplify, Raise.
 page_id: cs-objectives
+type: communications_strategy
 related_pages:
   communications_strategy:
     - cs-audiences

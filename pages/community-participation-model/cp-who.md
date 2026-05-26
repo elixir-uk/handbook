@@ -2,6 +2,7 @@
 title: Who the community is
 description: The roles, institutions, and individuals that make up the ELIXIR-UK community.
 page_id: cp-who
+type: community_participation_model
 related_pages:
   community_participation_model:
     - cp-pathways

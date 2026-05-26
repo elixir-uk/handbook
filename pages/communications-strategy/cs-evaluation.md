@@ -2,6 +2,7 @@
 title: Evaluation
 description: What we measure, what we don't, and how we report.
 page_id: cs-evaluation
+type: communications_strategy
 related_pages:
   communications_strategy:
     - cs-implementation

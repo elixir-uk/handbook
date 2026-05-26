@@ -8,6 +8,7 @@ related_pages:
     - boilerplate
   style_guide:
     - conventions
+hide_resources: true
 ---
 
 How ELIXIR-UK plans, runs and measures its communications. Structured around **OASIS** – **O**bjectives, **A**udience, **S**trategy, **I**mplementation, **S**coring – the [UK Government Communication Service campaign planning framework](https://www.communications.gov.uk/guidance/marketing/delivering-government-campaigns/guide-to-campaign-planning-oasis/), and aligned with the ELIXIR-STEERS Node Communications Toolkit (Nov 2025).
@@ -42,4 +43,4 @@ Under load (limited time, resources or political capital), when one value is com
 
 ## In this section
 
-{% include section-navigation-tiles.html type="communications_strategy" except="communications-strategy.md, cs-stakeholder-mapping.md, cs-crisis.md" %}
+{% include section-navigation-tiles.html custom="cs-objectives, cs-audiences, cs-strategy, cs-implementation, cs-evaluation" sort=false %}

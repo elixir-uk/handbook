@@ -2,6 +2,7 @@
 title: Crisis communications
 description: How ELIXIR-UK responds when something goes wrong – sits under Audiences & key messages because the audience determines the response.
 page_id: cs-crisis
+type: communications_strategy
 related_pages:
   communications_strategy:
     - cs-audiences

@@ -2,6 +2,7 @@
 title: Community participation model
 description: How people engage with ELIXIR-UK — the rules of the road, who's in the community, how participation deepens, and how we recognise contribution.
 page_id: community-participation-model
+hide_resources: true
 ---
 
 ELIXIR-UK exists because a community of researchers, trainers, data stewards, and partners builds it. This section names that relationship: rules, roles, pathways, recognition.
@@ -17,7 +18,7 @@ The [Participation guidelines](/cp-guidelines) are the floor — start there. Ev
 
 ## In this section
 
-{% include section-navigation-tiles.html type="community_participation_model" except="community-participation-model.md" %}
+{% include section-navigation-tiles.html custom="cp-guidelines, cp-who, cp-pathways, cp-engagement, cp-governance" sort=false %}
 
 ## Companion sections
 

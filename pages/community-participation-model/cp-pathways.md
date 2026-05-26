@@ -2,6 +2,7 @@
 title: Pathways
 description: How participation deepens over time, from newcomer to community leader. Includes the buddy model for entry.
 page_id: cp-pathways
+type: community_participation_model
 related_pages:
   community_participation_model:
     - cp-engagement

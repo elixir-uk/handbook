@@ -1,6 +1,7 @@
 ---
 title: Imagery
 page_id: imagery
+type: brand
 ---
 
 The images we publish carry as much of the ELIXIR-UK voice as the words. This page sets out where to find them, what they should look like, and what to avoid.

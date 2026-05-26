@@ -2,6 +2,7 @@
 title: Templates & downloads
 description: Working files – logos, document templates, fonts, imagery and the external resources ELIXIR-UK inherits from.
 page_id: templates
+type: brand
 ---
 
 Everything you need to make something on-brand, grouped by which section of the handbook the resource belongs to. A resource can appear in more than one section.

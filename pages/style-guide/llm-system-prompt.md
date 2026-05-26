@@ -1,5 +1,7 @@
 ---
 title: LLM system prompt
+page_id: llm-system-prompt
+type: style_guide
 ---
 
 Two ways to put this style guide in front of a language model. Pick the one that matches the tool you're using.

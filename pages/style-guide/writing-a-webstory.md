@@ -1,5 +1,7 @@
 ---
 title: Writing a webstory
+page_id: writing-a-webstory
+type: style_guide
 ---
 
 A webstory is the unit of news on the ELIXIR-UK site. This page covers how to structure one and what artifacts to ship alongside it (title, excerpt, slug, social posts, banner image).

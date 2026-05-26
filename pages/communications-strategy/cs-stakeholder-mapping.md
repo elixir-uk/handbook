@@ -2,6 +2,7 @@
 title: Stakeholder mapping
 description: Mapping ELIXIR-UK's stakeholders by influence and interest – the matrix, the four engagement modes, and the full per-audience detail.
 page_id: cs-stakeholder-mapping
+type: communications_strategy
 related_pages:
   communications_strategy:
     - cs-audiences

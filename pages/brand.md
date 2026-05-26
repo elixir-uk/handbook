@@ -2,6 +2,7 @@
 title: Brand
 description: The ELIXIR-UK visual identity – who we are, what we look like and the working files our members and Coordination Office use.
 page_id: brand
+hide_resources: true
 ---
 
 ELIXIR-UK is the UK Node of [ELIXIR](https://elixir-europe.org), the European research infrastructure for life science data. We are a network of UK research-performing organisations: members deliver the work, and the Node connects them, advocates for them and helps set common standards.
@@ -38,7 +39,7 @@ When time, budget or attention is tight, these are not priorities to drop. They 
 
 ## In this section
 
-{% include section-navigation-tiles.html type="brand" except="brand.md, logo-variations.md, logo-clearspace.md" %}
+{% include section-navigation-tiles.html custom="brand-keywords, logos, colour, typography, imagery, boilerplate, templates" sort=false %}
 
 ## Companion sections
 

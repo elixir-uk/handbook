@@ -1,5 +1,7 @@
 ---
 title: Logos
+page_id: logos
+type: brand
 ---
 
 The ELIXIR-UK mark combines a DNA helix with the "elixir" wordmark, where the helix forms the X. "UNITED KINGDOM" sits as a subtitle.

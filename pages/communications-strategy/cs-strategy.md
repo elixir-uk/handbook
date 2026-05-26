@@ -2,6 +2,7 @@
 title: Strategy & resources
 description: Principles, people, money, and channels available to ELIXIR-UK comms.
 page_id: cs-strategy
+type: communications_strategy
 related_pages:
   communications_strategy:
     - cs-objectives

@@ -1,6 +1,7 @@
 ---
 title: Implementation
 description: The activities ELIXIR-UK runs, their status, audiences, objectives served, and how each is measured.
+type: communications_strategy
 page_id: cs-implementation
 related_pages:
   communications_strategy:

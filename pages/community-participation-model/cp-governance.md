@@ -2,6 +2,7 @@
 title: Governance & recognition
 description: How decisions get made in ELIXIR-UK, and how contribution is acknowledged.
 page_id: cp-governance
+type: community_participation_model
 related_pages:
   community_participation_model:
     - cp-guidelines

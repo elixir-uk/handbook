@@ -2,6 +2,7 @@
 title: How we engage
 description: The events, programmes, channels, and one-to-one work that hold the ELIXIR-UK community together.
 page_id: cp-engagement
+type: community_participation_model
 related_pages:
   community_participation_model:
     - cp-pathways

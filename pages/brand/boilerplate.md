@@ -1,5 +1,7 @@
 ---
 title: Boilerplate
+page_id: boilerplate
+type: brand
 ---
 
 Canonical descriptive text about ELIXIR-UK. Use these paragraphs verbatim wherever you need a standard description – press releases, partnership pages, grant proposals, conference programmes, email signatures, footers. Don't rewrite them inline; if a paragraph needs to change, change it here so every downstream copy stays in sync.

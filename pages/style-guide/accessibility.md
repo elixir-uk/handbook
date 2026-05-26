@@ -1,5 +1,7 @@
 ---
 title: Accessibility
+page_id: accessibility
+type: style_guide
 ---
 
 ELIXIR-UK writes for researchers, research technical professionals, students, funders and – to some extent – the public. That audience spans the full range of abilities. This page covers what every contributor needs to do – in writing and in structure – to make sure our content works for everyone, including people using screen readers, keyboard navigation or assistive software.

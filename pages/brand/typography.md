@@ -1,5 +1,7 @@
 ---
 title: Typography
+page_id: typography
+type: brand
 ---
 
 ## Primary typeface

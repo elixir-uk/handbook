@@ -2,6 +2,7 @@
 title: Participation guidelines
 description: The four principles all ELIXIR-UK community spaces operate by, and what happens when behaviour doesn't align with them. Based on the ELIXIR Hub Code of Conduct.
 page_id: cp-guidelines
+type: community_participation_model
 related_pages:
   community_participation_model:
     - cp-who

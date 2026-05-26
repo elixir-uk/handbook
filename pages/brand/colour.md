@@ -1,5 +1,7 @@
 ---
 title: Colour
+page_id: colour
+type: brand
 ---
 
 ## Brand colour
