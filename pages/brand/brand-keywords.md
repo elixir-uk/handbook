@@ -8,7 +8,7 @@ related_pages:
   style_guide:
     - voice
   communications_strategy:
-    - cs-foundation
+    - communications-strategy
 ---
 
 The words that describe how ELIXIR-UK feels in practice. Use these as a gut-check when designing, writing, or briefing collaborators – the brand's character distilled into adjectives.

@@ -4,7 +4,7 @@ title: Do & don't
 
 Worked examples – the fastest way to absorb the voice and the most useful raw material for the [LLM system prompt](/llm-system-prompt). Each pair is built from a real ELIXIR-UK publication pattern, lightly paraphrased.
 
-{% include callout.html type="note" content="**Grand statements vs content-heavy copy.** Most editorial work is **content-heavy** – describing a paper, announcing a service, recapping an event. The rules below apply. A small subset of editorial work is **grand-statement** – hero openers, section titles that need to land, taglines, the [approved mission and vision](/cs-foundation). There, language we'd cut from content-heavy copy (like *world-class*, *world-leading*, *cutting-edge*, *state-of-the-art*) can earn its place because the job is rhetorical weight, not information. Ask which mode your sentence is in." %}
+{% include callout.html type="note" content="**Grand statements vs content-heavy copy.** Most editorial work is **content-heavy** – describing a paper, announcing a service, recapping an event. The rules below apply. A small subset of editorial work is **grand-statement** – hero openers, section titles that need to land, taglines, the [approved mission and vision](/communications-strategy). There, language we'd cut from content-heavy copy (like *world-class*, *world-leading*, *cutting-edge*, *state-of-the-art*) can earn its place because the job is rhetorical weight, not information. Ask which mode your sentence is in." %}
 
 ## Opening a webstory
 
@@ -136,7 +136,7 @@ These aren't banned – sometimes they are the most precise word for the job. Bu
 | stakeholder | in formal governance contexts where you genuinely mean all parties | **partner**, **member**, **funder**, **user** – pick the specific one |
 | solution | in commercial / procurement contexts | **tool**, **service**, **method** – pick the specific one |
 | vibrant | rarely | delete |
-| world-class / world-leading | grand statements (hero openers, taglines, the approved [mission/vision](/cs-foundation)), or externally-verified contexts | content-heavy copy – delete |
+| world-class / world-leading | grand statements (hero openers, taglines, the approved [mission/vision](/communications-strategy)), or externally-verified contexts | content-heavy copy – delete |
 | exciting | when you can justify why | otherwise delete; say *why* it's worth attention |
 
 ## Add your own

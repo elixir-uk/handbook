@@ -1,14 +1,22 @@
 ---
 title: Objectives
-description: The four ELIXIR-UK communications objectives — Belong, Grow, Amplify, Raise.
+description: The long-term vision and the four ELIXIR-UK communications objectives – Belong, Grow, Amplify, Raise.
 page_id: cs-objectives
 related_pages:
   communications_strategy:
     - cs-audiences
     - cs-implementation
   brand:
-    - brand-goal
+    - brand-keywords
 ---
+
+## Vision
+
+> A UK research ecosystem where every life-science researcher and technical professional shapes and benefits from a world-leading, collaborative and FAIR digital research infrastructure that is AI-ready.
+
+Approved 2025. The previous strategy didn't articulate the vision as a single sentence. Everything below is how we get there.
+
+## Objectives
 
 Every implementation activity should serve at least one of these four. If it doesn't, ask why we're doing it.
 

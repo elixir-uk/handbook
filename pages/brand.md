@@ -14,7 +14,7 @@ Three principles shape every choice in this section.
 
 **We point at the network, not at ELIXIR-UK as an institution.** The identity makes the connections between member organisations visible. ELIXIR-UK as a body has its own coordinating role, but the people doing the science are the members.
 
-**We hold a dual identity.** To funders we present as a Research Infrastructure; to our members and partners we operate as a distributed network. Both framings are true, and the visual and verbal style has to hold both without one cancelling out the other.
+{% include callout.html type="important" content="**We hold a dual identity.** To funders we present as a Research Infrastructure; to our members and partners we operate as a distributed network. Both framings are true, and the visual and verbal style has to hold both without one cancelling out the other." %}
 
 **The work belongs to its authors.** Names, institutions and concrete contributions sit in the foreground. ELIXIR-UK appears as the byline rather than the headline. See [Voice → Credit where credit is due](/voice#3-credit-where-credit-is-due) for how this lands in writing.
 
@@ -42,6 +42,6 @@ When time, budget or attention is tight, these are not priorities to drop. They 
 
 ## Companion sections
 
-- **Mission, vision, tagline** – [foundational statements in Communications strategy](/cs-foundation).
+- **Mission, vision, tagline** – [foundational statements in Communications strategy](/communications-strategy).
 - **Voice and writing** – [Style guide](/style-guide).
 - **Channels and cadence** – [Communications strategy](/communications-strategy).
