@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" role="img" aria-label="Tidy aligned grid (on-brand) versus scattered misaligned arrangement (off-brand). On the left, a 3 by 2 grid of identical rounded squares. On the right, the same number of rounded squares in varying sizes and rotations, misaligned.">
+  <g transform="translate(20, 20)">
+    <rect x="0" y="0" width="40" height="40" rx="6" fill="#023452"/>
+    <rect x="50" y="0" width="40" height="40" rx="6" fill="#023452"/>
+    <rect x="100" y="0" width="40" height="40" rx="6" fill="#023452"/>
+    <rect x="0" y="50" width="40" height="40" rx="6" fill="#F47D20"/>
+    <rect x="50" y="50" width="40" height="40" rx="6" fill="#F47D20"/>
+    <rect x="100" y="50" width="40" height="40" rx="6" fill="#F47D20"/>
+  </g>
+  <text x="20" y="165" font-family="Lato, sans-serif" font-size="14" font-weight="600" fill="#023452">✓ Tidy grid, consistent spacing</text>
+  <g transform="translate(330, 20)">
+    <rect x="0" y="8" width="38" height="38" rx="6" fill="#023452" transform="rotate(-6 19 27)"/>
+    <rect x="55" y="0" width="32" height="48" rx="6" fill="#F47D20" transform="rotate(10 71 24)"/>
+    <rect x="110" y="12" width="44" height="32" rx="6" fill="#023452" transform="rotate(-3 132 28)"/>
+    <rect x="20" y="62" width="36" height="36" rx="6" fill="#F47D20" transform="rotate(7 38 80)"/>
+    <rect x="72" y="78" width="48" height="38" rx="6" fill="#023452" transform="rotate(-12 96 97)"/>
+    <rect x="135" y="58" width="34" height="42" rx="6" fill="#F47D20" transform="rotate(6 152 79)"/>
+  </g>
+  <text x="330" y="165" font-family="Lato, sans-serif" font-size="14" font-weight="600" fill="#023452">✗ Misaligned, varying sizes</text>
+</svg>

@@ -1,5 +1,6 @@
 ---
 title: Imagery
+page_id: imagery
 ---
 
 The images we publish carry as much of the ELIXIR-UK voice as the words. This page sets out where to find them, what they should look like, and what to avoid.
@@ -91,17 +92,6 @@ For news banners about concepts, papers, services or topics where there is no sp
 
 {% include callout.html type="tip" content="**Take photos at every event.** The single best source of on-brand imagery is your own archive. Assign someone (or rotate) to photograph during sessions, breaks and conversations. A library of 200 honest event photos is worth more than a paid stock subscription." %}
 
-## Resources and downloads
-
-The canonical links for the assets named above. Items marked *behind login* are restricted to ELIXIR-UK contributors – email [contact@elixiruknode.org](mailto:contact@elixiruknode.org) for access.
-
-| Resource | Description | Link |
-|---|---|---|
-| **ELIXIR-UK isometric illustration set** | The licensed isometric assets. ELIXIR-UK use only. | *[TBD – behind login]* |
-| **Social media banner template** | Template for social banners with the brand overlay and helix motif baked in. | *[TBD]* |
-| **ELIXIR Europe Flickr** | European-level event photography. Open access. | [flickr.com/photos/elixir-europe](https://www.flickr.com/photos/elixir-europe/) |
-| **ELIXIR-UK photo archive** | Our own event photography. | *[TBD – behind login]* |
-
 ## Iconography
 
 {% include callout.html type="note" content="ELIXIR-UK doesn't have a dedicated icon set yet. The toolkit theme ships with **Font Awesome**, which is what the [callouts](/style-guide) and the rest of the site use – reach for it first." %}
@@ -139,37 +129,11 @@ Two structural cues we use across the site that quietly signal what ELIXIR-UK is
 
 ### Rounded shapes vs hard-edged
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;" role="img" aria-label="Rounded shapes (organic, on-brand) versus hard-edged rectangles (off-brand). On the left, a navy rounded-corner panel and an orange circular profile. On the right, the same elements as sharp-cornered rectangles.">
-  <rect x="20" y="20" width="100" height="100" rx="18" fill="#023452"/>
-  <circle cx="200" cy="70" r="50" fill="#F47D20"/>
-  <text x="20" y="165" font-family="Lato, sans-serif" font-size="14" font-weight="600" fill="#023452">✓ Rounded panels, circular profiles</text>
-  <rect x="320" y="20" width="100" height="100" fill="#023452"/>
-  <rect x="450" y="20" width="100" height="100" fill="#F47D20"/>
-  <text x="320" y="165" font-family="Lato, sans-serif" font-size="14" font-weight="600" fill="#023452">✗ Hard-edged everywhere</text>
-</svg>
+![Rounded shapes (organic, on-brand) versus hard-edged rectangles (off-brand). On the left, a navy rounded-corner panel and an orange circular profile. On the right, the same elements as sharp-cornered rectangles.](/assets/img/imagery/shapes-rounded-vs-hard-edged.svg){:style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;"}
 
 ### Organised grid vs chaotic
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;" role="img" aria-label="Tidy aligned grid (on-brand) versus scattered misaligned arrangement (off-brand). On the left, a 3 by 2 grid of identical rounded squares. On the right, the same number of rounded squares in varying sizes and rotations, misaligned.">
-  <g transform="translate(20, 20)">
-    <rect x="0" y="0" width="40" height="40" rx="6" fill="#023452"/>
-    <rect x="50" y="0" width="40" height="40" rx="6" fill="#023452"/>
-    <rect x="100" y="0" width="40" height="40" rx="6" fill="#023452"/>
-    <rect x="0" y="50" width="40" height="40" rx="6" fill="#F47D20"/>
-    <rect x="50" y="50" width="40" height="40" rx="6" fill="#F47D20"/>
-    <rect x="100" y="50" width="40" height="40" rx="6" fill="#F47D20"/>
-  </g>
-  <text x="20" y="165" font-family="Lato, sans-serif" font-size="14" font-weight="600" fill="#023452">✓ Tidy grid, consistent spacing</text>
-  <g transform="translate(330, 20)">
-    <rect x="0" y="8" width="38" height="38" rx="6" fill="#023452" transform="rotate(-6 19 27)"/>
-    <rect x="55" y="0" width="32" height="48" rx="6" fill="#F47D20" transform="rotate(10 71 24)"/>
-    <rect x="110" y="12" width="44" height="32" rx="6" fill="#023452" transform="rotate(-3 132 28)"/>
-    <rect x="20" y="62" width="36" height="36" rx="6" fill="#F47D20" transform="rotate(7 38 80)"/>
-    <rect x="72" y="78" width="48" height="38" rx="6" fill="#023452" transform="rotate(-12 96 97)"/>
-    <rect x="135" y="58" width="34" height="42" rx="6" fill="#F47D20" transform="rotate(6 152 79)"/>
-  </g>
-  <text x="330" y="165" font-family="Lato, sans-serif" font-size="14" font-weight="600" fill="#023452">✗ Misaligned, varying sizes</text>
-</svg>
+![Tidy aligned grid (on-brand) versus scattered misaligned arrangement (off-brand). On the left, a 3 by 2 grid of identical rounded squares. On the right, the same number of rounded squares in varying sizes and rotations, misaligned.](/assets/img/imagery/grid-organised-vs-chaotic.svg){:style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;"}
 
 ## Image specifications
 

@@ -1,15 +1,27 @@
-# Central registry of tools, templates, and external resources for the
-# ELIXIR-UK Handbook. Pattern borrowed from
-# github.com/elixir-europe/ds-handbook.
+# Central registry of tools, templates, downloads and external resources
+# for the ELIXIR-UK Handbook.
 #
-# Reference an entry from a page's frontmatter by its `id`:
+# Schema:
+#   id          – unique slug
+#   name        – display name
+#   url         – link to the resource (use "#" if a placeholder)
+#   description – one-line description
+#   type        – what kind of resource: logo / template / font / image-asset /
+#                 external-link / internal-link
+#   section     – list of site sections this resource belongs to.
+#                 Values: brand / style-guide / communications-strategy /
+#                 community-participation-model
+#                 A resource can belong to more than one section.
 #
-#     resources: [main-logo-horizontal, elixir-hub, elitma]
+# Page usage:
+#   In a page's frontmatter, list the resources to display at the bottom:
+#       resources: [main-logo-horizontal, isometric-illustrations]
+#   Then drop the include at the bottom of the page:
+#       {% include section-resources.html ids=page.resources %}
 #
-# Categories
-#   template          – downloadable artefact you'd reuse (logo, slides, doc template)
-#   internal_resource – another page or asset inside this site
-#   external_resource – anything hosted outside this site
+# Section-level rollup (e.g. for an "all resources" page):
+#       {% include section-resources.html section="brand" %}
+#   This pulls every resource where `section` contains "brand".
 
 
 # --- Logos --------------------------------------------------------------
@@ -17,25 +29,29 @@
   name: ELIXIR-UK logo — horizontal lockup
   url: /assets/img/logos/main-logo-horizontal.svg
   description: Primary horizontal logo lockup. SVG. (Currently using the parent ELIXIR mark — to be replaced with ELIXIR-UK-specific lockup once recovered/reconstructed.)
-  category: template
+  type: logo
+  section: [brand]
 
 - id: main-logo-mark
   name: ELIXIR-UK logo — main mark
   url: /assets/img/logos/main_logo.svg
   description: Square logo mark. SVG. Use when the wordmark would be too long for the available space.
-  category: template
+  type: logo
+  section: [brand]
 
 - id: logo-sponsored
   name: ELIXIR-UK logo — sponsored variant
   url: "#"
   description: For events or sponsorship occasions. _To be added._
-  category: template
+  type: logo
+  section: [brand]
 
 - id: logo-expanded
   name: ELIXIR-UK logo — expanded variant
   url: "#"
   description: For occasions where the logotype needs horizontal alignment and the logomark alone isn't enough. _To be added._
-  category: template
+  type: logo
+  section: [brand]
 
 
 # --- Document templates -------------------------------------------------
@@ -43,31 +59,36 @@
   name: Letterhead template
   url: "#"
   description: Official ELIXIR-UK letterhead in A4 + US Letter. _To be added._
-  category: template
+  type: template
+  section: [brand]
 
 - id: tpl-slide-deck
   name: Slide-deck template
   url: "#"
   description: Default 16:9 slide deck. _To be added — Google Slides and PowerPoint._
-  category: template
+  type: template
+  section: [brand]
 
 - id: tpl-social-post
   name: Social post templates
   url: "#"
   description: LinkedIn / Bluesky / Mastodon post graphics. _To be added — Figma + Canva._
-  category: template
+  type: template
+  section: [brand, communications-strategy]
 
 - id: tpl-webstory-hero
   name: Webstory hero image template
   url: "#"
   description: Hero-image template for ELIXIR-UK webstories. _To be added — Figma._
-  category: template
+  type: template
+  section: [brand, style-guide]
 
 - id: tpl-event-announcement
   name: Event announcement template
   url: "#"
   description: Event poster + social graphic template. _To be added._
-  category: template
+  type: template
+  section: [brand, communications-strategy]
 
 
 # --- Fonts --------------------------------------------------------------
@@ -75,19 +96,52 @@
   name: Lato
   url: https://fonts.google.com/specimen/Lato
   description: Primary typeface. Used for body, UI, and headings.
-  category: external_resource
+  type: font
+  section: [brand]
 
 - id: font-source-serif
   name: Source Serif 4
   url: https://fonts.google.com/specimen/Source+Serif+4
   description: Editorial serif accent.
-  category: external_resource
+  type: font
+  section: [brand]
 
 - id: font-work-sans
   name: Work Sans
   url: https://fonts.google.com/specimen/Work+Sans
   description: Alternate sans for variable-weight needs.
-  category: external_resource
+  type: font
+  section: [brand]
+
+
+# --- Imagery ------------------------------------------------------------
+- id: isometric-illustrations
+  name: ELIXIR-UK isometric illustration set
+  url: "#"
+  description: Licensed isometric illustrations used as hero imagery across reports, the website, newsletters, posters, slides and the Zoom waiting room. ELIXIR-UK use only – behind login. Email contact@elixiruknode.org for access.
+  type: image-asset
+  section: [brand, imagery]
+
+- id: social-banner-template
+  name: Social media banner template
+  url: "#"
+  description: Template for social media banners with the brand overlay and helix motif baked in. _Link to be added._
+  type: template
+  section: [brand, communications-strategy, imagery]
+
+- id: elixir-europe-flickr
+  name: ELIXIR Europe Flickr
+  url: https://www.flickr.com/photos/elixir-europe/
+  description: European-level event photography. Open access; check each image's licence on Flickr before reuse.
+  type: external-link
+  section: [brand, communications-strategy, imagery]
+
+- id: elixir-uk-photo-archive
+  name: ELIXIR-UK photo archive
+  url: "#"
+  description: ELIXIR-UK's own record of event photography. Behind login – email contact@elixiruknode.org for access.
+  type: image-asset
+  section: [brand, communications-strategy, imagery]
 
 
 # --- ELIXIR ecosystem ---------------------------------------------------
@@ -95,37 +149,43 @@
   name: ELIXIR (Hub)
   url: https://elixir-europe.org
   description: The parent ELIXIR organisation — European life-science data infrastructure.
-  category: external_resource
+  type: external-link
+  section: [brand, communications-strategy, community-participation-model]
 
 - id: elixir-uk-website
   name: ELIXIR-UK website
   url: https://elixiruk.org
   description: The public-facing ELIXIR-UK website.
-  category: external_resource
+  type: external-link
+  section: [brand, communications-strategy]
 
 - id: elitma
   name: ELITMa — ELIXIR Training Programme in Management
   url: https://elixir-europe-training.github.io/ELIXIR-ELITMa
   description: Sibling toolkit-theme site using the canonical ELIXIR brand. CSS reference for this style guide.
-  category: external_resource
+  type: external-link
+  section: [brand, style-guide]
 
 - id: rdmkit
   name: RDMkit
   url: https://rdmkit.elixir-europe.org
   description: ELIXIR's researcher-facing Research Data Management resource. Built on the same toolkit theme.
-  category: external_resource
+  type: external-link
+  section: [brand, style-guide]
 
 - id: ds-handbook
   name: Data Stewardship Handbook
   url: https://elixir-europe.github.io/ds-handbook
   description: ELIXIR community handbook for data stewards. Reference for related-pages and tool-registry patterns.
-  category: external_resource
+  type: external-link
+  section: [style-guide]
 
 - id: workflowhub
   name: WorkflowHub
   url: https://workflowhub.eu
   description: Registry of computational workflows. Built on the toolkit theme.
-  category: external_resource
+  type: external-link
+  section: [brand]
 
 
 # --- Strategy & toolkit references --------------------------------------
@@ -133,16 +193,19 @@
   name: ELIXIR Node Communications Strategy Toolkit
   url: https://elixir-europe.org
   description: ELIXIR-STEERS M5.3 (Nov 2025) — canonical template for Node communications strategies.
-  category: external_resource
+  type: external-link
+  section: [communications-strategy]
 
 - id: elixir-brand-guidelines
   name: ELIXIR (parent) Brand Guidelines
   url: https://elixir-europe.org
   description: Parent ELIXIR brand book — palette, logo, type. ELIXIR-UK inherits from this.
-  category: external_resource
+  type: external-link
+  section: [brand]
 
 - id: elixir-style-guide
   name: ELIXIR (parent) Style Guide
   url: https://elixir-europe.org
   description: Parent ELIXIR voice and tone reference.
-  category: external_resource
+  type: external-link
+  section: [brand, style-guide]

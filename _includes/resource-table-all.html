@@ -1,0 +1,75 @@
+{%- comment -%}
+  Local override of the toolkit theme's resource-table-all.html.
+
+  Drops the theme's "Related pages" and "Registry" columns (and the
+  National resources block we don't use) and renders a simple table
+  of: Resource | Type | Description.
+
+  Filtering: every mode filters resources whose `section` list contains
+  a given key. The key comes from one of (in order):
+    1. `include.section`         – explicit section passed in (used for
+                                   section rollups on the templates page)
+    2. `include.tag`             – the theme's layout passes page.page_id
+                                   here automatically
+    3. `page.page_id`            – fallback if neither was passed
+
+  Examples:
+    {% include resource-table-all.html %}
+        – uses page.page_id; renders nothing if it isn't set
+    {% include resource-table-all.html section="brand" heading="Brand" %}
+        – section rollup for the brand section
+
+    Optional:
+       heading="..."         override the heading text
+       heading_level="h2"    h2 (default) / h3 / h4
+{%- endcomment -%}
+
+{%- assign key = include.section | default: include.tag | default: page.page_id -%}
+{%- assign all = site.data.tool_and_resource_list -%}
+{%- assign resources = "" | split: "" -%}
+
+{%- if key -%}
+  {%- for r in all -%}
+    {%- if r.section contains key -%}
+      {%- assign resources = resources | push: r -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- assign resources = resources | sort_natural: "name" -%}
+
+{%- if resources.size > 0 -%}
+{%- assign heading = include.heading | default: "Resources and downloads" -%}
+{%- assign level = include.heading_level | default: "h2" -%}
+
+<hr class="mt-5 mb-4">
+
+<{{ level }} class="h2-like fs-2">{{ heading }}</{{ level }}>
+
+<div class="table-responsive">
+  <table class="table align-middle">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 30%;">Resource</th>
+        <th scope="col" style="width: 15%;">Type</th>
+        <th scope="col" style="width: 55%;">Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      {%- for r in resources -%}
+      <tr>
+        <td>
+          {%- if r.url and r.url != "#" -%}
+            <a href="{{ r.url }}">{{ r.name }}</a>
+          {%- else -%}
+            {{ r.name }}
+          {%- endif -%}
+        </td>
+        <td><span class="badge bg-light text-secondary border">{{ r.type }}</span></td>
+        <td>{{ r.description | markdownify | remove: '<p>' | remove: '</p>' }}</td>
+      </tr>
+      {%- endfor -%}
+    </tbody>
+  </table>
+</div>
+{%- endif -%}
