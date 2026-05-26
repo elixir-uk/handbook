@@ -5,7 +5,11 @@ subitems:
     url: /voice
   - title: Do & don't
     url: /do-and-dont
-  - title: Lexicon
-    url: /lexicon
+  - title: Conventions
+    url: /conventions
+  - title: Writing a webstory
+    url: /writing-a-webstory
+  - title: Accessibility
+    url: /accessibility
   - title: LLM system prompt
     url: /llm-system-prompt

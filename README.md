@@ -7,7 +7,7 @@ Source for the [published site](https://elixir-uk.github.io/style-guide/) _(once
 ## What's here
 
 - **Brand** — visual identity: logos, colour, typography, imagery, templates
-- **Style guide** — how we write: voice, lexicon, do-and-don't, LLM system prompt
+- **Style guide** — how we write: voice, conventions, do-and-don't, LLM system prompt
 - **Communications strategy** — OASIS framework: objectives, audiences, channels, implementation, evaluation, crisis comms
 - **Community participation model** — participation guidelines (code of conduct), who the community is, pathways, engagement, governance
 
@@ -37,7 +37,7 @@ The voice & tone section is authored as plain markdown so it can be consumed two
 1. **Humans read the rendered site** at the published URL.
 2. **An LLM consumes the markdown directly** — paste the prompt from `pages/voice-and-tone/llm-system-prompt.md` into Claude / ChatGPT / Gemini as a system prompt to get on-brand drafts.
 
-The principle: **one source, two readers.** Update the voice/lexicon/examples pages, then sync the `llm-system-prompt.md` from them. Never maintain a separate "prompt document" that drifts from the public guidelines.
+The principle: **one source, two readers.** Update the voice/conventions/examples pages, then sync the `llm-system-prompt.md` from them. Never maintain a separate "prompt document" that drifts from the public guidelines.
 
 ## Deployment
 

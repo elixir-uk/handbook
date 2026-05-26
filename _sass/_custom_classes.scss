@@ -501,3 +501,29 @@ ul.task-list {
         }
     }
 }
+
+
+/*-----Accessibility: body-content links are underlined-----*/
+// WCAG 2.2 AA: links must be distinguishable without colour. Underline body links
+// inside paragraphs, list items, table cells, blockquotes and definitions. Cards,
+// nav tiles, topnav, sidebar nav and footer nav keep their existing
+// text-decoration: none because they signal "link" through layout.
+#main {
+    p a,
+    li a:not(.btn),
+    td a,
+    blockquote a,
+    dd a,
+    .alert a {
+        text-decoration: underline;
+    }
+
+    .navigation-tiles a,
+    .related-pages a,
+    .card a,
+    .btn,
+    #toc a,
+    #toc li a {
+        text-decoration: none;
+    }
+}
