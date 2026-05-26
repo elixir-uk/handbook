@@ -4,22 +4,23 @@ title: Imagery
 
 The images we publish carry as much of the ELIXIR-UK voice as the words. This page sets out where to find them, what they should look like, and what to avoid.
 
-ELIXIR Europe does not specify an imagery direction, so this level of brand identity is applied at Node level. The rules below are ELIXIR-UK conventions.
+{% include callout.html type="note" content="ELIXIR Europe does not specify an imagery direction, so this level of brand identity is applied at Node level. The rules below are ELIXIR-UK conventions." %}
 
 For the writing-side rules on alt text and image placement, see [Writing a webstory → Banner image and alt text](/writing-a-webstory#banner-image-and-alt-text). For accessibility, see [Accessibility](/accessibility).
 
-## Choosing between illustration and photography
+## Choosing the hero image
 
-Two strong options for hero imagery: our **licensed isometric illustration set** (see below) or **edited photography**. Both are on-brand; the choice depends on the piece.
+Three on-brand options. The choice depends on what the piece is about.
 
-- **Use the isometric set** for conceptual stories, reports, slides, posters, newsletters and "evergreen" content where a specific photograph would be wrong or unavailable.
-- **Use edited photography** when the story is about real people, events or work in progress.
+- **Isometric illustration** (our licensed set, see below) – for conceptual stories, reports, slides, posters, newsletters and evergreen content where a specific photograph would be wrong or unavailable.
+- **Abstract photography** – the default for news banners about concepts, papers, services or topics where there is no specific "real moment" to show. Think images that suggest connection, data, networks, structure or scale.
+- **People photography** – when the story is about real people, events or work in progress. Member spotlights, event recaps, fellowship updates, partnership news.
 
 ## Isometric illustrations
 
 ELIXIR-UK holds a licensed set of isometric illustrations used as hero imagery across reports, the website, newsletters, posters, slides and even the Zoom waiting room. They're the most recognisable ELIXIR-UK visual element after the logo.
 
-![ELIXIR-UK isometric illustration example: a person at a computer surrounded by communication icons (chat bubbles, video call, documents, paper plane, mobile phone, magnifying glass, lightbulb), used in the Zoom waiting room.](/assets/img/imagery/isometric-zoom-waiting-room.png){:style="max-width: 600px; display: block; margin: 1rem 0;"}
+![ELIXIR-UK isometric illustration example: a person at a computer surrounded by communication icons (chat bubbles, video call, documents, paper plane, mobile phone, magnifying glass, lightbulb), used in the Zoom waiting room.](/assets/img/Zoom%20Waiting%20Room@1000x.png){:style="max-width: 600px; display: block; margin: 1rem 0;"}
 
 *Example: the ELIXIR-UK Zoom waiting room, built on the licensed isometric set.*
 
@@ -38,16 +39,18 @@ Beyond the isometric set, illustration is used sparingly. Examples: simple diagr
 When other illustration is used:
 
 - **Flat, geometric, brand-coloured.** No skeuomorphic shading, no faux-3D.
-- **From the ELIXIR brand palette** (see [Colour](/colour) when populated).
+- **From the ELIXIR brand palette**, or close colours if more variants are needed (see [Colour](/colour)).
 - **Vector (SVG) where possible** – scales, accessible, lightweight.
 
-Avoid: cartoon characters, hand-drawn personality illustrations, generic isometric scenes that don't match our licensed set.
+{% include callout.html type="note" content="**Avoid by default:** cartoon characters, hand-drawn personality illustrations, generic isometric scenes that don't match our licensed set. These can work for a dedicated campaign or special purpose – but only sparingly, and only when there's a clear reason that justifies stepping outside the usual visual language." %}
 
 ## Photography direction
 
-Two things matter: what we photograph, and how we treat it.
+Two modes, both on-brand: people photography (for real moments and named subjects) and abstract photography (for concept-driven news banners). Different rules for each, same edit treatment.
 
-### What we look for
+### People photography
+
+{% include callout.html type="important" content="**No stock photography of people, ever.** People photographs must come from ELIXIR-UK-organised events or be contributed by a named member or service. Stock is fine for abstract or non-people imagery (see below); it is never fine for people." %}
 
 - **Real people doing real work.** Researchers at screens, conversations between members, hands on keyboards, faces in discussion. The work, not the institutional pose.
 - **UK contexts where possible.** University environments, research labs, UK conference venues. Authentic over aspirational.
@@ -55,25 +58,53 @@ Two things matter: what we photograph, and how we treat it.
 - **Natural light.** Avoid heavy artificial lighting where avoidable.
 - **Composition that gives breathing room.** Subjects with negative space, not centred and cropped tight.
 
+### Abstract photography
+
+For news banners about concepts, papers, services or topics where there is no specific scene to photograph.
+
+- **Suggests rather than illustrates.** A close-up of fibre optic strands for a story about connection; a long-exposure of moving lights for a piece on data flow; a structured pattern of objects for a piece on standards.
+- **Connections, data, networks, structure, scale.** These are the visual themes that read as "ELIXIR-UK" without being literal.
+- **Avoid the obvious.** Glowing brain illustrations for AI stories, double helices for genomics, server racks for "infrastructure". Reach for something less expected.
+- **Same edit treatment as people photography** (see below). When the abstract photograph is used as a social media banner, apply a navy or orange overlay – that's what ties it back to the brand palette.
+
 ### How we treat them
 
 - **Saturated with good contrast.** Photographs should be vivid but not over-cooked. Neutral tones, no Instagram-style colour grades.
-- **Coloured overlay (navy or orange) on hero images** to tie the photograph back to the brand palette. The overlay is what makes a contributed event photo feel like ours.
+- **Coloured overlay (navy or orange) on social media banners** to tie the photograph back to the brand palette. The overlay is what makes an abstract image feel like ours.
 - **The ELIXIR helix motif as texture** on banners, social cards and reports where extra visual interest is needed.
 - **Editing stays in the neutral / honest range.** Sharpening, brightness and contrast correction are fine; full filters and stylised colour grades are not.
+
+![Example of a photograph with a brand-colour overlay applied – a social media banner showing the navy or orange overlay treatment that ties an image to the ELIXIR-UK palette.](/assets/img/screenshot-example-image-overlay.png){:style="max-width: 600px; display: block; margin: 1rem 0;"}
+
+*Example: brand-colour overlay applied to a photograph for a social media banner.*
+
+![Example of a social media banner combining the navy or orange overlay with the ELIXIR helix motif as texture.](/assets/img/screenshot-example-banner-social-media.jpeg){:style="max-width: 600px; display: block; margin: 1rem 0;"}
+
+*Example: social media banner using both the overlay and the ELIXIR helix motif as texture.*
 
 ## Sources, in order of preference
 
 1. **Original photography from ELIXIR-UK events** – All Hands, workshops, Contentathons, retreats. We keep our own record of images from ELIXIR-UK-organised events. For access, email [contact@elixiruknode.org](mailto:contact@elixiruknode.org).
 2. **Photos contributed by members and services** – with credit. Member institutions often have communications teams happy to share.
 3. **ELIXIR Europe Flickr** – the European-level event archive at [flickr.com/photos/elixir-europe](https://www.flickr.com/photos/elixir-europe/). Useful for cross-node events and the wider community visuals.
-4. **Licensed stock as a last resort** – Unsplash, Pexels and similar. Choose photographs of real situations, not styled stock.
+4. **Licensed stock for abstract or non-people imagery only** – Unsplash, Pexels and similar. Use for concept-led news banners (connection, data, networks), never for photographs of people.
 
 {% include callout.html type="tip" content="**Take photos at every event.** The single best source of on-brand imagery is your own archive. Assign someone (or rotate) to photograph during sessions, breaks and conversations. A library of 200 honest event photos is worth more than a paid stock subscription." %}
 
+## Resources and downloads
+
+The canonical links for the assets named above. Items marked *behind login* are restricted to ELIXIR-UK contributors – email [contact@elixiruknode.org](mailto:contact@elixiruknode.org) for access.
+
+| Resource | Description | Link |
+|---|---|---|
+| **ELIXIR-UK isometric illustration set** | The licensed isometric assets. ELIXIR-UK use only. | *[TBD – behind login]* |
+| **Social media banner template** | Template for social banners with the brand overlay and helix motif baked in. | *[TBD]* |
+| **ELIXIR Europe Flickr** | European-level event photography. Open access. | [flickr.com/photos/elixir-europe](https://www.flickr.com/photos/elixir-europe/) |
+| **ELIXIR-UK photo archive** | Our own event photography. | *[TBD – behind login]* |
+
 ## Iconography
 
-ELIXIR-UK doesn't have a dedicated icon set yet. The toolkit theme ships with **Font Awesome**, which is what the [callouts](/style-guide) and the rest of the site use – reach for it first.
+{% include callout.html type="note" content="ELIXIR-UK doesn't have a dedicated icon set yet. The toolkit theme ships with **Font Awesome**, which is what the [callouts](/style-guide) and the rest of the site use – reach for it first." %}
 
 The rule that matters most: **keep icons consistent within a single page or document.** All icons in one place should look like they come from the same designer – same weight, same style (lined or filled, but not mixed), same level of detail.
 
@@ -81,17 +112,17 @@ The rule that matters most: **keep icons consistent within a single page or docu
 
 Font Awesome solid icons across the board:
 
-> <i class="fa-solid fa-database"></i> Database &nbsp;&nbsp; <i class="fa-solid fa-users"></i> Users &nbsp;&nbsp; <i class="fa-solid fa-check-square"></i> Check &nbsp;&nbsp; <i class="fa-solid fa-circle-info"></i> Info
+> <i class="fa-solid fa-user"></i> User &nbsp;&nbsp; <i class="fa-solid fa-folder"></i> Folder &nbsp;&nbsp; <i class="fa-solid fa-envelope"></i> Email &nbsp;&nbsp; <i class="fa-solid fa-bell"></i> Notifications
 
 Or Font Awesome regular (outline) icons across the board:
 
-> <i class="fa-regular fa-database"></i> Database &nbsp;&nbsp; <i class="fa-regular fa-users"></i> Users &nbsp;&nbsp; <i class="fa-regular fa-square-check"></i> Check &nbsp;&nbsp; <i class="fa-regular fa-circle-info"></i> Info
+> <i class="fa-regular fa-user"></i> User &nbsp;&nbsp; <i class="fa-regular fa-folder"></i> Folder &nbsp;&nbsp; <i class="fa-regular fa-envelope"></i> Email &nbsp;&nbsp; <i class="fa-regular fa-bell"></i> Notifications
 
 ### Mismatched (don't)
 
-Mixing solid, regular and unrelated icon sets in the same context:
+Mixing solid, regular and unrelated icon styles in the same context:
 
-> <i class="fa-solid fa-database"></i> Database &nbsp;&nbsp; <i class="fa-regular fa-users"></i> Users &nbsp;&nbsp; <i class="fa-brands fa-github"></i> Check &nbsp;&nbsp; <i class="fa-light fa-circle-info"></i> Info
+> <i class="fa-solid fa-user"></i> User &nbsp;&nbsp; <i class="fa-regular fa-folder"></i> Folder &nbsp;&nbsp; <i class="fa-brands fa-github"></i> Code &nbsp;&nbsp; <i class="fa-solid fa-circle-info"></i> Info
 
 When using icons:
 
@@ -106,22 +137,51 @@ Two structural cues we use across the site that quietly signal what ELIXIR-UK is
 - **Profile pictures are circles.** People are round; everything else stays rectangular (or rounded-rectangular).
 - **Grid layouts are tidy and consistent.** When showing multiple images, profiles or services in a grid, alignment matters: same size, same spacing, same vertical rhythm. The orderly grid is a quiet nod to the structured work we do – FAIR data, research data management, organised infrastructure.
 
+### Rounded shapes vs hard-edged
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;" role="img" aria-label="Rounded shapes (organic, on-brand) versus hard-edged rectangles (off-brand). On the left, a navy rounded-corner panel and an orange circular profile. On the right, the same elements as sharp-cornered rectangles.">
+  <rect x="20" y="20" width="100" height="100" rx="18" fill="#023452"/>
+  <circle cx="200" cy="70" r="50" fill="#F47D20"/>
+  <text x="20" y="165" font-family="Lato, sans-serif" font-size="14" font-weight="600" fill="#023452">✓ Rounded panels, circular profiles</text>
+  <rect x="320" y="20" width="100" height="100" fill="#023452"/>
+  <rect x="450" y="20" width="100" height="100" fill="#F47D20"/>
+  <text x="320" y="165" font-family="Lato, sans-serif" font-size="14" font-weight="600" fill="#023452">✗ Hard-edged everywhere</text>
+</svg>
+
+### Organised grid vs chaotic
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;" role="img" aria-label="Tidy aligned grid (on-brand) versus scattered misaligned arrangement (off-brand). On the left, a 3 by 2 grid of identical rounded squares. On the right, the same number of rounded squares in varying sizes and rotations, misaligned.">
+  <g transform="translate(20, 20)">
+    <rect x="0" y="0" width="40" height="40" rx="6" fill="#023452"/>
+    <rect x="50" y="0" width="40" height="40" rx="6" fill="#023452"/>
+    <rect x="100" y="0" width="40" height="40" rx="6" fill="#023452"/>
+    <rect x="0" y="50" width="40" height="40" rx="6" fill="#F47D20"/>
+    <rect x="50" y="50" width="40" height="40" rx="6" fill="#F47D20"/>
+    <rect x="100" y="50" width="40" height="40" rx="6" fill="#F47D20"/>
+  </g>
+  <text x="20" y="165" font-family="Lato, sans-serif" font-size="14" font-weight="600" fill="#023452">✓ Tidy grid, consistent spacing</text>
+  <g transform="translate(330, 20)">
+    <rect x="0" y="8" width="38" height="38" rx="6" fill="#023452" transform="rotate(-6 19 27)"/>
+    <rect x="55" y="0" width="32" height="48" rx="6" fill="#F47D20" transform="rotate(10 71 24)"/>
+    <rect x="110" y="12" width="44" height="32" rx="6" fill="#023452" transform="rotate(-3 132 28)"/>
+    <rect x="20" y="62" width="36" height="36" rx="6" fill="#F47D20" transform="rotate(7 38 80)"/>
+    <rect x="72" y="78" width="48" height="38" rx="6" fill="#023452" transform="rotate(-12 96 97)"/>
+    <rect x="135" y="58" width="34" height="42" rx="6" fill="#F47D20" transform="rotate(6 152 79)"/>
+  </g>
+  <text x="330" y="165" font-family="Lato, sans-serif" font-size="14" font-weight="600" fill="#023452">✗ Misaligned, varying sizes</text>
+</svg>
+
 ## Image specifications
 
-*[TBD: confirm exact dimensions used by the WordPress templates. Defaults below are sensible starting points.]*
+In most cases you don't need to think about dimensions – the WordPress templates and the social media banner template handle sizing and cropping for you. Upload at a reasonable resolution and let the template do the work.
 
-| Use | Aspect ratio | Pixel dimensions | Format |
-|---|---|---|---|
-| Webstory banner (hero) | 16:9 | ~1920 × 1080 px | JPEG, ≤300 KB |
-| Open Graph / social card | 1.91:1 | 1200 × 630 px | JPEG, ≤300 KB |
-| Twitter / X card | 2:1 | 1200 × 600 px | JPEG, ≤300 KB |
-| Headshot (People profile) | 1:1 | 600 × 600 px minimum | JPEG, ≤200 KB |
-| Service screenshot | Native | Full-width preview, retina (2×) | PNG |
-| Inline diagram or figure | Native | Width to match column | SVG preferred, PNG fallback |
-| Iconography | – | – | Font Awesome (or SVG for custom) |
+A few specifics worth knowing:
 
-- **Compress before uploading.** Use [TinyPNG](https://tinypng.com) or similar – large images slow the site and hurt accessibility on slow connections.
-- **Don't upload images larger than the rendered size.** A 6000 px-wide hero image displayed at 1920 px wastes bandwidth.
+- **Profile pictures must be square at source.** The site crops them to a circle for display, but the underlying file should be square so nothing gets cut off.
+- **Compress before uploading.** Use [TinyPNG](https://tinypng.com) or similar. Large files slow the site and hurt accessibility on slow connections.
+- **Don't upload images much larger than they'll be displayed.** A 6000 px-wide image rendered at 1200 px is wasted bandwidth.
+
+For social platform-specific sizes (LinkedIn, X, Bluesky, Instagram), check the platform's own current help pages – the specs change often enough that documenting them here would go stale.
 
 ## Attribution and credit
 
