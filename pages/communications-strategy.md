@@ -38,8 +38,8 @@ Under load (limited time, resources or political capital), when one value is com
 - Decide where to publish – see [Strategy & resources](/cs-strategy).
 - Run something on the books – see [Implementation](/cs-implementation).
 - Know whether it worked – see [Evaluation](/cs-evaluation).
-- Respond when something goes wrong – see [Crisis communications](/cs-audiences#crisis-communications) (now part of Audiences & key messages).
+- Respond when something goes wrong – see [Crisis communications](/cs-crisis) (a subpage of Audiences & key messages).
 
 ## In this section
 
-{% include section-navigation-tiles.html type="communications_strategy" except="communications-strategy.md" %}
+{% include section-navigation-tiles.html type="communications_strategy" except="communications-strategy.md, cs-stakeholder-mapping.md, cs-crisis.md" %}

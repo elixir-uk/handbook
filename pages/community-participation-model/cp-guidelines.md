@@ -7,7 +7,7 @@ related_pages:
     - cp-who
     - cp-governance
   communications_strategy:
-    - cs-audiences
+    - cs-crisis
 ---
 
 

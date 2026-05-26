@@ -5,8 +5,11 @@ subitems:
     url: /cs-objectives
   - title: Audiences & key messages
     url: /cs-audiences
-  - title: Stakeholder mapping
-    url: /cs-stakeholder-mapping
+    subitems:
+      - title: Stakeholder mapping
+        url: /cs-stakeholder-mapping
+      - title: Crisis communications
+        url: /cs-crisis
   - title: Strategy & resources
     url: /cs-strategy
   - title: Implementation

@@ -38,7 +38,7 @@ When time, budget or attention is tight, these are not priorities to drop. They 
 
 ## In this section
 
-{% include section-navigation-tiles.html type="brand" except="brand.md" %}
+{% include section-navigation-tiles.html type="brand" except="brand.md, logo-variations.md, logo-clearspace.md" %}
 
 ## Companion sections
 
