@@ -4,6 +4,8 @@ title: Do & don't
 
 Worked examples – the fastest way to absorb the voice and the most useful raw material for the [LLM system prompt](/llm-system-prompt). Each pair is built from a real ELIXIR-UK publication pattern, lightly paraphrased.
 
+{% include callout.html type="note" content="**Grand statements vs content-heavy copy.** Most editorial work is **content-heavy** – describing a paper, announcing a service, recapping an event. The rules below apply. A small subset of editorial work is **grand-statement** – hero openers, section titles that need to land, taglines, the [approved mission and vision](/cs-foundation). There, language we'd cut from content-heavy copy (like *world-class*, *world-leading*, *cutting-edge*, *state-of-the-art*) can earn its place because the job is rhetorical weight, not information. Ask which mode your sentence is in." %}
+
 ## Opening a webstory
 
 | ✗ Don't | ✓ Do |
@@ -122,8 +124,8 @@ These aren't banned – sometimes they are the most precise word for the job. Bu
 | Word | When it's fine | When to reach for an alternative |
 |---|---|---|
 | leverage / leveraging | rare – usually "use" is clearer | most cases. Use **use**. |
-| cutting-edge | when there's a specific innovation to point to | when it's decorative – delete it |
-| state-of-the-art | same as above | same – delete |
+| cutting-edge | grand statements (hero openers, taglines) where rhetorical weight is the point; or a specific innovation worth pointing to | content-heavy copy – delete |
+| state-of-the-art | same as above | content-heavy copy – delete |
 | seamless | when describing a genuine integration | when vague – be specific about what's joined up |
 | innovative | when there's something concretely new | describe what's new instead |
 | robust | when describing measurable resilience | "well-tested", "reliable", or just describe how |
@@ -134,7 +136,7 @@ These aren't banned – sometimes they are the most precise word for the job. Bu
 | stakeholder | in formal governance contexts where you genuinely mean all parties | **partner**, **member**, **funder**, **user** – pick the specific one |
 | solution | in commercial / procurement contexts | **tool**, **service**, **method** – pick the specific one |
 | vibrant | rarely | delete |
-| world-class | when externally verified | otherwise delete |
+| world-class / world-leading | grand statements (hero openers, taglines, the approved [mission/vision](/cs-foundation)), or externally-verified contexts | content-heavy copy – delete |
 | exciting | when you can justify why | otherwise delete; say *why* it's worth attention |
 
 ## Add your own

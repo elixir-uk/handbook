@@ -51,8 +51,8 @@ Keywords aren't checkboxes to tick one-by-one. They're a gut-check for the whole
 
 Worth naming what we are *not* trying to be – sometimes clearer than naming what we are.
 
-- **Cutting-edge / state-of-the-art.** Where it's true, demonstrate it; don't claim it as a tagline.
+- **Cutting-edge / state-of-the-art.** Same register split as *world-class*: these can land in grand-statement contexts (hero openers, taglines) where rhetorical weight is the job. In content-heavy copy, demonstrate what is new about the work rather than reaching for the label.
 - **Innovative.** Same. We describe what is new about the work rather than labelling ourselves innovative.
-- **World-class.** External recognition is welcome; self-applied superlatives are not.
-- **Disruptive.** Generally not. We connect existing institutions; disruption isn't our mode.
+- **World-class / world-leading.** These can land in **grand-statement contexts** – hero openers, taglines, where rhetorical weight is the job. **Don't reach for them in content-heavy copy** where the job is information rather than rhetoric. External recognition is welcome; self-applied superlatives in the body of a webstory aren't.
+- **Disruptive.** Generally not. We connect existing institutions; disruption isn't our primary mode.
 - **Bold.** Decisions are evidence-led, not bold.
