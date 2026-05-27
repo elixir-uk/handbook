@@ -64,9 +64,10 @@ $hr-margin-y:       2.5rem;
 
 $alert-border-width: 0;
 
-// Heading sizes
-$h1-font-size: 1rem * 3 !default;
-$h3-font-size: 1rem * 1.5 !default;
-$h4-font-size: 1rem * 1.1 !default;
-$h5-font-size: 1rem !default;
-$h6-font-size: 1rem !default;
+// Heading sizes – tight editorial scale
+$h1-font-size: 2rem    !default;  // 32 px
+$h2-font-size: 1.5rem  !default;  // 24 px
+$h3-font-size: 1.25rem !default;  // 20 px
+$h4-font-size: 1.125rem !default; // 18 px
+$h5-font-size: 1rem     !default; // 16 px
+$h6-font-size: 0.875rem !default; // 14 px

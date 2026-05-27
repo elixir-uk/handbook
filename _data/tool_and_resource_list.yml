@@ -74,21 +74,21 @@
 - id: font-lato
   name: Lato
   url: https://fonts.google.com/specimen/Lato
-  description: Primary typeface. Used for body, UI, and headings.
+  description: Primary typeface. Used everywhere by default – body, UI, headings, footers, social, slides.
   type: font
   section: [brand]
 
-- id: font-source-serif
-  name: Source Serif 4
-  url: https://fonts.google.com/specimen/Source+Serif+4
-  description: Editorial serif accent.
+- id: font-open-sans
+  name: Open Sans
+  url: https://fonts.google.com/specimen/Open+Sans
+  description: Fallback for Lato. Used only when Lato isn't available (older Word installs, certain email clients, some presentation templates).
   type: font
   section: [brand]
 
-- id: font-work-sans
-  name: Work Sans
-  url: https://fonts.google.com/specimen/Work+Sans
-  description: Alternate sans for variable-weight needs.
+- id: font-merriweather
+  name: Merriweather
+  url: https://fonts.google.com/specimen/Merriweather
+  description: Serif used only for titles on editorial prints – annual reports, posters, formal documents, event programmes. Never for body, web pages or non-print headings.
   type: font
   section: [brand]
 
