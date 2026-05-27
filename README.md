@@ -2,7 +2,7 @@
 
 A Jekyll site that documents the ELIXIR-UK brand, voice and communications strategy – and doubles as an LLM system prompt for on-brand drafting.
 
-Source for the [published site](https://elixir-uk.github.io/style-guide/).
+Source for the [published site](https://elixir-uk.github.io/handbook/).
 
 ## What's here
 
@@ -21,21 +21,6 @@ The whole site is markdown. Find the page in `pages/`, edit the `.md` file, push
 3. To show the resource at the bottom of a specific page, add the resource's `id` to that page's `resources: [...]` frontmatter list.
 4. The resource will also appear automatically on the [Templates](pages/brand/templates.md) page under every section in its `section:` list – no separate edit needed.
 
-## Running locally
-
-Requires Ruby 3.3+ and Bundler.
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Then open http://localhost:4000.
-
-## Theme
-
-This site uses the [ELIXIR Toolkit Theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) (`v6.0.0`), the same theme used by RDMkit, WorkflowHub, RO-crate and 20+ other ELIXIR projects. Loaded via `remote_theme:` in `_config.yml`.
-
 ## How the LLM-prompt workflow works
 
 The style guide is authored as plain markdown so it can be consumed two ways:
@@ -45,9 +30,11 @@ The style guide is authored as plain markdown so it can be consumed two ways:
 
 **One source, two readers.** Update the voice / conventions / examples pages directly; never maintain a separate "prompt document" that drifts from the public guidelines.
 
-## Deployment
+## Theme
 
-GitHub Pages, built via GitHub Actions (`.github/workflows/jekyll.yml`). Push to `main` to deploy.
+This site uses the [ELIXIR Toolkit Theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) (`v6.0.0`), shared with RDMkit, WorkflowHub, RO-crate and 20+ other ELIXIR projects. Loaded via `remote_theme:` in `_config.yml`.
+
+For local setup, forking and deployment, callouts, sidebars, navigation tiles and other theme features, see the [ETT documentation](https://elixir-belgium.github.io/elixir-toolkit-theme/).
 
 ## Contributing
 
