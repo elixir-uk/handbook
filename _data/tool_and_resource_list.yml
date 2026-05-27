@@ -37,7 +37,14 @@
 - id: tpl-letterhead
   name: Letterhead template
   url: https://docs.google.com/document/d/1Ul1V4P5NnhKNN0oICq2C94dXwJ5TiRKO/edit?usp=sharing&ouid=113364431842355357362&rtpof=true&sd=true
-  description: Official ELIXIR-UK letterhead, used for letters of support and similar formal correspondence. Requires sign-in to access.
+  description: Blank ELIXIR-UK letterhead for formal correspondence. Requires sign-in to access. For letters of support specifically, use the dedicated template below.
+  type: template
+  section: [brand]
+
+- id: tpl-letter-of-support
+  name: Letter of support template
+  url: https://docs.google.com/document/d/1Src7Evb7MuK5XL3_eZeHW4X9xAoCtX0H467tAIeA3A8/edit?usp=sharing
+  description: Pre-populated letter of support, with the standard text and framing for that use case. Built on the letterhead. Requires sign-in to access.
   type: template
   section: [brand]
 
