@@ -150,13 +150,6 @@
   type: external-link
   section: [brand, communications-strategy]
 
-- id: elitma
-  name: ELITMa – ELIXIR Training Programme in Management
-  url: https://elixir-europe-training.github.io/ELIXIR-ELITMa
-  description: Sibling toolkit-theme site using the canonical ELIXIR brand. CSS reference for this style guide.
-  type: external-link
-  section: [brand, style-guide]
-
 - id: rdmkit
   name: RDMkit
   url: https://rdmkit.elixir-europe.org
@@ -196,7 +189,7 @@
 
 - id: elixir-brand-guidelines
   name: ELIXIR (parent) Brand Guidelines
-  url: https://docs.google.com/document/d/1hb81AMjkDsdvO2JfaT9EKzB80S3EK3aJXEC71JtljJo/edit
+  url: https://elixir-europe.org/sites/default/files/documents/elixir-brand-guidelines-2025.pdf
   description: Parent ELIXIR brand book – palette, logo, type. ELIXIR-UK inherits from this.
   type: external-link
   section: [brand]
