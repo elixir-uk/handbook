@@ -1,5 +1,6 @@
 ---
 title: Typography
+description: The ELIXIR-UK type system – Lato primary, Open Sans fallback, Merriweather for editorial print titles. Type scale for web and print.
 page_id: typography
 type: brand
 resources: [font-lato, font-open-sans, font-merriweather]

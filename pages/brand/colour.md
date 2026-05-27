@@ -1,5 +1,6 @@
 ---
 title: Colour
+description: The ELIXIR-UK palette, the 60-30-10 composition rule in light and dark modes, accessible pairings and the data-visualisation exception.
 page_id: colour
 type: brand
 related_pages:

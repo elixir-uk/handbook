@@ -39,9 +39,3 @@ When time, budget or attention is tight, these are not priorities to drop. They 
 ## In this section
 
 {% include section-navigation-tiles.html custom="brand-keywords, logos, colour, typography, imagery, boilerplate, templates" sort=false %}
-
-## Companion sections
-
-- **Mission, vision, tagline** – [foundational statements in Communications strategy](/communications-strategy).
-- **Voice and writing** – [Style guide](/style-guide).
-- **Channels and cadence** – [Communications strategy](/communications-strategy).

@@ -1,5 +1,6 @@
 ---
 title: Logo variations
+description: The full set of ELIXIR-UK logo lockups – logotype, logomark, expanded, sponsored – each in light- and dark-background versions, with previews and per-variant downloads.
 page_id: logo-variations
 type: brand
 hide_resources: true

@@ -1,5 +1,6 @@
 ---
 title: Clearspace & construction
+description: Clearspace and minimum-size rules for the ELIXIR-UK logo, scaled to the wordmark's own letterforms.
 page_id: logo-clearspace
 type: brand
 hide_resources: true

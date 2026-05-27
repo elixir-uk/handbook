@@ -1,5 +1,6 @@
 ---
 title: Do & don't
+description: Paired before-and-after examples of ELIXIR-UK writing – announcements, talking about ourselves, talking about services, asking for help.
 page_id: do-and-dont
 type: style_guide
 ---

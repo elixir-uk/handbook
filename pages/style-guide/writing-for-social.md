@@ -1,5 +1,6 @@
 ---
 title: Writing for social
+description: How to write for LinkedIn and Bluesky as ELIXIR-UK – the lax posture, what's worth posting, voice rules, image-and-link workflow.
 page_id: writing-for-social
 type: style_guide
 related_pages:

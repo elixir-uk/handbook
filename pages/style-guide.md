@@ -20,9 +20,4 @@ The single source of truth for the ELIXIR-UK voice. Authored once. Read by human
 
 ## In this section
 
-{% include section-navigation-tiles.html custom="voice, do-and-dont, conventions, writing-a-webstory, accessibility, llm-system-prompt" sort=false %}
-
-## Companion sections
-
-- **How we look** – [Brand](/brand)
-- **Where this voice gets deployed** – [Communications strategy](/communications-strategy)
+{% include section-navigation-tiles.html custom="voice, do-and-dont, conventions, writing-a-webstory, writing-for-social, accessibility, llm-system-prompt" sort=false %}

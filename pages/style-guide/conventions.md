@@ -1,5 +1,6 @@
 ---
 title: Conventions
+description: Terms we use, terms we don't, and the spelling, capitalisation, dates, numbers and punctuation choices so everyone writes them the same way.
 page_id: conventions
 type: style_guide
 ---

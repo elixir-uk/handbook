@@ -16,8 +16,6 @@
 # Page usage:
 #   In a page's frontmatter, list the resources to display at the bottom:
 #       resources: [logotype, isometric-illustrations]
-#   Then drop the include at the bottom of the page:
-#       {% include section-resources.html ids=page.resources %}
 #
 # Section-level rollup (e.g. for an "all resources" page):
 #       {% include section-resources.html section="brand" %}

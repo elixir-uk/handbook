@@ -27,13 +27,10 @@ The "S" in OASIS. **Automate the routine, hand-craft the story.**
 
 | Resource | What they do |
 |---|---|
-| EI Communications team | Design and produce promotional material – website, flyers, posters |
-| Node Coordination Office (Coordinator + Assistant) | Majority of their time on facilitating, organising, and coordinating comms activities |
-| Member-organisation staff | Considerable in-kind volunteered time across the consortium |
+| EI Communications team | Support for institutional press releases, materials and tools (e.g camera equipment) |
+| Node Coordination Office | Majority of their time on facilitating, organising, and coordinating comms activities |
+| Member-organisation staff | Considerable in-kind volunteered time across the consortium to disseminate information |
 
-## Money
-
-UKRI funds the Coordination Office. Covers Node Coordinator and Assistant salaries; travel for Coordination Office and volunteer officers (HoNs, TeC, TrC); SAB travel; the annual All-Hands meeting.
 
 ## Channels
 

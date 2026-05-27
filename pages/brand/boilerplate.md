@@ -1,5 +1,6 @@
 ---
 title: Boilerplate
+description: The standard descriptive paragraphs about ELIXIR-UK for press releases, partner pages, job adverts and event invitations.
 page_id: boilerplate
 type: brand
 ---

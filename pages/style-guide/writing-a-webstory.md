@@ -1,5 +1,6 @@
 ---
 title: Writing a webstory
+description: How to structure a webstory and the artifacts that ship alongside it – title, excerpt, slug, social posts, banner image.
 page_id: writing-a-webstory
 type: style_guide
 related_pages:

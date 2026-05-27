@@ -1,5 +1,6 @@
 ---
 title: LLM system prompt
+description: Two ways to put this style guide in front of a language model – point it at the live repo, or paste the prompt – so drafts come back in ELIXIR-UK voice.
 page_id: llm-system-prompt
 type: style_guide
 ---

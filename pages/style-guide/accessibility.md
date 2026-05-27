@@ -1,5 +1,6 @@
 ---
 title: Accessibility
+description: What every contributor needs to do – in writing and in structure – to meet WCAG 2.2 AA and work for screen readers, keyboard navigation and assistive software.
 page_id: accessibility
 type: style_guide
 ---

@@ -1,5 +1,6 @@
 ---
 title: ELIXIR-UK Handbook
+description: The ELIXIR-UK Handbook – brand, voice and communications strategy. Built to be read by humans and by language models.
 ---
 
 A living reference for who ELIXIR-UK is, how we sound, and who we talk to.

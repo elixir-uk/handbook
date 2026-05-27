@@ -1,5 +1,6 @@
 ---
 title: Logos
+description: The ELIXIR-UK mark and the default lockup – the helix-as-X, the wordmark and the UK subtitle. Where the brand lives.
 page_id: logos
 type: brand
 resources: [logo-bundle]

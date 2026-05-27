@@ -1,5 +1,6 @@
 ---
 title: Imagery
+description: How ELIXIR-UK chooses, treats and uses imagery – isometric illustrations, abstract photography, people photography. When each works and what to avoid.
 page_id: imagery
 type: brand
 ---

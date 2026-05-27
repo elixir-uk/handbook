@@ -1,5 +1,6 @@
 ---
 title: Voice
+description: The three voice pillars that shape every piece of ELIXIR-UK writing – report don't announce, specific over warm, credit where credit is due.
 page_id: voice
 type: style_guide
 ---
