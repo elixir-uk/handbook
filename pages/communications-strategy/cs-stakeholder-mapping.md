@@ -70,7 +70,7 @@ Staff at member organisations not currently engaged with ELIXIR-UK.
 
 - **Why they matter:** single-point-of-failure risk if the one engaged person at an org leaves. Broader base reduces gatekeeper effect.
 - **What we want:** lower the activation barrier; offer entry points that fit them.
-- **Key message:** _to author._
+- **Key message:** _"You're probably already an ELIXIR-UK member – check the site for your institution. Either way, our meetings and resources are open to everyone."_
 
 ### Users of ELIXIR-UK resources
 
@@ -96,21 +96,21 @@ Lower influence, lower or variable interest. Passive presence; respond when they
 
 Individuals at UK research-performing organisations that aren't ELIXIR-UK members. Membership is free.
 
-- **What we want:** understand the reasons they stay disconnected.
-- **Key message:** _to author._
+- **What we want:** make clear they can already participate; learn what would draw them deeper.
+- **Key message:** _"Everything we do is open to everyone – meetings, training, resources. Membership only unlocks access to our funding."_
 
 ### Other potential member organisations
 
 UK research-performing organisations not currently ELIXIR-UK members. Membership is free for them.
 
 - **What we do:** publish the info; don't actively pursue.
-- **Key message:** _"There is value to your institution in becoming a Consortium member."_
+- **Key message:** _"Your staff can already join our meetings and use our resources. Membership unlocks funding access for your researchers."_
 
 ### Media & the public
 
 Not a primary consumer of our comms. But growing public interest in health-related research data helps build profile and justify funding.
 
-- **Key message:** _to author._
+- **Key message:** _"Publicly-funded UK life-science research depends on shared data infrastructure – ELIXIR-UK helps build it."_
 
 ## Revisiting the map
 

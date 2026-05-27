@@ -101,6 +101,8 @@ The subtle one. Even good pieces sometimes lapse in the final paragraph, reachin
 | We are proud to be representing the best of the UK life science data resources. | ELIXIR-UK currently brings together [N] UK services across genomics, proteomics, structural biology and health data. |
 | Our amazing community of researchers and data stewards. | Researchers and data stewards across [N] UK institutions. |
 
+{% include callout.html type="note" content="**[N] is a placeholder.** The number of UK services and member institutions changes over time – check the [ELIXIR-UK website](https://elixiruk.org) for the current count before using these lines in copy." %}
+
 ## Talking about our services
 
 We endorse our services; we don't own them. Always name the host institution and let the work belong to the people who do it.

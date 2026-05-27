@@ -35,6 +35,12 @@ For funders (ESFRI, EU, UKRI) ELIXIR-UK presents as a **Research Infrastructure*
 
 The mission and tagline above are deliberately written to hold both together while keeping the network dimension visible. For the sector-wide context behind this choice, see [Brand](/brand).
 
+## What membership means
+
+Membership is institutional, not individual. If your organisation has signed our collaboration agreement, you are an ELIXIR-UK member – many people don't realise they're in. **All our meetings, training and resources are open to everyone, regardless of membership.** The only thing membership unlocks is access to ELIXIR-UK funding.
+
+This shapes how the audience rows below read: most of what looks like "recruitment" copy is actually "you can already take part – come and find out."
+
 ## Community, beneficiaries and other audiences
 
 Before the list itself, a distinction the rest of the strategy reads against.
@@ -53,13 +59,13 @@ The one-line key message each audience receives. Full detail on each – why the
 |---|---|---|
 | Funders | "ELIXIR-UK activities are a cost-efficient way of furthering your mission." | High |
 | ELIXIR-UK members (active) | "The effort you put into working with ELIXIR-UK is worth it." | High |
-| ELIXIR-UK members (inactive) | — | High |
-| Potential new ELIXIR-UK members | — | High |
+| ELIXIR-UK members (inactive) | "You're probably already an ELIXIR-UK member – check the site for your institution. Either way, our meetings and resources are open to everyone." | High |
+| Potential new ELIXIR-UK members | "Everything we do is open to everyone – meetings, training, resources. Membership only unlocks access to our funding." | High |
 | Users of ELIXIR-UK resources | "ELIXIR-UK exists, and it helps you get your work done more effectively and efficiently." | High |
 | ELIXIR Hub and other nodes | "ELIXIR-UK makes a major contribution to the success of ELIXIR." | Medium |
 | Other data organisations | "ELIXIR-UK can work in partnership to further your mission." | High |
-| Other potential member organisations | "There is value to your institution in becoming a Consortium member." | Low |
-| Media & the public | — | Secondary |
+| Other potential member organisations | "Your staff can already join our meetings and use our resources. Membership unlocks funding access for your researchers." | Low |
+| Media & the public | "Publicly-funded UK life-science research depends on shared data infrastructure – ELIXIR-UK helps build it." | Secondary |
 
 ## Sub-pages
 
