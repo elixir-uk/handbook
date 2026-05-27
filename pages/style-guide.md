@@ -11,7 +11,7 @@ The single source of truth for the ELIXIR-UK voice. Authored once. Read by human
 
 - Understand the voice – [Voice]({{ '/voice' | relative_url }}).
 - Sense-check a draft – [Do & don't]({{ '/do-and-dont' | relative_url }}).
-- Look up a term or rule – [Conventions]({{ '/conventions' | relative_url }}).
+- Look up a term or rule – [Conventions](conventions).
 - Get on-brand drafts from an LLM – copy [LLM system prompt]({{ '/llm-system-prompt' | relative_url }}) into Claude / ChatGPT / Gemini.
 
 ## Voice vs tone
