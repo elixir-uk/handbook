@@ -2,6 +2,8 @@ title: ELIXIR-UK Handbook
 topnav_title: ELIXIR-UK Handbook
 description: "The ELIXIR-UK Handbook – brand, voice, and communications strategy. Built to be read by humans and by language models."
 
+baseurl: /handbook
+
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@6.0.0
 
 # Local dev server defaults (override with --port / --host on the CLI)

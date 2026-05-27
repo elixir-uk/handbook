@@ -94,8 +94,8 @@ Each webstory is a bundle of artifacts that get reused across channels.
 ### Banner image and alt text
 
 - Every webstory ships with a banner image at the top of the page.
-- We have a [news banner template](/templates) for webstory banners – use it as the starting point. The same image also gets attached to the LinkedIn post (see [Writing for social](/writing-for-social) for how it's used there).
-- For sourcing, style and treatment of images, see [Brand → Imagery](/imagery). The voice rules don't cover visual choices; the brand section does.
+- We have a [news banner template]({{ '/templates' | relative_url }}) for webstory banners – use it as the starting point. The same image also gets attached to the LinkedIn post (see [Writing for social]({{ '/writing-for-social' | relative_url }}) for how it's used there).
+- For sourcing, style and treatment of images, see [Brand → Imagery]({{ '/imagery' | relative_url }}). The voice rules don't cover visual choices; the brand section does.
 - Alt text describes the image for screen readers and search engines. ~125 characters.
 - Lead with the most important visual fact. *"Attendees in discussion during the ELIXIR-UK All Hands 2025 at Sandy Park, Exeter"* beats *"A photo from the event"*.
 
@@ -200,7 +200,7 @@ Fill in every field that applies. Leave blank only when there is genuinely nothi
 | Field | What to put |
 |---|---|
 | **Subtitle** | A one-line standfirst that appears under the title on the published page. Often the meta description shortened, or a second-line context hook. |
-| **Notes to editors** | The press-release boilerplate: the standard "About ELIXIR-UK" paragraph plus press contact. Auto-added by the **Press release** template – you don't fill it in manually. The text comes from [Boilerplate](/boilerplate). If it ever needs changing, edit the WordPress Press release template (not individual posts), and update [Boilerplate](/boilerplate) so they stay in sync. |
+| **Notes to editors** | The press-release boilerplate: the standard "About ELIXIR-UK" paragraph plus press contact. Auto-added by the **Press release** template – you don't fill it in manually. The text comes from [Boilerplate]({{ '/boilerplate' | relative_url }}). If it ever needs changing, edit the WordPress Press release template (not individual posts), and update [Boilerplate]({{ '/boilerplate' | relative_url }}) so they stay in sync. |
 
 #### People, Members and Collaborators
 
@@ -230,7 +230,7 @@ Fill in every field that applies. Leave blank only when there is genuinely nothi
 
 For posts in the **Press release** category, the **Notes to editors** field carries the standard "About ELIXIR-UK" paragraph plus the press contact. It's auto-populated by the Press release template – you don't fill it in manually on each post.
 
-The canonical text lives on the [Boilerplate](/boilerplate) page in the Brand section. If it ever needs updating, the change has to happen in the **WordPress Press release template** (not in individual posts) – and on the [Boilerplate](/boilerplate) page – so the two stay in sync.
+The canonical text lives on the [Boilerplate]({{ '/boilerplate' | relative_url }}) page in the Brand section. If it ever needs updating, the change has to happen in the **WordPress Press release template** (not in individual posts) – and on the [Boilerplate]({{ '/boilerplate' | relative_url }}) page – so the two stay in sync.
 
 ## Worked example: the full bundle
 

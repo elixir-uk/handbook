@@ -10,13 +10,13 @@ related_pages:
     - cs-crisis
 ---
 
-A working tool, not a finished artefact. The headline list on [Audiences & key messages](/cs-audiences) names *who* we communicate with. This page is *how we prioritise* the effort across them – by influence on our mission, by interest in our work, and by the resulting engagement strategy. The full per-audience detail (why each matters, what we want, channels) lives here too.
+A working tool, not a finished artefact. The headline list on [Audiences & key messages]({{ '/cs-audiences' | relative_url }}) names *who* we communicate with. This page is *how we prioritise* the effort across them – by influence on our mission, by interest in our work, and by the resulting engagement strategy. The full per-audience detail (why each matters, what we want, channels) lives here too.
 
 ## The matrix
 
 *Influence* is how much an audience can shape ELIXIR-UK's ability to deliver its mission (funding, policy, member recruitment, partnership). *Interest* is how much they care about what we do day-to-day.
 
-![Stakeholder influence-by-interest matrix with eight ELIXIR-UK audiences named on the chart, placed across the four quadrants Keep satisfied, Manage closely, Monitor and Keep informed.](/assets/img/communications-strategy/stakeholder-influence-interest-matrix.svg){:style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;"}
+![Stakeholder influence-by-interest matrix with eight ELIXIR-UK audiences named on the chart, placed across the four quadrants Keep satisfied, Manage closely, Monitor and Keep informed.]({{ '/assets/img/communications-strategy/stakeholder-influence-interest-matrix.svg' | relative_url }}){:style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;"}
 
 ### What each quadrant means
 

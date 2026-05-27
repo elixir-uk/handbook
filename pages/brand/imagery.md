@@ -9,7 +9,7 @@ The images we publish carry as much of the ELIXIR-UK voice as the words. This pa
 
 {% include callout.html type="note" content="ELIXIR Europe does not specify an imagery direction, so this level of brand identity is applied at Node level. The rules below are ELIXIR-UK conventions." %}
 
-For the writing-side rules on alt text and image placement, see [Writing a webstory → Banner image and alt text](/writing-a-webstory#banner-image-and-alt-text). For accessibility, see [Accessibility](/accessibility).
+For the writing-side rules on alt text and image placement, see [Writing a webstory → Banner image and alt text]({{ '/writing-a-webstory#banner-image-and-alt-text' | relative_url }}). For accessibility, see [Accessibility]({{ '/accessibility' | relative_url }}).
 
 ## Choosing the hero image
 
@@ -23,7 +23,7 @@ Three on-brand options. The choice depends on what the piece is about.
 
 ELIXIR-UK holds a licensed set of isometric illustrations used as hero imagery across reports, the website, newsletters, posters, slides and even the Zoom waiting room. They're the most recognisable ELIXIR-UK visual element after the logo.
 
-![ELIXIR-UK isometric illustration example: a person at a computer surrounded by communication icons (chat bubbles, video call, documents, paper plane, mobile phone, magnifying glass, lightbulb), used in the Zoom waiting room.](/assets/img/Zoom%20Waiting%20Room@1000x.png){:style="max-width: 600px; display: block; margin: 1rem 0;"}
+![ELIXIR-UK isometric illustration example: a person at a computer surrounded by communication icons (chat bubbles, video call, documents, paper plane, mobile phone, magnifying glass, lightbulb), used in the Zoom waiting room.]({{ '/assets/img/Zoom%20Waiting%20Room@1000x.png' | relative_url }}){:style="max-width: 600px; display: block; margin: 1rem 0;"}
 
 *Example: the ELIXIR-UK Zoom waiting room, built on the licensed isometric set.*
 
@@ -42,7 +42,7 @@ Beyond the isometric set, illustration is used sparingly. Examples: simple diagr
 When other illustration is used:
 
 - **Flat, geometric, brand-coloured.** No skeuomorphic shading, no faux-3D.
-- **From the ELIXIR brand palette**, or close colours if more variants are needed (see [Colour](/colour)).
+- **From the ELIXIR brand palette**, or close colours if more variants are needed (see [Colour]({{ '/colour' | relative_url }})).
 - **Vector (SVG) where possible** – scales, accessible, lightweight.
 
 {% include callout.html type="note" content="**Avoid by default:** cartoon characters, hand-drawn personality illustrations, generic isometric scenes that don't match our licensed set. These can work for a dedicated campaign or special purpose – but only sparingly, and only when there's a clear reason that justifies stepping outside the usual visual language." %}
@@ -77,11 +77,11 @@ For news banners about concepts, papers, services or topics where there is no sp
 - **The ELIXIR helix motif as texture** on banners, social cards and reports where extra visual interest is needed.
 - **Editing stays in the neutral / honest range.** Sharpening, brightness and contrast correction are fine; full filters and stylised colour grades are not.
 
-![Example of a photograph with a brand-colour overlay applied – a social media banner showing the navy or orange overlay treatment that ties an image to the ELIXIR-UK palette.](/assets/img/screenshot-example-image-overlay.png){:style="max-width: 600px; display: block; margin: 1rem 0;"}
+![Example of a photograph with a brand-colour overlay applied – a social media banner showing the navy or orange overlay treatment that ties an image to the ELIXIR-UK palette.]({{ '/assets/img/screenshot-example-image-overlay.png' | relative_url }}){:style="max-width: 600px; display: block; margin: 1rem 0;"}
 
 *Example: brand-colour overlay applied to a photograph for a social media banner.*
 
-![Example of a social media banner combining the navy or orange overlay with the ELIXIR helix motif as texture.](/assets/img/screenshot-example-banner-social-media.jpeg){:style="max-width: 600px; display: block; margin: 1rem 0;"}
+![Example of a social media banner combining the navy or orange overlay with the ELIXIR helix motif as texture.]({{ '/assets/img/screenshot-example-banner-social-media.jpeg' | relative_url }}){:style="max-width: 600px; display: block; margin: 1rem 0;"}
 
 *Example: social media banner using both the overlay and the ELIXIR helix motif as texture.*
 
@@ -96,7 +96,7 @@ For news banners about concepts, papers, services or topics where there is no sp
 
 ## Iconography
 
-{% include callout.html type="note" content="ELIXIR-UK doesn't have a dedicated icon set yet. The toolkit theme ships with **Font Awesome**, which is what the [callouts](/style-guide) and the rest of the site use – reach for it first." %}
+{% include callout.html type="note" content="ELIXIR-UK doesn't have a dedicated icon set yet. The toolkit theme ships with **Font Awesome**, which is what the [callouts]({{ '/style-guide' | relative_url }}) and the rest of the site use – reach for it first." %}
 
 The rule that matters most: **keep icons consistent within a single page or document.** All icons in one place should look like they come from the same designer – same weight, same style (lined or filled, but not mixed), same level of detail.
 
@@ -131,11 +131,11 @@ Two structural cues we use across the site that quietly signal what ELIXIR-UK is
 
 ### Rounded shapes vs hard-edged
 
-![Rounded shapes (organic, on-brand) versus hard-edged rectangles (off-brand). On the left, a navy rounded-corner panel and an orange circular profile. On the right, the same elements as sharp-cornered rectangles.](/assets/img/imagery/shapes-rounded-vs-hard-edged.svg){:style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;"}
+![Rounded shapes (organic, on-brand) versus hard-edged rectangles (off-brand). On the left, a navy rounded-corner panel and an orange circular profile. On the right, the same elements as sharp-cornered rectangles.]({{ '/assets/img/imagery/shapes-rounded-vs-hard-edged.svg' | relative_url }}){:style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;"}
 
 ### Organised grid vs chaotic
 
-![Tidy aligned grid (on-brand) versus scattered misaligned arrangement (off-brand). On the left, a 3 by 2 grid of identical rounded squares. On the right, the same number of rounded squares in varying sizes and rotations, misaligned.](/assets/img/imagery/grid-organised-vs-chaotic.svg){:style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;"}
+![Tidy aligned grid (on-brand) versus scattered misaligned arrangement (off-brand). On the left, a 3 by 2 grid of identical rounded squares. On the right, the same number of rounded squares in varying sizes and rotations, misaligned.]({{ '/assets/img/imagery/grid-organised-vs-chaotic.svg' | relative_url }}){:style="max-width: 600px; width: 100%; height: auto; display: block; margin: 1rem 0;"}
 
 ## Image specifications
 
@@ -167,7 +167,7 @@ The one place AI tools are genuinely useful is **scientific figure generation**,
 - **Stock photo clichés.** Generic handshakes, suited people pointing at screens, "diverse" groups posing too perfectly, the rainbow-lit data centre.
 - **Overused "science" tropes.** The DNA double helix as decoration (the ELIXIR helix is our logo motif, not a stock decoration), test tubes and pipettes when the work isn't wet-lab, microscopes for non-microscopy stories, glowing brain illustrations for AI stories.
 - **Heavy filters and Instagram-style colour grades.** Sharpening and mild correction is fine; full filters are not.
-- **Images of text.** If the words matter, put them in real text. See [Accessibility](/accessibility#colour-and-visual-accessibility).
+- **Images of text.** If the words matter, put them in real text. See [Accessibility]({{ '/accessibility#colour-and-visual-accessibility' | relative_url }}).
 - **Decorative-only images** that add nothing and have nothing meaningful to alt-text.
 - **AI-generated people, places or events.** See above.
 - **Reusing the licensed isometric set outside ELIXIR-UK work** – licence violation.

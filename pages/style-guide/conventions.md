@@ -107,7 +107,7 @@ Acronyms that come up often:
 
 ## Words to pause on
 
-See the [words to pause on](/do-and-dont#words-to-pause-on) table on the Do & don't page. The short version: words like *leverage*, *ecosystem*, *stakeholder*, *cutting-edge* aren't banned – they have legitimate uses – but they're often defaults reached for out of habit. When you find one in your draft, check whether a plainer word would carry the meaning better.
+See the [words to pause on]({{ '/do-and-dont#words-to-pause-on' | relative_url }}) table on the Do & don't page. The short version: words like *leverage*, *ecosystem*, *stakeholder*, *cutting-edge* aren't banned – they have legitimate uses – but they're often defaults reached for out of habit. When you find one in your draft, check whether a plainer word would carry the meaning better.
 
 ## Add what's missing
 

@@ -81,7 +81,7 @@ Personal email to named contacts at organisations and consortia whose work touch
 ### Channel principles
 
 - Don't cross-post the same content unchanged. Each channel gets the right version.
-- Measure per-channel – see [Evaluation](/cs-evaluation).
+- Measure per-channel – see [Evaluation]({{ '/cs-evaluation' | relative_url }}).
 - Retire channels that no longer serve. Twitter/X and MailChimp out; LinkedIn, Bluesky and MailerLite in.
 - **On social, we're lax.** Any mention of ELIXIR-UK by members, partners or community is a win. We don't gate-keep what gets posted under the Node account – the bar is "is this on-brand and useful?", not "is this important enough?".
 - **Reuse the MailerLite templates.** MailerLite holds ready-made templates for the Weekly Brief, Monthly Brief and other campaign types. Start from the template, don't rebuild.
@@ -100,4 +100,4 @@ Empty cells are deliberate: external stakeholders and funders are audiences, not
 
 ## How UK content reaches Hub channels
 
-The ELIXIR Hub runs its own channels – the Weekly Brief, news on elixir-europe.org, the Hub social accounts. UK content reaches these via the [Hub Communications Strategy v2.1](/templates) submission flow: items go to `info@elixir-europe.org`, the Hub retains editorial control. Programme TC, the ELIXIR Communications Group and the ELIXIR Europe Slack are the working forums where UK comms staff stay aligned with Hub plans.
+The ELIXIR Hub runs its own channels – the Weekly Brief, news on elixir-europe.org, the Hub social accounts. UK content reaches these via the [Hub Communications Strategy v2.1]({{ '/templates' | relative_url }}) submission flow: items go to `info@elixir-europe.org`, the Hub retains editorial control. Programme TC, the ELIXIR Communications Group and the ELIXIR Europe Slack are the working forums where UK comms staff stay aligned with Hub plans.
