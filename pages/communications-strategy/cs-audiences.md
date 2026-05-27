@@ -41,8 +41,8 @@ The mission and tagline above are deliberately written to hold both together whi
 
 Before the list itself, a distinction the rest of the strategy reads against.
 
-- **Our community** is the developers, maintainers, data stewards, trainers and technical professionals who build, run, curate and teach the tools, processes and best practices behind UK life-science data infrastructure. ELIXIR-UK exists for them and serves them directly. Most of the "members" rows below sit here.
-- **Beneficiaries** are UK life-science researchers, students and the wider public who use the resources our community builds. They aren't our community, but they are the reason our community's work matters. The "users of ELIXIR-UK resources" row below sits here.
+- **Our community** is the researchers, developers, maintainers, data stewards, trainers and technical professionals who build, run, curate and teach the tools, processes and best practices behind UK life-science data infrastructure. ELIXIR-UK exists for them and serves them directly. Most of the "members" rows below sit here.
+- **Beneficiaries** are UK life-science researchers who use the resources our community creates without contributing to creating them, alongside students and the wider public who rely on the outputs. They aren't our community, but they are the reason our community's work matters. The "users of ELIXIR-UK resources" row below sits here.
 - **Other audiences** – funders, ELIXIR Hub, other Nodes, partner organisations, potential members, media and the public – are people we engage with for specific reasons related to enabling, supporting or extending the community's work.
 
 Within ELIXIR, ELIXIR-UK represents the UK community at European level: we bring UK priorities, expertise and needs into European discussions, and bring European context, standards and opportunities back to UK members. The two-way flow shapes how we communicate with most of these audiences.
