@@ -9,6 +9,8 @@ subitems:
     url: /conventions
   - title: Writing a webstory
     url: /writing-a-webstory
+  - title: Writing for social
+    url: /writing-for-social
   - title: Accessibility
     url: /accessibility
   - title: LLM system prompt

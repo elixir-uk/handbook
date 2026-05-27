@@ -29,7 +29,6 @@ The principles above are ELIXIR-UK's deliberate response to those tensions – h
 
 How we work, listed in no priority order – they balance each other rather than rank.
 
-- **Financial sustainability** – we don't promise what we can't maintain.
 - **Scientific rigour** – evidence-led, FAIR-aligned, no overclaiming.
 - **Collaboration** – credits and connections over solo authorship.
 - **Inclusiveness** – multi-discipline, multi-career-stage, multi-region UK.

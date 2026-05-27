@@ -8,6 +8,9 @@ related_pages:
     - cs-objectives
     - cs-implementation
     - cs-evaluation
+  style_guide:
+    - writing-a-webstory
+    - writing-for-social
 ---
 
 The "S" in OASIS. **Automate the routine, hand-craft the story.**
@@ -83,6 +86,8 @@ Personal email to named contacts at organisations and consortia whose work touch
 - Don't cross-post the same content unchanged. Each channel gets the right version.
 - Measure per-channel – see [Evaluation](/cs-evaluation).
 - Retire channels that no longer serve. Twitter/X and MailChimp out; LinkedIn, Bluesky and MailerLite in.
+- **On social, we're lax.** Any mention of ELIXIR-UK by members, partners or community is a win. We don't gate-keep what gets posted under the Node account – the bar is "is this on-brand and useful?", not "is this important enough?".
+- **Reuse the MailerLite templates.** MailerLite holds ready-made templates for the Weekly Brief, Monthly Brief and other campaign types. Start from the template, don't rebuild.
 
 ## Content pillars × audience
 

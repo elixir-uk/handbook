@@ -2,6 +2,14 @@
 title: Writing a webstory
 page_id: writing-a-webstory
 type: style_guide
+related_pages:
+  style_guide:
+    - voice
+    - do-and-dont
+    - writing-for-social
+  communications_strategy:
+    - cs-strategy
+    - cs-implementation
 ---
 
 A webstory is the unit of news on the ELIXIR-UK site. This page covers how to structure one and what artifacts to ship alongside it (title, excerpt, slug, social posts, banner image).
@@ -85,6 +93,7 @@ Each webstory is a bundle of artifacts that get reused across channels.
 ### Banner image and alt text
 
 - Every webstory ships with a banner image at the top of the page.
+- We have a [news banner template](/templates) for webstory banners – use it as the starting point. The same image also gets attached to the LinkedIn post (see [Writing for social](/writing-for-social) for how it's used there).
 - For sourcing, style and treatment of images, see [Brand → Imagery](/imagery). The voice rules don't cover visual choices; the brand section does.
 - Alt text describes the image for screen readers and search engines. ~125 characters.
 - Lead with the most important visual fact. *"Attendees in discussion during the ELIXIR-UK All Hands 2025 at Sandy Park, Exeter"* beats *"A photo from the event"*.

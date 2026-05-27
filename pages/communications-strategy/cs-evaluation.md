@@ -46,10 +46,10 @@ Every row in the [Implementation](/cs-implementation) table has an evaluation me
 
 | Audience | Format | Cadence |
 |---|---|---|
-| Coordination Office | Working KPI dashboard | Monthly |
-| Comms team / contributors | Progress + recommendations | Quarterly |
+| Coordination Office + Management Committee | Working KPI dashboard | Annual |
 | Node leadership (HoNs, SAB) | High-level summary | Annual |
-| Funders | Impact narrative | Annual + ad-hoc |
+| Clubs | Summary of engagement | Annual |
+| Funders | Impact narrative | Annual |
 
 ## Using findings
 

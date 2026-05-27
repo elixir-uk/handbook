@@ -62,6 +62,13 @@
   type: template
   section: [brand, communications-strategy]
 
+- id: tpl-news-banner
+  name: News banner template
+  url: "#"
+  description: Template image for webstory banners and the LinkedIn post that accompanies them. _Link placeholder – to be confirmed._
+  type: template
+  section: [brand, style-guide]
+
 - id: tpl-webstory-hero
   name: Webstory hero image template
   url: "#"
