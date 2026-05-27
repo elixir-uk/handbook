@@ -2,7 +2,7 @@
 
 A Jekyll site that documents the ELIXIR-UK brand, voice, communications strategy, and community participation model – and doubles as an LLM system prompt for on-brand drafting.
 
-Source for the [published site](https://elixir-uk.github.io/style-guide/) _(once deployed)_.
+Source for the [published site](https://elixir-uk.github.io/style-guide/).
 
 ## What's here
 
@@ -49,7 +49,7 @@ GitHub Pages, built via GitHub Actions (`.github/workflows/jekyll.yml`). To enab
 
 ## Status
 
-Bootstrap scaffold (May 2026). Section pages are stubbed; content authoring in progress. The original brand guidelines PDF was lost when Adobe Cloud was deprecated; rebuilding from memory + the one surviving page + the parent ELIXIR Europe brand references.
+Active build, May 2026. Brand and Style guide sections are populated; Communications strategy foundations and Audiences are in; Community participation guidelines are in. Remaining stubs (Strategy / Implementation / Evaluation in Comms, plus most of Community participation) are being authored. The original brand guidelines PDF was lost when Adobe Cloud was deprecated; the visual identity is being rebuilt from the one surviving page, the parent ELIXIR Europe references, and the new logo bundle.
 
 ## Contributing
 

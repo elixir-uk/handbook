@@ -13,7 +13,7 @@ Two things that often live separately but really shouldn't. Communities that get
 
 ## Governance
 
-_To author. Document:_
+{% include callout.html type="note" content="**Drafting.** Governance specifics are being documented with the Coordination Office. The areas below are the scope of what will be published here." %}
 
 - **Decision-making structures** – board, steering committee, working groups, who has formal authority over what
 - **How community input feeds in** – open consultations, working-group recommendations, surveys

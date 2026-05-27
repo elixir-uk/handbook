@@ -44,4 +44,4 @@ Each row is an activity, mapped to its audiences, the [objectives](/cs-objective
 
 ## Playbooks
 
-Each Implemented and In-progress activity should have a one-page playbook: trigger / cadence, content template, channel mix, owner, evaluation cadence. _To author – link from each row above as they're written._
+Each Implemented and In-progress activity should have a one-page playbook: trigger / cadence, content template, channel mix, owner, evaluation cadence. Playbooks are linked from each activity row above as they are written up.

@@ -33,12 +33,7 @@ How it works:
 
 ## Designing the steps
 
-| From → To | Most common entry | Next-step prompt | What we offer in return |
-|---|---|---|---|
-| Aware → Engaged | _to author_ | _to author_ | _to author_ |
-| Engaged → Contributing | _to author_ | _to author_ | _to author_ |
-| Contributing → Co-creating | _to author_ | _to author_ | _to author_ |
-| Co-creating → Leading | _to author_ | _to author_ | _to author_ |
+{% include callout.html type="note" content="**Drafting.** The transitions table below maps the practical mechanisms for each step – most common entry, the next-step prompt we use, and what we offer in return. Worked content is being authored with the Coordination Office; the table is held back until the values are agreed rather than published with placeholders." %}
 
 ## Anti-pattern
 

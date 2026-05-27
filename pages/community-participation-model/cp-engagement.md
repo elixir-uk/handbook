@@ -17,7 +17,7 @@ The mechanisms by which the community actually meets ELIXIR-UK. Each one has a j
 
 ### Training programmes
 
-_To author: what we deliver, who attends, the role training plays in the [pathway](/cp-pathways)._
+{% include callout.html type="note" content="**Drafting.** A description of what ELIXIR-UK delivers in training, who attends, and the role training plays in the [participation pathway](/cp-pathways) is being authored with the Training Coordinators." %}
 
 ### Events
 

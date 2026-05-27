@@ -60,7 +60,7 @@ To ensure this, we actively encourage all our attendees to:
 
 Participants who experience or witness any unacceptable behaviour should, as a first step, **vocalise the behaviour directly to the alleged offender** to ask for it to stop.
 
-As an alternative, or if approaching the alleged offender was unsuccessful or not possible, you can let us know after the event using the [online reporting form](#) _(link to be added)_ or by contacting any member of the ELIXIR-UK Coordination Office directly.
+As an alternative, or if approaching the alleged offender was unsuccessful or not possible, you can let us know after the event using the online reporting form (link forthcoming) or by contacting any member of the ELIXIR-UK Coordination Office directly.
 
 - Reports will be handled **confidentially** and, where appropriate, with input from advisors on inclusion and accessibility.
 - **Anonymous reports are welcome.** Please note that if you would like someone to follow up with you about the progress of your incident report, you would need to provide contact information.

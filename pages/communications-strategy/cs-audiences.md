@@ -55,13 +55,13 @@ The one-line key message each audience receives. Full detail on each – why the
 |---|---|---|
 | Funders | "ELIXIR-UK activities are a cost-efficient way of furthering your mission." | High |
 | ELIXIR-UK members (active) | "The effort you put into working with ELIXIR-UK is worth it." | High |
-| ELIXIR-UK members (inactive) | _to author_ | High |
-| Potential new ELIXIR-UK members | _to author_ | High |
+| ELIXIR-UK members (inactive) | — | High |
+| Potential new ELIXIR-UK members | — | High |
 | Users of ELIXIR-UK resources | "ELIXIR-UK exists, and it helps you get your work done more effectively and efficiently." | High |
 | ELIXIR Hub and other nodes | "ELIXIR-UK makes a major contribution to the success of ELIXIR." | Medium |
 | Other data organisations | "ELIXIR-UK can work in partnership to further your mission." | High |
 | Other potential member organisations | "There is value to your institution in becoming a Consortium member." | Low |
-| Media & the public | _to author_ | Secondary |
+| Media & the public | — | Secondary |
 
 ## Sub-pages
 

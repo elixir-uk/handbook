@@ -20,7 +20,7 @@ theme_variables:
   fonts:
     - https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap
 
-topnav_banner: "This handbook is under active improvement – expect things to change."
+topnav_banner: "An evolving reference. New sections are being added through 2026."
 
 exclude:
   - README.md
