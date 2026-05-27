@@ -1,5 +1,5 @@
 /*========================================================================
-  ELIXIR-UK Brand & Style Guide — custom classes
+  ELIXIR-UK Brand & Style Guide – custom classes
   Mostly mirrors elixir-europe-training/ELIXIR-ELITMa.
   Section navigation tiles take inspiration from
   elixir-europe/ds-handbook's related-pages (numbered cards + chevron CTA),
@@ -32,7 +32,7 @@ body {
     }
 }
 
-// Navbar items — force white text on dark navbar (theme's dark variant
+// Navbar items – force white text on dark navbar (theme's dark variant
 // doesn't always cascade the color through)
 header .navbar {
     .navbar-brand, .nav-link {
@@ -58,7 +58,7 @@ header .navbar .navbar-brand {
     }
 }
 
-// Search input — white text on dark navbar
+// Search input – white text on dark navbar
 header .navbar {
     .form-control, .search-input {
         background-color: rgba($white, 0.08) !important;
@@ -112,7 +112,7 @@ footer .col-6.col-lg-6.d-flex.justify-content-lg-start {
 }
 
 
-/*-----Page intro — page title + uppercase type subtitle on white-----*/
+/*-----Page intro – page title + uppercase type subtitle on white-----*/
 // The theme renders <div id="intro"> wrapping the H1 + the type subtitle
 // + the edit-me action buttons. Keep it plain on white; the type
 // subtitle becomes a thin light-weight uppercase eyebrow above the H1
@@ -312,7 +312,7 @@ footer .col-6.col-lg-6.d-flex.justify-content-lg-start {
         gap: 0.25rem;
     }
 
-    // Type label row — uppercase letter-spaced, orange, ds-handbook flavour
+    // Type label row – uppercase letter-spaced, orange, ds-handbook flavour
     .card-body > .d-flex.align-items-center {
         margin-bottom: 0;
 
@@ -377,7 +377,7 @@ footer .col-6.col-lg-6.d-flex.justify-content-lg-start {
     }
 }
 
-// "Related pages" heading — make it a section divider, not a giant H2
+// "Related pages" heading – make it a section divider, not a giant H2
 #main h2:has(~ .navigation-tiles),
 #main > h2 + .row.navigation-tiles {
     // Selector above is best-effort; the heading already sits just above
@@ -392,7 +392,7 @@ footer .col-6.col-lg-6.d-flex.justify-content-lg-start {
 }
 
 
-/*-----Sidebar — RDMkit split-background pattern-----*/
+/*-----Sidebar – RDMkit split-background pattern-----*/
 // Body gets a left-half-grey / right-half-white gradient so the sidebar
 // block visually extends to the LEFT edge of the screen (past the
 // container's max-width). Main#main has its own white bg that masks
@@ -452,7 +452,7 @@ footer .col-6.col-lg-6.d-flex.justify-content-lg-start {
     margin-top: $spacer * 0.5;
 }
 
-// Active tab — light blue at #9BCBDD is invisible on the #EEEEEE
+// Active tab – light blue at #9BCBDD is invisible on the #EEEEEE
 // sidebar bg, so override the theme's ::after to a stronger
 // orange-tinted tile, add a bold orange left bar, and bolden the text.
 #sidebar > nav > ul li a.active::after,

@@ -11,7 +11,7 @@ related_pages:
     - cs-crisis
 ---
 
-
+–
 The ELIXIR-UK Community Participation Guidelines are based on the <a href="https://elixir-europe.org">ELIXIR Hub Code of Conduct</a>. We expect compliance and commitment to these ELIXIR values and principles at all ELIXIR-UK events — they are an integral part of how we support the development of ELIXIR and of each other.
 
 These four principles apply to everyone in an ELIXIR-UK space: in-person events, online meetings, mailing lists, Slack, GitHub repositories, social channels, and any other forum where the ELIXIR-UK community gathers.
@@ -42,7 +42,7 @@ ELIXIR-UK is committed to making all our events collaborative, supportive, enjoy
 - We create a safe and open environment that welcomes individuals to express their opinions or concerns.
 
 ### 4. Respect and show courtesy to each other
-
+–
 We will ensure that our environment allows everyone to feel respected and included, and all participants attending our events are expected to show respect and courtesy to others — whether in person or online.
 
 To ensure this, we actively encourage all our attendees to:
@@ -68,7 +68,7 @@ As an alternative, or if approaching the alleged offender was unsuccessful or no
 ### Oversight and next steps
 
 All reports will be reviewed by the ELIXIR-UK Coordination Office, with advice from the **Inclusion, Diversity, Equality and Accessibility (IDEA) Manager at Earlham Institute** as an independent voice.
-
+–
 - All members of the Coordination Office will be part of the discussion, **unless the report involves an individual in it** — in which case that person is excluded from the review.
 - Our aim is always to resolve issues in a fair and supportive way, keeping our community safe and welcoming.
 

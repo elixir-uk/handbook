@@ -2,11 +2,11 @@
 title: Logo construction & clearspace
 page_id: logo-clearspace
 type: brand
----
+---–
 
 Keep the logo clear of any other graphic elements. The "protected space" around the logo is what makes the brand feel consistent — crowding it makes everything else feel cheaper.
 
-## Clearspace
+## Clearspace–
 
 > _To author: define the x-height unit and the minimum padding multiple. The original Maxima template suggested x/3 on all sides — verify against the surviving ELIXIR-UK reference._
 

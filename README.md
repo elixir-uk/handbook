@@ -1,15 +1,15 @@
 # ELIXIR-UK Handbook
 
-A Jekyll site that documents the ELIXIR-UK brand, voice, communications strategy, and community participation model — and doubles as an LLM system prompt for on-brand drafting.
+A Jekyll site that documents the ELIXIR-UK brand, voice, communications strategy, and community participation model – and doubles as an LLM system prompt for on-brand drafting.
 
 Source for the [published site](https://elixir-uk.github.io/style-guide/) _(once deployed)_.
 
 ## What's here
 
-- **Brand** — visual identity: logos, colour, typography, imagery, templates
-- **Style guide** — how we write: voice, conventions, do-and-don't, LLM system prompt
-- **Communications strategy** — OASIS framework: objectives, audiences, channels, implementation, evaluation, crisis comms
-- **Community participation model** — participation guidelines (code of conduct), who the community is, pathways, engagement, governance
+- **Brand** – visual identity: logos, colour, typography, imagery, templates
+- **Style guide** – how we write: voice, conventions, do-and-don't, LLM system prompt
+- **Communications strategy** – OASIS framework: objectives, audiences, channels, implementation, evaluation, crisis comms
+- **Community participation model** – participation guidelines (code of conduct), who the community is, pathways, engagement, governance
 
 ## How to edit
 
@@ -35,7 +35,7 @@ This site uses the [ELIXIR Toolkit Theme](https://github.com/ELIXIR-Belgium/elix
 The voice & tone section is authored as plain markdown so it can be consumed two ways:
 
 1. **Humans read the rendered site** at the published URL.
-2. **An LLM consumes the markdown directly** — paste the prompt from `pages/voice-and-tone/llm-system-prompt.md` into Claude / ChatGPT / Gemini as a system prompt to get on-brand drafts.
+2. **An LLM consumes the markdown directly** – paste the prompt from `pages/voice-and-tone/llm-system-prompt.md` into Claude / ChatGPT / Gemini as a system prompt to get on-brand drafts.
 
 The principle: **one source, two readers.** Update the voice/conventions/examples pages, then sync the `llm-system-prompt.md` from them. Never maintain a separate "prompt document" that drifts from the public guidelines.
 
@@ -45,7 +45,7 @@ GitHub Pages, built via GitHub Actions (`.github/workflows/jekyll.yml`). To enab
 
 1. Push this repo to GitHub.
 2. Settings → Pages → set Source to "GitHub Actions".
-3. Push to `main` — the workflow builds and deploys.
+3. Push to `main` – the workflow builds and deploys.
 
 ## Status
 

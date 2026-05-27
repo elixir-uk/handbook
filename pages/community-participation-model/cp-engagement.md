@@ -28,14 +28,14 @@ Annual All-Hands meeting, workshops, partner events, online community calls.
 The standing groups, what they're for, how someone joins. Each group should have a named [entry buddy](/cp-pathways).
 
 ### Ambassador programme
-
+––
 > _Under consideration. From the [2024 strategy](/cs-implementation) and the AH 2023 feedback: "We need ambassadors — members who represent ELIXIR-UK locally to make others interested." Concept: a playbook for members to talk about the Node — events, webinars, activities they can run in their institution._
 
-**Design questions to settle:**
-- Recruitment — open call, nomination, both?
-- Time commitment — hours per quarter, what we provide in return
-- The playbook — slides, FAQ, sample talks, branded assets from [Brand](/brand) and [Templates](/templates)
-- Recognition — listed on the website, credit in reports, professional letters of contribution
+**Design quest–ons to settle:**
+- Recruitment — op–n call, nomination, both?
+- Time commitme–t — hours per quarter, what we provide in return
+- The playbook–— slides, FAQ, sample talks, branded assets from [Brand](/brand) and [Templates](/templates)
+- Recognition–— listed on the website, credit in reports, professional letters of contribution
 - Evaluation — applications year-on-year, diversity of representation across UK members
 
 ### One-to-one stewardship
@@ -43,7 +43,7 @@ The standing groups, what they're for, how someone joins. Each group should have
 Stakeholder management, partner relationships, champions network.
 
 ### Digital touchpoints
-
+––
 Newsletter, socials, GitHub, the website — but only the parts that drive community engagement (not broadcast comms — that's the [Communications strategy](/communications-strategy)).
 
 ## Engagement principles

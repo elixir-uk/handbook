@@ -25,37 +25,37 @@ Every implementation activity should serve at least one of these four. If it doe
 
 With active community members, by sharing personal stories and showcasing their work.
 
-- **Foster engagement** — webinars, regular events, community calls. Connects to the [Community participation model](/community-participation-model).
-- **Promote inclusivity** — individual profile pages, stories that name contributors.
-- **Strengthen internal comms** — regular updates, feedback mechanisms.
+- **Foster engagement** – webinars, regular events, community calls. Connects to the [Community participation model](/community-participation-model).
+- **Promote inclusivity** – individual profile pages, stories that name contributors.
+- **Strengthen internal comms** – regular updates, feedback mechanisms.
 
 ## 2. Grow the network
 
 Across UK research-performing organisations.
 
-- **Expand membership** — target leading voices at member orgs + bottom-up via groundwork staff.
-- **Strategic partnerships** — collaborators with broader reach we can tap into.
-- **Use platforms aligned with our values** — Mastodon, Bluesky, MailerLite. Move away from those that aren't (Twitter/X, MailChimp).
+- **Expand membership** – target leading voices at member orgs + bottom-up via groundwork staff.
+- **Strategic partnerships** – collaborators with broader reach we can tap into.
+- **Use platforms aligned with our values** – Mastodon, Bluesky, MailerLite. Move away from those that aren't (Twitter/X, MailChimp).
 
 ## 3. Amplify reach
 
 Of work by ELIXIR-UK members, relevant resources, stakeholder work, and endorsed services.
 
-- **Content strategy** — high-quality, shareable content across multiple channels.
-- **Media relations** — secure coverage where it matters.
-- **Use analytics** — refine, don't just collect.
+- **Content strategy** – high-quality, shareable content across multiple channels.
+- **Media relations** – secure coverage where it matters.
+- **Use analytics** – refine, don't just collect.
 
 ## 4. Raise profile
 
 For better long-term sustainability.
 
-- **Thought leadership** — members as named experts, speaking engagements, publications, international collaborations.
-- **Ambassador programme** — empower staff at member orgs to showcase their work. Expert voices beat corporate messages.
-- **Brand consistency** — see [Brand](/brand) and [Style guide](/style-guide).
+- **Thought leadership** – members as named experts, speaking engagements, publications, international collaborations.
+- **Ambassador programme** – empower staff at member orgs to showcase their work. Expert voices beat corporate messages.
+- **Brand consistency** – see [Brand](/brand) and [Style guide](/style-guide).
 
 ## Parent ELIXIR objectives (for alignment)
 
-ELIXIR Hub's five objectives — ours should always be checkable against these:
+ELIXIR Hub's five objectives – ours should always be checkable against these:
 
 1. Raise awareness of ELIXIR
 2. Communicate the impact of ELIXIR

@@ -37,7 +37,7 @@ The "S" of OASIS. Without measurement we'll either do too much (everything feels
 
 ## Per-activity evaluation
 
-Every row in the [Implementation](/cs-implementation) table has an evaluation method. Principle: **the channel and the KPI go together** — when we change a channel, we revisit its KPI.
+Every row in the [Implementation](/cs-implementation) table has an evaluation method. Principle: **the channel and the KPI go together** – when we change a channel, we revisit its KPI.
 
 ## Reporting
 
@@ -53,7 +53,7 @@ Every row in the [Implementation](/cs-implementation) table has an evaluation me
 When an indicator moves significantly:
 
 1. Is the change real? (Seasonal, campaign spike, one-off event?)
-2. If real and positive — what produced it, can we do more?
-3. If real and negative — change the activity, channel, or message.
+2. If real and positive – what produced it, can we do more?
+3. If real and negative – change the activity, channel, or message.
 
-Findings feed the next strategic review. Acknowledge limits when reporting — what we couldn't measure and why.
+Findings feed the next strategic review. Acknowledge limits when reporting – what we couldn't measure and why.

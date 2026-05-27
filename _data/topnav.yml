@@ -1,4 +1,4 @@
-## Top navigation — flat, no dropdowns.
+## Top navigation – flat, no dropdowns.
 ## Sub-page discovery happens via the sidebar once you're inside a section.
 ## If you want to list an external URL, use external_url instead of url.
 subitems:

@@ -26,28 +26,28 @@
 
 # --- Logos --------------------------------------------------------------
 - id: main-logo-horizontal
-  name: ELIXIR-UK logo — horizontal lockup
+  name: ELIXIR-UK logo – horizontal lockup
   url: /assets/img/logos/main-logo-horizontal.svg
-  description: Primary horizontal logo lockup. SVG. (Currently using the parent ELIXIR mark — to be replaced with ELIXIR-UK-specific lockup once recovered/reconstructed.)
+  description: Primary horizontal logo lockup. SVG. (Currently using the parent ELIXIR mark – to be replaced with ELIXIR-UK-specific lockup once recovered/reconstructed.)
   type: logo
   section: [brand]
 
 - id: main-logo-mark
-  name: ELIXIR-UK logo — main mark
+  name: ELIXIR-UK logo – main mark
   url: /assets/img/logos/main_logo.svg
   description: Square logo mark. SVG. Use when the wordmark would be too long for the available space.
   type: logo
   section: [brand]
 
 - id: logo-sponsored
-  name: ELIXIR-UK logo — sponsored variant
+  name: ELIXIR-UK logo – sponsored variant
   url: "#"
   description: For events or sponsorship occasions. _To be added._
   type: logo
   section: [brand]
 
 - id: logo-expanded
-  name: ELIXIR-UK logo — expanded variant
+  name: ELIXIR-UK logo – expanded variant
   url: "#"
   description: For occasions where the logotype needs horizontal alignment and the logomark alone isn't enough. _To be added._
   type: logo
@@ -65,21 +65,21 @@
 - id: tpl-slide-deck
   name: Slide-deck template
   url: "#"
-  description: Default 16:9 slide deck. _To be added — Google Slides and PowerPoint._
+  description: Default 16:9 slide deck. _To be added – Google Slides and PowerPoint._
   type: template
   section: [brand]
 
 - id: tpl-social-post
   name: Social post templates
   url: "#"
-  description: LinkedIn / Bluesky / Mastodon post graphics. _To be added — Figma + Canva._
+  description: LinkedIn / Bluesky / Mastodon post graphics. _To be added – Figma + Canva._
   type: template
   section: [brand, communications-strategy]
 
 - id: tpl-webstory-hero
   name: Webstory hero image template
   url: "#"
-  description: Hero-image template for ELIXIR-UK webstories. _To be added — Figma._
+  description: Hero-image template for ELIXIR-UK webstories. _To be added – Figma._
   type: template
   section: [brand, style-guide]
 
@@ -148,7 +148,7 @@
 - id: elixir-hub
   name: ELIXIR (Hub)
   url: https://elixir-europe.org
-  description: The parent ELIXIR organisation — European life-science data infrastructure.
+  description: The parent ELIXIR organisation – European life-science data infrastructure.
   type: external-link
   section: [brand, communications-strategy, community-participation-model]
 
@@ -160,7 +160,7 @@
   section: [brand, communications-strategy]
 
 - id: elitma
-  name: ELITMa — ELIXIR Training Programme in Management
+  name: ELITMa – ELIXIR Training Programme in Management
   url: https://elixir-europe-training.github.io/ELIXIR-ELITMa
   description: Sibling toolkit-theme site using the canonical ELIXIR brand. CSS reference for this style guide.
   type: external-link
@@ -192,14 +192,14 @@
 - id: steers-comms-toolkit
   name: ELIXIR Node Communications Strategy Toolkit
   url: https://elixir-europe.org
-  description: ELIXIR-STEERS M5.3 (Nov 2025) — canonical template for Node communications strategies.
+  description: ELIXIR-STEERS M5.3 (Nov 2025) – canonical template for Node communications strategies.
   type: external-link
   section: [communications-strategy]
 
 - id: elixir-brand-guidelines
   name: ELIXIR (parent) Brand Guidelines
   url: https://elixir-europe.org
-  description: Parent ELIXIR brand book — palette, logo, type. ELIXIR-UK inherits from this.
+  description: Parent ELIXIR brand book – palette, logo, type. ELIXIR-UK inherits from this.
   type: external-link
   section: [brand]
 

@@ -13,11 +13,11 @@ related_pages:
 How someone moves from "I heard about ELIXIR-UK once" to "I co-deliver an ELIXIR-UK programme." If we don't design the steps, we get sporadic enthusiasm and not much else.
 
 ## The ladder
-
-1. **Aware** — knows ELIXIR-UK exists; has seen a webstory, attended a talk, used a tool.
-2. **Engaged** — actively uses something. Subscribes to the newsletter; joins a training.
-3. **Contributing** — gives something back. Feedback, working-group input, event attendance.
-4. **Co-creating** — partners on a programme. Co-delivers training; co-authors materials; brings their institution in.
+–
+1. **Aware** — –nows ELIXIR-UK exists; has seen a webstory, attended a talk, used a tool.
+2. **Engaged** — act–vely uses something. Subscribes to the newsletter; joins a training.
+3. **Contributing**–— gives something back. Feedback, working-group input, event attendance.
+4. **Co-creatin–** — partners on a programme. Co-delivers training; co-authors materials; brings their institution in.
 5. **Leading** — represents ELIXIR-UK to a wider audience. Chairs a working group; mentors newcomers; speaks on our behalf.
 
 ## Buddy model for paths to entry
@@ -25,7 +25,7 @@ How someone moves from "I heard about ELIXIR-UK once" to "I co-deliver an ELIXIR
 From AH 2023: _"like a buddy to go in. If you don't know anything about it, here's a person as a volunteer to explain how to get in."_ GA4GH does this.
 
 How it works:
-
+–
 - Every working group or community has at least one named **entry buddy** — a volunteer who introduces newcomers.
 - Newcomers contact the buddy directly. Buddy explains what the group does, what contribution looks like, how to join.
 - Buddies rotate annually so the load is shared.

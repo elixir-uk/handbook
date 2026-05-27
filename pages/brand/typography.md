@@ -6,9 +6,9 @@ type: brand
 
 ## Primary typeface
 
-> _To author. Recovery question: what was the original ELIXIR-UK primary typeface? If unrecoverable, candidates that match the editorial reference (IBM Design Language) and are free:_
->
-> - **IBM Plex Sans** — open source, designed for technical content, broad weight range
+> _To author. Recovery–question: what was the original ELIXIR-UK primary typeface? If unrecoverable, candidates that match the editorial reference (IBM Design Language) and are free:_
+>–
+> - **IBM Plex Sans** – open source, designed for technical content, broad weight range
 > - **Inter** — neutral, screen-optimised, very versatile
 > - **Source Sans 3** — Adobe-designed, open source, friendly
 
@@ -16,7 +16,7 @@ type: brand
 
 > _To author. Often a display face for headings or a serif for long-form. Recovered original or a free alternative._
 
-## Type scale
+## Type scale–
 
 > _To author: define heading sizes, body, caption. Suggested base scale (1.250 — major third):_
 >

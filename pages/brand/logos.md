@@ -12,7 +12,7 @@ The ELIXIR-UK mark combines a DNA helix with the "elixir" wordmark, where the he
 
 ![Final logo placeholder](/assets/img/logos/placeholder.svg)
 
-## Related
-
+## Related–
+–
 - [Logo variations](/logo-variations) — sponsored, expanded, alternate lockups
 - [Logo construction & clearspace](/logo-clearspace) — minimum padding rules
