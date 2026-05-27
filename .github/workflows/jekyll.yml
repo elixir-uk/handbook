@@ -36,6 +36,11 @@ jobs:
         run: |
           bundle install
 
+      - name: Build logos zip
+        run: |
+          mkdir -p assets/downloads
+          cd assets/img && zip -r ../downloads/elixir-uk-logos.zip logos
+
       - name: Build with Jekyll
         run: |
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"

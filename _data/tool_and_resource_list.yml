@@ -15,7 +15,7 @@
 #
 # Page usage:
 #   In a page's frontmatter, list the resources to display at the bottom:
-#       resources: [main-logo-horizontal, isometric-illustrations]
+#       resources: [logotype, isometric-illustrations]
 #   Then drop the include at the bottom of the page:
 #       {% include section-resources.html ids=page.resources %}
 #
@@ -25,31 +25,10 @@
 
 
 # --- Logos --------------------------------------------------------------
-- id: main-logo-horizontal
-  name: ELIXIR-UK logo – horizontal lockup
-  url: /assets/img/logos/main-logo-horizontal.svg
-  description: Primary horizontal logo lockup. SVG. (Currently using the parent ELIXIR mark – to be replaced with ELIXIR-UK-specific lockup once recovered/reconstructed.)
-  type: logo
-  section: [brand]
-
-- id: main-logo-mark
-  name: ELIXIR-UK logo – main mark
-  url: /assets/img/logos/main_logo.svg
-  description: Square logo mark. SVG. Use when the wordmark would be too long for the available space.
-  type: logo
-  section: [brand]
-
-- id: logo-sponsored
-  name: ELIXIR-UK logo – sponsored variant
-  url: "#"
-  description: For events or sponsorship occasions. _To be added._
-  type: logo
-  section: [brand]
-
-- id: logo-expanded
-  name: ELIXIR-UK logo – expanded variant
-  url: "#"
-  description: For occasions where the logotype needs horizontal alignment and the logomark alone isn't enough. _To be added._
+- id: logo-bundle
+  name: ELIXIR-UK logo bundle
+  url: /assets/downloads/elixir-uk-logos.zip
+  description: All four ELIXIR-UK lockups (logotype, logomark, expanded, sponsored) with their light- and dark-background variants in SVG and PNG. See [Logo variations](/logo-variations) for previews and individual downloads.
   type: logo
   section: [brand]
 
