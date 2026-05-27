@@ -13,11 +13,11 @@ If your tool can read files from the web or a GitHub repo – Claude with file t
 
 Paste something like this at the start of your conversation:
 
-> *Read the ELIXIR-UK Handbook style guide pages at [https://github.com/elixir-uk/style-guide/tree/main/pages/style-guide](https://github.com/elixir-uk/style-guide/tree/main/pages/style-guide). Use that voice and those conventions for everything you draft from now on. When I ask for a draft, return only the draft.*
+> *Read the ELIXIR-UK Handbook style guide pages at [https://github.com/elixir-uk/handbook/tree/main/pages/style-guide](https://github.com/elixir-uk/handbook/tree/main/pages/style-guide). Use that voice and those conventions for everything you draft from now on. When I ask for a draft, return only the draft.*
 
 Or, if your tool can navigate the rendered site instead of the repo:
 
-> *Read [https://elixir-uk.github.io/style-guide/style-guide](https://elixir-uk.github.io/style-guide/style-guide) and the four pages linked from it. Use that voice and those conventions for everything you draft from now on.*
+> *Read [https://elixir-uk.github.io/handbook/style-guide](https://elixir-uk.github.io/handbook/style-guide) and the four pages linked from it. Use that voice and those conventions for everything you draft from now on.*
 
 This is the single-source-of-truth path: one set of pages, two readers (humans on the site, models reading the markdown).
 

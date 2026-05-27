@@ -71,6 +71,6 @@ plugins:
   - webrick
 
 github:
-  repository_url: https://github.com/elixir-uk/style-guide
+  repository_url: https://github.com/elixir-uk/handbook
   source:
     branch: main

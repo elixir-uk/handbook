@@ -2,8 +2,6 @@
 
 A Jekyll site that documents the ELIXIR-UK brand, voice and communications strategy – and doubles as an LLM system prompt for on-brand drafting.
 
-Source for the [published site](https://elixir-uk.github.io/handbook/).
-
 ## What's here
 
 - **Brand** – visual identity: logos, colour, typography, imagery, templates
