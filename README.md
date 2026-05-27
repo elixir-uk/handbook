@@ -38,4 +38,4 @@ For local setup, forking and deployment, callouts, sidebars, navigation tiles an
 
 ## Contributing
 
-Open a pull request. Small fixes (typos, clarifications) can be merged directly. Voice and brand-rule changes should pin in `@xenia` for review.
+Open a pull request or an issue. Small fixes (typos, clarifications) can be merged directly.
