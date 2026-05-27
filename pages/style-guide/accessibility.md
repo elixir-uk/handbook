@@ -13,8 +13,8 @@ ELIXIR-UK writes for researchers, research technical professionals, students, fu
 
 Accessible writing is plain writing. Short sentences. Common words. Jargon explained on first use. Avoid metaphors that depend on shared cultural reference.
 
-- See [Voice]({{ '/voice' | relative_url }}) for the voice principles – they double as accessibility principles.
-- See [Conventions]({{ '/conventions' | relative_url }}) for British English spelling and acronym handling.
+- See [Voice](voice) for the voice principles – they double as accessibility principles.
+- See [Conventions](conventions) for British English spelling and acronym handling.
 
 If a sentence makes you stumble when read aloud, it will be harder still for someone using a screen reader.
 
@@ -25,7 +25,7 @@ Headings are the scaffolding screen readers use to navigate. Use them properly.
 - **One H1 per page.** Set automatically by the page title.
 - **H2 for top-level sections, H3 for subsections, H4 for sub-subsections.** Don't skip levels (no H2 → H4).
 - **Headings describe what is below them.** Not decorative, not clickbait. *"How to use this page"* beats *"Read me first!"*.
-- Sentence case (see [Conventions]({{ '/conventions' | relative_url }})).
+- Sentence case (see [Conventions](conventions)).
 - Short – aim for a phrase that fits on one line.
 
 ## Link text
@@ -33,7 +33,7 @@ Headings are the scaffolding screen readers use to navigate. Use them properly.
 The link text is what a screen reader announces when it lands on the link. It is also what users see in a generated "list of links on this page" view. Make sure each link makes sense on its own.
 
 - The whole verbal phrase is the link, not "click here" at the end of the sentence.
-- See [Writing a webstory → Linking]({{ '/writing-a-webstory#linking' | relative_url }}) for the full rules.
+- See [Writing a webstory → Linking](writing-a-webstory#linking) for the full rules.
 
 ✓ [Read the published article](#)
 
@@ -44,7 +44,7 @@ The link text is what a screen reader announces when it lands on the link. It is
 - **Every meaningful image needs alt text.** Describe what the image conveys in context, not the literal pixels.
 - **Decorative images get empty alt** (`alt=""`). Don't waste a screen-reader user's time describing a flourish.
 - **Don't repeat the caption** in the alt text – they serve different readers.
-- See [Writing a webstory → Banner image and alt text]({{ '/writing-a-webstory#banner-image-and-alt-text' | relative_url }}) for examples.
+- See [Writing a webstory → Banner image and alt text](writing-a-webstory#banner-image-and-alt-text) for examples.
 
 ## Inclusive language
 
@@ -73,7 +73,7 @@ When referring to a person, default to their stated pronouns. When pronouns aren
 
 ## Colour and visual accessibility
 
-This is largely a brand/design concern – see the [Brand]({{ '/brand' | relative_url }}) section.
+This is largely a brand/design concern – see the [Brand](brand) section.
 
 Two writing-side rules that touch on visual accessibility:
 

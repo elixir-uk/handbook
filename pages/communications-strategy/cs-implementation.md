@@ -12,7 +12,7 @@ related_pages:
     - writing-for-social
 ---
 
-Each row is an activity, mapped to its audiences, the [objectives]({{ '/cs-objectives' | relative_url }}) it serves (1 Belong · 2 Grow · 3 Amplify · 4 Raise), and how we evaluate it.
+Each row is an activity, mapped to its audiences, the [objectives](cs-objectives) it serves (1 Belong · 2 Grow · 3 Amplify · 4 Raise), and how we evaluate it.
 
 **Status:** Implemented · In progress · Under review · Under consideration
 
@@ -41,7 +41,7 @@ Each row is an activity, mapped to its audiences, the [objectives]({{ '/cs-objec
 
 ## Adding or retiring activities
 
-- **Add:** must serve at least one [objective]({{ '/cs-objectives' | relative_url }}) and reach at least one defined [audience]({{ '/cs-audiences' | relative_url }}). Otherwise it's a tactic in search of a strategy.
+- **Add:** must serve at least one [objective](cs-objectives) and reach at least one defined [audience](cs-audiences). Otherwise it's a tactic in search of a strategy.
 - **Retire:** if performance has been flat against indicators for two consecutive quarterly reviews, propose retirement at the next strategic review.
 
 ## Playbooks

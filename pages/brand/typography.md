@@ -109,6 +109,6 @@ Italic is for genuine emphasis or quoted phrases – don't italicise whole parag
 - **Don't set body in light or thin weights.** Below 400 weight, body text is hard to read at small sizes – fails accessibility and looks pretentious.
 - **Don't set body in all caps.** Reading caps is slow; comprehension drops. Caps are for labels, badges and short eyebrow text only.
 - **Don't justify body text.** Left-aligned, ragged-right reads more comfortably and avoids the "rivers" that justified paragraphs create.
-- **Don't underline non-link text.** Underlines on the web mean "this is a link". Use bold or italic for emphasis instead. See [Accessibility]({{ '/accessibility' | relative_url }}).
+- **Don't underline non-link text.** Underlines on the web mean "this is a link". Use bold or italic for emphasis instead. See [Accessibility](accessibility).
 - **Don't squeeze the type scale.** If a heading is feeling cramped, give it more space rather than dropping its size below the next scale step.
 

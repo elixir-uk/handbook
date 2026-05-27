@@ -23,7 +23,7 @@ For partnerships, programmes, conference programmes and anywhere a sentence or t
 
 ## Press release boilerplate
 
-The standard "About ELIXIR-UK" paragraph that goes in the **Notes to editors** field on Press release posts. **The text is built into the WordPress Press release template** – it auto-populates when that category is selected, so contributors don't fill it in by hand. See [Writing a webstory]({{ '/writing-a-webstory#press-release-boilerplate' | relative_url }}) for the contributor view.
+The standard "About ELIXIR-UK" paragraph that goes in the **Notes to editors** field on Press release posts. **The text is built into the WordPress Press release template** – it auto-populates when that category is selected, so contributors don't fill it in by hand. See [Writing a webstory](writing-a-webstory#press-release-boilerplate) for the contributor view.
 
 > **About ELIXIR-UK**
 >

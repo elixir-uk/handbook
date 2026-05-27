@@ -154,7 +154,7 @@ The rule is descriptive, not surgical – don't reach for a ruler. The point is 
 
 - **Navy is the default for body text and structure.** Headings, paragraph text, buttons, footer.
 - **Orange is the accent, not the body.** Logomark, helix motif, hover states, banner overlays. Don't set body text in orange – the contrast is too low (see below).
-- **Mid blue is for links** and secondary interactive elements. Underlined in body content (see [Accessibility]({{ '/accessibility' | relative_url }})).
+- **Mid blue is for links** and secondary interactive elements. Underlined in body content (see [Accessibility](accessibility)).
 - **Light blue is decorative only** – panels, soft fills. Never text.
 - **Slate is for secondary text** – captions, photo credits, sub-titles, "On this page" sidebar.
 - **Wash and rule are structural** – page furniture, not content.
@@ -182,4 +182,4 @@ For any custom colour combination, check with the [WebAIM Contrast Checker](http
 - **Don't tint or shade the brand colours.** Use the listed hex codes; don't generate your own lighter or darker variants in slide decks or documents.
 - **Don't introduce new colours for editorial or brand work.** For research plots, data visualisations and scientific figures where you genuinely need more distinct hues than the palette covers, use a purpose-built palette – [ColorBrewer](https://colorbrewer2.org), [viridis](https://matplotlib.org/stable/gallery/color/colormap_reference.html) or similar – that is colourblind-safe and prints well in greyscale. Data viz is the recognised exception. Everything else (slides, posters, web pages, social) sticks to the palette above.
 - **Don't combine orange with red or yellow at large scale.** Status colours (warning yellow, danger red) sit in a different zone from the brand orange; mixing them in editorial layouts is visually confusing.
-- **Don't communicate with colour alone.** Pair colour with a label, icon or shape so the meaning lands for readers who can't distinguish it. See [Accessibility]({{ '/accessibility' | relative_url }}).
+- **Don't communicate with colour alone.** Pair colour with a label, icon or shape so the meaning lands for readers who can't distinguish it. See [Accessibility](accessibility).

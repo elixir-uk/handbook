@@ -15,11 +15,11 @@ How ELIXIR-UK plans, runs and measures its communications. Structured around **O
 
 ## Use this section to
 
-- Plan a new campaign – check it against the [Objectives]({{ '/cs-objectives' | relative_url }}) and [Audiences & key messages]({{ '/cs-audiences' | relative_url }}).
-- Decide where to publish – see [Strategy & resources]({{ '/cs-strategy' | relative_url }}).
-- Run something on the books – see [Implementation]({{ '/cs-implementation' | relative_url }}).
-- Know whether it worked – see [Evaluation]({{ '/cs-evaluation' | relative_url }}).
-- Respond when something goes wrong – see [Crisis communications]({{ '/cs-crisis' | relative_url }}) (a subpage of Audiences & key messages).
+- Plan a new campaign – check it against the [Objectives](cs-objectives) and [Audiences & key messages](cs-audiences).
+- Decide where to publish – see [Strategy & resources](cs-strategy).
+- Run something on the books – see [Implementation](cs-implementation).
+- Know whether it worked – see [Evaluation](cs-evaluation).
+- Respond when something goes wrong – see [Crisis communications](cs-crisis) (a subpage of Audiences & key messages).
 
 ## In this section
 

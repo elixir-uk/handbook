@@ -40,7 +40,7 @@ Channel-level data sources: Google Analytics (website), MailerLite (newsletter),
 
 ## Per-activity evaluation
 
-Every row in the [Implementation]({{ '/cs-implementation' | relative_url }}) table has an evaluation method. Principle: **the channel and the KPI go together** – when we change a channel, we revisit its KPI.
+Every row in the [Implementation](cs-implementation) table has an evaluation method. Principle: **the channel and the KPI go together** – when we change a channel, we revisit its KPI.
 
 ## Reporting
 

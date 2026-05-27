@@ -33,11 +33,11 @@ What we don't post:
 - Corporate Node statements – amplify a named member instead
 - Posts in someone else's voice that they wouldn't say themselves
 - Anything that implies we own a service we only endorse
-- "Big news!" / "fantastic!" / "Read it now!" – see [Do & don't]({{ '/do-and-dont' | relative_url }})
+- "Big news!" / "fantastic!" / "Read it now!" – see [Do & don't](do-and-dont)
 
 ## How to write the post
 
-The voice rules in [Voice]({{ '/voice' | relative_url }}) and [Do & don't]({{ '/do-and-dont' | relative_url }}) apply. The short version:
+The voice rules in [Voice](voice) and [Do & don't](do-and-dont) apply. The short version:
 
 - **Specific over warm.** Name the person, the institution, the result.
 - **Endorse, don't own.** "FAIRsharing, hosted at the University of Oxford" – not "our FAIRsharing".
@@ -45,7 +45,7 @@ The voice rules in [Voice]({{ '/voice' | relative_url }}) and [Do & don't]({{ '/
 - **One link per post.** The post is a hook; the link is the destination.
 - **Tag the people involved.** If they're on the platform, @ them. Members like being amplified.
 
-If you're writing a longer post (LinkedIn carousels, threads on Bluesky), follow the [webstory inverted pyramid]({{ '/writing-a-webstory' | relative_url }}) – most important thing first, taper down.
+If you're writing a longer post (LinkedIn carousels, threads on Bluesky), follow the [webstory inverted pyramid](writing-a-webstory) – most important thing first, taper down.
 
 ## Images and links
 
@@ -53,10 +53,10 @@ How posts carry imagery depends on the platform's link-handling.
 
 - **Bluesky** uses the OpenGraph image automatically – the platform pulls the banner from the linked page's metadata. Nothing extra to do.
 - **LinkedIn** currently collapses banners and OpenGraph cards in-feed, so the OpenGraph image isn't doing the work it does on Bluesky. Two workarounds, both standard practice for us:
-  1. **Image + link in the post body.** Attach a banner image manually and paste the link in the text. The image is the visual hook; the link is the destination. Use the [news banner template]({{ '/templates' | relative_url }}) for this.
+  1. **Image + link in the post body.** Attach a banner image manually and paste the link in the text. The image is the visual hook; the link is the destination. Use the [news banner template](templates) for this.
   2. **Link in the first comment.** LinkedIn deprioritises external links in the post body itself, so posting the link as the first comment can get more reach. The post text carries the hook, the image carries the visual, the comment carries the link.
 
-See [imagery]({{ '/imagery' | relative_url }}), [logo]({{ '/logos' | relative_url }}) and [colour]({{ '/colour' | relative_url }}) for visual rules. Banner templates live on [Templates]({{ '/templates' | relative_url }}).
+See [imagery](imagery), [logo](logos) and [colour](colour) for visual rules. Banner templates live on [Templates](templates).
 
 ## Cadence
 
@@ -80,7 +80,7 @@ The Hub re-shares Node content when it's tagged appropriately:
 Members posting about ELIXIR-UK from their own accounts are amplifying us – we welcome that.
 
 - **Tag us.** `@elixir-uk` on LinkedIn and Bluesky so we can re-share.
-- **Use the [boilerplate]({{ '/boilerplate' | relative_url }})** if you need a sentence about ELIXIR-UK in a longer post.
+- **Use the [boilerplate](boilerplate)** if you need a sentence about ELIXIR-UK in a longer post.
 - **Name your institution alongside the Node.** "I work on [Service] as part of ELIXIR-UK, hosted at [University]" reads better than "ELIXIR-UK has..."
 - **Don't speak for the Node.** Personal voice, personal opinion – not Node policy. That's fine, and often better than a corporate post.
 - **Use the Hub hashtags when relevant** – `#ELIXIR` and campaign-specific tags.

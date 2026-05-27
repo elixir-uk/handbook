@@ -31,9 +31,9 @@ The bundled prompt is a **snapshot** of the source pages. It will drift over tim
 
 1. Either point the model at the repo (Option 1) or paste the bundled prompt (Option 2).
 2. Ask for the draft: *"Draft a 200-word webstory about [topic]."* / *"Rewrite this paragraph for ELIXIR-UK: [paste]."* / *"Give me three social posts about [event]."*
-3. If the output drifts off-brand, paste an example from [Do & don't]({{ '/do-and-dont' | relative_url }}) and say *"more like this"*.
+3. If the output drifts off-brand, paste an example from [Do & don't](do-and-dont) and say *"more like this"*.
 
-{% include callout.html type="tip" content="The single best thing you can do to improve output quality is **add real examples**. The more on-brand examples on the [Do & don't]({{ '/do-and-dont' | relative_url }}) page, the more effective both options become. Models learn voice from examples far better than from rules." %}
+{% include callout.html type="tip" content="The single best thing you can do to improve output quality is **add real examples**. The more on-brand examples on the [Do & don't](do-and-dont) page, the more effective both options become. Models learn voice from examples far better than from rules." %}
 
 ---
 

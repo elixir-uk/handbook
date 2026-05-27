@@ -9,7 +9,7 @@ related_pages:
     - cs-strategy
 ---
 
-The umbrella messages and the audience-specific framing follow below, then the headline summary of who hears what. The full audience detail – why each matters, what we want from them and what we say – sits on [Stakeholder mapping]({{ '/cs-stakeholder-mapping' | relative_url }}). See [Boilerplate]({{ '/boilerplate' | relative_url }}) for the canonical descriptive paragraphs.
+The umbrella messages and the audience-specific framing follow below, then the headline summary of who hears what. The full audience detail – why each matters, what we want from them and what we say – sits on [Stakeholder mapping](cs-stakeholder-mapping). See [Boilerplate](boilerplate) for the canonical descriptive paragraphs.
 
 ## Mission
 
@@ -33,7 +33,7 @@ Both approved 2025.
 
 For funders (ESFRI, EU, UKRI) ELIXIR-UK presents as a **Research Infrastructure**. For our members and partners we operate as a **distributed network of member organisations**. Both framings are true; lead with whichever is most useful to the audience.
 
-The mission and tagline above are deliberately written to hold both together while keeping the network dimension visible. For the sector-wide context behind this choice, see [Brand]({{ '/brand' | relative_url }}).
+The mission and tagline above are deliberately written to hold both together while keeping the network dimension visible. For the sector-wide context behind this choice, see [Brand](brand).
 
 ## What membership means
 
@@ -53,7 +53,7 @@ Within ELIXIR, ELIXIR-UK represents the UK community at European level: we bring
 
 ## At a glance
 
-The one-line key message each audience receives. Full detail on each – why they matter, what we want from them, channels – sits on [Stakeholder mapping]({{ '/cs-stakeholder-mapping' | relative_url }}).
+The one-line key message each audience receives. Full detail on each – why they matter, what we want from them, channels – sits on [Stakeholder mapping](cs-stakeholder-mapping).
 
 | Audience | Key message | Priority |
 |---|---|---|
@@ -69,5 +69,5 @@ The one-line key message each audience receives. Full detail on each – why the
 
 ## Sub-pages
 
-- **[Stakeholder mapping]({{ '/cs-stakeholder-mapping' | relative_url }})** – the influence × interest matrix that prioritises comms effort, plus the full per-audience detail.
-- **[Crisis communications]({{ '/cs-crisis' | relative_url }})** – how we respond when something goes wrong. Audience-driven, so it sits here.
+- **[Stakeholder mapping](cs-stakeholder-mapping)** – the influence × interest matrix that prioritises comms effort, plus the full per-audience detail.
+- **[Crisis communications](cs-crisis)** – how we respond when something goes wrong. Audience-driven, so it sits here.

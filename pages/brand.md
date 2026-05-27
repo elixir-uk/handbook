@@ -17,7 +17,7 @@ Three principles shape every choice in this section.
 
 {% include callout.html type="important" content="**We hold a dual identity.** To funders we present as a Research Infrastructure; to our members and partners we operate as a distributed network. Both framings are true, and the visual and verbal style has to hold both without one cancelling out the other." %}
 
-**The work belongs to its authors.** Names, institutions and concrete contributions sit in the foreground. ELIXIR-UK appears as the byline rather than the headline. See [Voice → Credit where credit is due]({{ '/voice#3-credit-where-credit-is-due' | relative_url }}) for how this lands in writing.
+**The work belongs to its authors.** Names, institutions and concrete contributions sit in the foreground. ELIXIR-UK appears as the byline rather than the headline. See [Voice → Credit where credit is due](voice#3-credit-where-credit-is-due) for how this lands in writing.
 
 ## In this section
 

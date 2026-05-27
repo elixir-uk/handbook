@@ -51,7 +51,7 @@ For better long-term sustainability.
 
 - **Thought leadership** – members as named experts, speaking engagements, publications, international collaborations.
 - **Ambassador programme** – empower staff at member orgs to showcase their work. Expert voices beat corporate messages.
-- **Brand consistency** – see [Brand]({{ '/brand' | relative_url }}) and [Style guide]({{ '/style-guide' | relative_url }}).
+- **Brand consistency** – see [Brand](brand) and [Style guide](style-guide).
 
 ## Parent ELIXIR objectives (for alignment)
 

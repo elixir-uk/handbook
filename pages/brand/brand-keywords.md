@@ -14,7 +14,7 @@ related_pages:
 
 The words that describe how ELIXIR-UK feels in practice. Use these as a gut-check when designing, writing, or briefing collaborators – the brand's character distilled into adjectives.
 
-These keywords come from two places: the voice pillars on the [Style guide]({{ '/voice' | relative_url }}) (*report, don't announce; specific over warm; credit where credit is due*) and the values listed on [Brand goal]({{ '/brand-goal' | relative_url }}) (*collaboration, scientific rigour, inclusiveness, respect, financial sustainability*). The pillars say *how we sound*; the values say *what we stand for*. The keywords below say *how the brand feels*.
+These keywords come from two places: the voice pillars on the [Style guide](voice) (*report, don't announce; specific over warm; credit where credit is due*) and the values listed on [Brand goal](brand-goal) (*collaboration, scientific rigour, inclusiveness, respect, financial sustainability*). The pillars say *how we sound*; the values say *what we stand for*. The keywords below say *how the brand feels*.
 
 ## Primary keywords
 
@@ -46,7 +46,7 @@ When unsure whether something is on-brand, ask: *"Does this feel **connected**, 
 
 Keywords aren't checkboxes to tick one-by-one. They're a gut-check for the whole piece.
 
-{% include callout.html type="note" content="**These are not the only words we use about ourselves.** [Brand goal]({{ '/brand-goal' | relative_url }}) carries the mission, vision and values; [Boilerplate]({{ '/boilerplate' | relative_url }}) carries the canonical descriptive text for press releases and partner pages. Keywords are the felt-sense companion to those." %}
+{% include callout.html type="note" content="**These are not the only words we use about ourselves.** [Brand goal](brand-goal) carries the mission, vision and values; [Boilerplate](boilerplate) carries the canonical descriptive text for press releases and partner pages. Keywords are the felt-sense companion to those." %}
 
 ## What's missing from this list (and on purpose)
 

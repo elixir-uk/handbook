@@ -27,7 +27,7 @@ Be explicit about who built, runs and funds the work. Overclaiming reads as smal
 
 **Self-positioning is welcome – when it earns its place.** Every sentence that puts ELIXIR-UK in the frame should answer: *why is this story on the ELIXIR-UK site and not somewhere else?* If it does, keep it. If it's institutional brand-claiming detached from the substance, cut it.
 
-For worked rewrites of each pillar, see [Do & don't]({{ '/do-and-dont' | relative_url }}).
+For worked rewrites of each pillar, see [Do & don't](do-and-dont).
 
 ## What we're not
 
@@ -40,7 +40,7 @@ Naming what we're not is sometimes clearer than naming what we are.
 - **Not vague-benefit.** *"This new programme aims to contribute to the professionalisation of data stewardship"* – say what it does, not what it aims to contribute to.
 - **Not throat-clearing.** *"As 2020 draws to the close it is time to look back…"* – get to the point in sentence one.
 - **Not academic-passive.** *"It was found that…"* – name the agent. *"The authors argue that…"*, *"Members highlighted that…"*
-- **Not corporate-marketing.** *"Leveraging cutting-edge solutions to accelerate innovation in the FAIR ecosystem"* – when these words stack up, the sentence stops doing work. See the [words to pause on]({{ '/do-and-dont#words-to-pause-on' | relative_url }}) list for plainer alternatives.
+- **Not corporate-marketing.** *"Leveraging cutting-edge solutions to accelerate innovation in the FAIR ecosystem"* – when these words stack up, the sentence stops doing work. See the [words to pause on](do-and-dont#words-to-pause-on) list for plainer alternatives.
 - **Not closing-paragraph drift.** Even good pieces sometimes lapse in the final paragraph, reaching for *"strengthens visibility"*, *"ongoing contribution to shaping the future of"*, *"reflects our commitment to"*. If you spot it in your draft, cut it or rewrite as a concrete next-action.
 
 ## Warmth that does work, warmth that doesn't
