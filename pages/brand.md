@@ -19,23 +19,6 @@ Three principles shape every choice in this section.
 
 **The work belongs to its authors.** Names, institutions and concrete contributions sit in the foreground. ELIXIR-UK appears as the byline rather than the headline. See [Voice → Credit where credit is due](/voice#3-credit-where-credit-is-due) for how this lands in writing.
 
-## Context behind these principles
-
-The 2024 SIAB review and a short benchmarking exercise across European ELIXIR Nodes surfaced patterns shared across the sector: the word "infrastructure" carries different meanings on different sites; service ownership is rarely made explicit; the network and community dimension tends to be implicit rather than foregrounded; and clarity for non-specialist readers can pull against the strategic "Research Infrastructure" framing funders expect.
-
-The principles above are ELIXIR-UK's deliberate response to those tensions – holding both framings together while keeping the network dimension visible.
-
-## Values
-
-How we work, listed in no priority order – they balance each other rather than rank.
-
-- **Scientific rigour** – evidence-led, FAIR-aligned, no overclaiming.
-- **Collaboration** – credits and connections over solo authorship.
-- **Inclusiveness** – multi-discipline, multi-career-stage, multi-region UK.
-- **Respect** – for members' work, time and contexts.
-
-When time, budget or attention is tight, these are not priorities to drop. They are what shapes which trade-off we make.
-
 ## In this section
 
 {% include section-navigation-tiles.html custom="brand-keywords, logos, colour, typography, imagery, boilerplate, templates" sort=false %}
