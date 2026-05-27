@@ -7,8 +7,6 @@ related_pages:
   communications_strategy:
     - cs-objectives
     - cs-strategy
-  community_participation_model:
-    - cp-who
 ---
 
 The umbrella messages and the audience-specific framing follow below, then the headline summary of who hears what. The full audience detail – why each matters, what we want from them and what we say – sits on [Stakeholder mapping](/cs-stakeholder-mapping). See [Boilerplate](/boilerplate) for the canonical descriptive paragraphs.

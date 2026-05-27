@@ -8,8 +8,6 @@ related_pages:
     - cs-audiences
     - cs-stakeholder-mapping
     - cs-strategy
-  community_participation_model:
-    - cp-guidelines
 ---
 
 Recommended by the [ELIXIR-STEERS Toolkit (2025)](https://elixir-europe.org). _Draft – to be ratified by the Coordination Office._
@@ -19,7 +17,7 @@ Recommended by the [ELIXIR-STEERS Toolkit (2025)](https://elixir-europe.org). _D
 - **Public misstep** – a comm, programme, or representative draws criticism.
 - **Security or data incident** – a vulnerability or breach affecting an ELIXIR-UK resource or hosted content.
 - **Sensitive press enquiry** – a topic where silence is itself a story.
-- **Conduct violation** – serious incident triggering the [community participation guidelines](/cp-guidelines) reporting process.
+- **Conduct violation** – serious incident triggering the community participation guidelines reporting process.
 - **Loss of key person or capability** – unexpected staff change; major resource down for an extended period.
 
 ## First-hour principles
@@ -36,7 +34,7 @@ Recommended by the [ELIXIR-STEERS Toolkit (2025)](https://elixir-europe.org). _D
 2. **Triage** – Coordinator categorises, convenes the response group (Coordinator, relevant HoN, Coordination Office Assistant).
 3. **Holding statement** – ready within 2 hours of triage. Template: _"We are aware of [event]. We're looking into it and will share more as we have it."_
 4. **Internal brief** – sent to active members before any external comm. Slack + mailing list.
-5. **External response** – channels appropriate to the audience. Conduct violations follow [Participation guidelines](/cp-guidelines) and override this page.
+5. **External response** – channels appropriate to the audience. Conduct violations follow the participation guidelines and override this page.
 6. **After-action review** – within two weeks. What happened, what we did, what we'd do differently.
 
 ## Press engagement

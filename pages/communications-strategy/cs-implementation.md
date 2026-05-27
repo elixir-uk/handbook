@@ -7,8 +7,6 @@ related_pages:
   communications_strategy:
     - cs-strategy
     - cs-evaluation
-  community_participation_model:
-    - cp-engagement
 ---
 
 Each row is an activity, mapped to its audiences, the [objectives](/cs-objectives) it serves (1 Belong · 2 Grow · 3 Amplify · 4 Raise), and how we evaluate it.

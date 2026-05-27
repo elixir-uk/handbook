@@ -1,5 +1,5 @@
 copyright: "Copyright © 2026 &#124; ELIXIR-UK on behalf of Earlham Institute"
-extra_line: "A living document. Brand, voice, strategy, and how the community works."
+extra_line: "A living document. Brand, voice, and how we communicate."
 columns:
   - type: links
     width: 4
@@ -10,8 +10,6 @@ columns:
         url: /style-guide
       - url_text: Communications strategy
         url: /communications-strategy
-      - url_text: Community participation
-        url: /community-participation-model
   - type: links
     width: 4
     children:

@@ -19,5 +19,3 @@ Everything you need to make something on-brand, grouped by which section of the 
 {% include resource-table-all.html section="style-guide" heading="Style guide" heading_level="h2" %}
 
 {% include resource-table-all.html section="communications-strategy" heading="Communications strategy" heading_level="h2" %}
-
-{% include resource-table-all.html section="community-participation-model" heading="Community participation model" heading_level="h2" %}
