@@ -36,8 +36,8 @@
 # --- Document templates -------------------------------------------------
 - id: tpl-letterhead
   name: Letterhead template
-  url: "#"
-  description: Official ELIXIR-UK letterhead in A4 + US Letter. _To be added._
+  url: https://docs.google.com/document/d/1Ul1V4P5NnhKNN0oICq2C94dXwJ5TiRKO/edit?usp=sharing&ouid=113364431842355357362&rtpof=true&sd=true
+  description: Official ELIXIR-UK letterhead, used for letters of support and similar formal correspondence. Requires sign-in to access.
   type: template
   section: [brand]
 
@@ -168,23 +168,72 @@
 
 
 # --- Strategy & toolkit references --------------------------------------
-- id: steers-comms-toolkit
-  name: ELIXIR Node Communications Strategy Toolkit
-  url: https://elixir-europe.org
-  description: ELIXIR-STEERS M5.3 (Nov 2025) – canonical template for Node communications strategies.
+- id: elixir-comms-strategy
+  name: ELIXIR (parent) Communications Strategy v2.1
+  url: https://docs.google.com/document/d/1u-EXCOT-F-01LDpBdF2D8u8rg6B0djoMAxjVqvLmnbk/edit
+  description: Hub-level comms strategy (Jan 2026, Elaine Harrison). Five objectives, four stakeholder groups, Hub channels, crisis plan. ELIXIR-UK localises against this.
   type: external-link
   section: [communications-strategy]
 
+- id: elixir-style-guide
+  name: ELIXIR (parent) Style Guide
+  url: https://docs.google.com/document/d/1rBOwpgYUGunsjgrVnCAkmOy9K0jGBLrG/edit
+  description: Hub-level style guide (Sept 2025, Deborah van Wyk). Capitalisation, dates, ELIXIR-specific terms, spelling. ELIXIR-UK follows it with named exceptions (the ELIXIR-UK hyphen, double quotation marks).
+  type: external-link
+  section: [brand, style-guide]
+
 - id: elixir-brand-guidelines
   name: ELIXIR (parent) Brand Guidelines
-  url: https://elixir-europe.org
+  url: https://docs.google.com/document/d/1hb81AMjkDsdvO2JfaT9EKzB80S3EK3aJXEC71JtljJo/edit
   description: Parent ELIXIR brand book – palette, logo, type. ELIXIR-UK inherits from this.
   type: external-link
   section: [brand]
 
-- id: elixir-style-guide
-  name: ELIXIR (parent) Style Guide
-  url: https://elixir-europe.org
-  description: Parent ELIXIR voice and tone reference.
+- id: steers-comms-toolkit
+  name: ELIXIR Node Communications Strategy Toolkit
+  url: https://docs.google.com/document/d/1g5e2XcW9CzytDa7lL5nXGumeRBxvqg5hphlwqzGwsaU/edit
+  description: ELIXIR-STEERS M5.3 (Nov 2025) – canonical template for Node communications strategies.
   type: external-link
-  section: [brand, style-guide]
+  section: [communications-strategy]
+
+- id: tess
+  name: TeSS
+  url: https://tess.elixir-europe.org/
+  description: ELIXIR training portal. UK events are added here and an RSS feed pulls the latest into the ELIXIR-UK newsletter. Full automation pending.
+  type: external-link
+  section: [communications-strategy]
+
+- id: elixir-hub-vacancies
+  name: ELIXIR Hub vacancies page
+  url: https://elixir-europe.org/about-us/vacancies
+  description: Hub-hosted job board. UK members post UK vacancies here; an RSS feed pulls them into the ELIXIR-UK newsletter, which Zapier then posts to Slack and LinkedIn.
+  type: external-link
+  section: [communications-strategy]
+
+- id: elixir-code-of-conduct
+  name: ELIXIR Code of Conduct
+  url: https://elixir-europe.org/events/code-of-conduct
+  description: Hub-published Code of Conduct. Applies only to events organised by the Hub – not a Node-wide policy.
+  type: external-link
+  section: [communications-strategy]
+
+- id: f1000-elixir-gateway
+  name: ELIXIR Gateway on F1000Research
+  url: https://f1000research.com/elixir
+  description: Open-access publishing venue for ELIXIR-funded research. APCs are covered by ELIXIR for accepted articles.
+  type: external-link
+  section: [communications-strategy]
+
+- id: zenodo-elixir
+  name: ELIXIR (Europe) Zenodo community
+  url: https://zenodo.org/communities/elixir
+  description: Europe-level Zenodo community for ELIXIR outputs. Use for DOIs on anything that isn't a peer-reviewed article. Entries can be associated with more than one community.
+  type: external-link
+  section: [communications-strategy]
+
+- id: zenodo-elixir-uk
+  name: ELIXIR-UK Zenodo community
+  url: https://zenodo.org/communities/elixir-uk
+  description: UK Zenodo community for ELIXIR-UK outputs. Use for DOIs on anything that isn't a peer-reviewed article. Entries can be associated with more than one community (e.g. both the UK and Europe communities).
+  type: external-link
+  section: [communications-strategy]

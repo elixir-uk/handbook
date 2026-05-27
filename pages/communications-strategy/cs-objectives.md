@@ -25,7 +25,7 @@ Every implementation activity should serve at least one of these four. If it doe
 
 With active community members, by sharing personal stories and showcasing their work.
 
-- **Foster engagement** – webinars, regular events, community calls. Connects to the [Community participation model](/community-participation-model).
+- **Foster engagement** – webinars, regular events, community calls.
 - **Promote inclusivity** – individual profile pages, stories that name contributors.
 - **Strengthen internal comms** – regular updates, feedback mechanisms.
 

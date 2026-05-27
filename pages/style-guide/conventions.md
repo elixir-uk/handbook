@@ -100,6 +100,10 @@ Acronyms that come up often:
 | EOSC | European Open Science Cloud |  |
 | LLM | Large language model | Lowercase when spelled out. |
 
+## Word forms
+
+- **Training is uncountable.** *"Training courses"*, *"training materials"* – never *"trainings"*.
+
 ## Words to pause on
 
 See the [words to pause on](/do-and-dont#words-to-pause-on) table on the Do & don't page. The short version: words like *leverage*, *ecosystem*, *stakeholder*, *cutting-edge* aren't banned – they have legitimate uses – but they're often defaults reached for out of habit. When you find one in your draft, check whether a plainer word would carry the meaning better.

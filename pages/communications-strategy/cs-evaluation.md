@@ -17,10 +17,13 @@ The "S" of OASIS. Without measurement we'll either do too much (everything feels
 
 | Category | Indicator |
 |---|---|
-| **Reach** | Newsletter open rate, social impressions, page sessions |
+| **Reach** | Newsletter open rate, social impressions, page sessions, cumulative subscribers over time |
 | **Engagement** | Replies, shares, comments, time-on-page, CTR |
+| **Community calls** | People participating per call, number of unique organisations joining, retention (how long people stay on the call) |
 | **Action** | Training sign-ups, partner enquiries, downloads, citations, new contributors |
 | **Outputs** | Resources, publications, events, training sessions delivered |
+
+Channel-level data sources: Google Analytics (website), MailerLite (newsletter), LinkedIn and Bluesky native stats, YouTube annual stats.
 
 ### Qualitative
 

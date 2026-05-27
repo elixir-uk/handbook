@@ -20,6 +20,7 @@ Each row is an activity, mapped to its audiences, the [objectives](/cs-objective
 | Internal communications | Under review | Inactive members, Active members, Funders | 1 · 2 · 3 · 4 | Slack, mailing lists, GA reports |
 | YouTube videos | Under review | Active members, End-users, Other Nodes | 1 · 2 · 3 · 4 | YouTube annual stats |
 | Weekly Brief newsletter | Implemented | Inactive members, Active members, Potential members | 1 · 3 | Unique opens, clicks, new subscribers |
+| Monthly Brief newsletter | Implemented | Inactive members, Active members, Potential members | 1 · 3 · 4 | Unique opens, clicks, new subscribers |
 | News stories | Implemented | Media & public, Funders, Other Nodes | 3 · 4 | Quarterly social + GA |
 | In-depth articles | Implemented | End-users | 3 · 4 | Quarterly social + GA |
 | Social media campaigns | Implemented | All | 1 · 2 · 3 · 4 | Quarterly opens, GA |
@@ -27,8 +28,8 @@ Each row is an activity, mapped to its audiences, the [objectives](/cs-objective
 | Impact stories | In progress | Funders | 4 | Quarterly social + GA |
 | Paths to entry | In progress | Inactive members, Potential members, End-users | 2 | Social + GA, new group sign-ups |
 | Blog posts | In progress | All members + End-users | 1 · 3 | Quarterly social + GA |
-| Auto-dissemination of events via TeSS | In progress | Members, End-users | 2 · 3 | Events on TeSS by ELIXIR-UK members |
-| Auto-dissemination of jobs | In progress | Members, Potential members, End-users, Other Nodes | 2 · 3 | Jobs posted |
+| Auto-dissemination of events via TeSS | In progress | Members, End-users | 2 · 3 | Events on TeSS by ELIXIR-UK members; RSS feed pulls latest into the newsletter (full automation pending) |
+| Auto-dissemination of jobs | In progress | Members, Potential members, End-users, Other Nodes | 2 · 3 | UK vacancies on the [Hub vacancies page](https://elixir-europe.org/about-us/vacancies); RSS into the newsletter; Zapier auto-posts to Slack and LinkedIn |
 | Annual report | Under consideration | Funders | 1 · 4 | Direct contacts, publication views, GA |
 | Reports, policy documents | Under consideration | Funders | 4 | Citations, funder feedback, new funding |
 | Webinars | Under consideration | All | 1 · 2 · 3 | Attendance, social reports |

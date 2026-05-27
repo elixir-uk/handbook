@@ -18,7 +18,7 @@ The "S" in OASIS. **Automate the routine, hand-craft the story.**
 2. **Lead with the audience.** Publish where they are, not where we wish they were.
 3. **Privacy & inclusion are first-order constraints.** Mastodon, Bluesky, MailerLite in. Twitter/X, MailChimp out.
 4. **Expert voices over corporate voices.** Amplify a member; don't issue a Node statement.
-5. **Names go on things.** Contribution is attributed – ethical practice and recruitment strategy. See [Community participation model](/community-participation-model).
+5. **Names go on things.** Contribution is always attributed.
 
 ## People
 
@@ -34,28 +34,55 @@ UKRI funds the Coordination Office. Covers Node Coordinator and Assistant salari
 
 ## Channels
 
-### External
+Three groupings: what we run, what we show up at, and one-to-one outreach.
+
+### Channels we run
+
+Operational and broadcast channels ELIXIR-UK manages directly.
 
 | Channel | Purpose | Primary audience |
 |---|---|---|
-| Website | Long-form, evergreen, SEO | All – discovery point |
-| Newsletter | Recap, signal, what's coming | Community, members |
+| Website | Long-form, evergreen, SEO. Google Analytics tracked | All – discovery point |
+| Weekly Brief (MailerLite) | Short-form signal: what's coming, opportunities, calls. Subscriptions also auto-feed the relevant Google Group via script | Members, potential members, end-users |
+| Monthly Brief (MailerLite) | Longer recap: highlights from the month, impact stories, deeper articles | Members, potential members, end-users |
+| ELIXIR-UK Slack workspace | Operational and community conversation | Active members |
+| Google Calendar (business workspace) | Meeting invites for clubs, working groups, All Hands | Members + subscribed non-members |
+| Google Groups | Auto-populated from MailerLite – used to send Calendar invites and topic-specific mail | Subscribers per club / working group |
+| Steering Committee mailing list | Important updates, private meetings | Steering Committee |
+| Management Committee mailing list | Important updates, private meetings | Management Committee |
 | LinkedIn | Institutional credibility | Funders, leaders |
 | Bluesky | Research-community migration target | Researchers |
-| Mastodon | Privacy-respecting research community | Researchers |
-| Events / training | Direct, high-engagement | Community |
+| YouTube | Event recordings | Active members, end-users, other Nodes |
+| Annual National All Hands | Direct, high-engagement community moment | All members + invited guests |
+| Monthly club calls | Topic-specific community sessions | Subscribers per club |
 
-### Internal
+### Forums we show up at
 
-- **Slack** – operational and community conversation
-- **Google Groups** – mailing lists for working groups
-- **Google Sites** – shared internal knowledge
+Hub-level and shared spaces we don't run but need to be visible in.
+
+| Forum | What it is | What we use it for |
+|---|---|---|
+| Programme TC | Monthly ELIXIR Node leads call. UK round at the start of the agenda | Surfacing UK updates to other Nodes and the Hub |
+| ELIXIR Europe Slack | Hub-run Slack where much of the cross-Node work happens | Presence in cross-Node conversations |
+| ELIXIR Europe All Hands | Annual Europe-wide meeting | Showcasing UK contributions, networking |
+| ELIXIR Weekly Brief (Hub newsletter) | Sent every Monday to ELIXIR consortium members. Items submitted to `info@elixir-europe.org` | Reaching the wider ELIXIR consortium |
+| News on elixir-europe.org | Hub-edited news (one story every ~2 weeks). UK can submit; Hub retains editorial control | High-profile UK activity reaching the full ELIXIR audience |
+
+### One-to-one strategic outreach
+
+Personal email to named contacts at organisations and consortia whose work touches ours. Maintained as relationships, not a broadcast list. Examples:
+
+- UKRN (UK Reproducibility Network)
+- DCC (Digital Curation Centre)
+- Network+ projects
+- UK EuroBioimaging
+- Other UK and European research infrastructures
 
 ### Channel principles
 
 - Don't cross-post the same content unchanged. Each channel gets the right version.
 - Measure per-channel – see [Evaluation](/cs-evaluation).
-- Retire channels that no longer serve. Twitter/X being phased down; MailChimp being replaced.
+- Retire channels that no longer serve. Twitter/X and MailChimp out; LinkedIn, Bluesky and MailerLite in.
 
 ## Content pillars × audience
 
@@ -69,9 +96,6 @@ A working matrix for designing content. Three goals × five career-stage / exter
 
 Empty cells are deliberate: external stakeholders and funders are audiences, not community – we don't build belonging content for them.
 
-## ELIXIR Hub channels (for context)
+## How UK content reaches Hub channels
 
-- **External:** website, social, publications, print, slides, events, industry newsletter, videos
-- **Internal:** Weekly Brief, intranet, mailing lists, Slack
-
-ELIXIR-UK content flows through wider ELIXIR channels where appropriate.
+The ELIXIR Hub runs its own channels – the Weekly Brief, news on elixir-europe.org, the Hub social accounts. UK content reaches these via the [Hub Communications Strategy v2.1](/templates) submission flow: items go to `info@elixir-europe.org`, the Hub retains editorial control. Programme TC, the ELIXIR Communications Group and the ELIXIR Europe Slack are the working forums where UK comms staff stay aligned with Hub plans.
