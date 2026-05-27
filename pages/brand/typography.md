@@ -43,7 +43,7 @@ A serif. Used **only** for titles in editorial prints – annual reports, poster
 
 <div style="font-family: 'Merriweather', serif; padding: 24px; background: #FFFFFF; border: 1px solid #DDE3E7; border-radius: 0.3rem; margin: 1rem 0;">
   <div style="font-weight: 700; font-size: 2rem; color: #023452; line-height: 1.2;">Merriweather Bold 32</div>
-  <div style="font-weight: 400; font-size: 1.125rem; color: #4A6577; margin-top: 0.5rem; font-style: italic;">— used for editorial print titles, sparingly</div>
+  <div style="font-weight: 400; font-size: 1.125rem; color: #4A6577; margin-top: 0.5rem; font-style: italic;">– used for editorial print titles, sparingly</div>
 </div>
 
 Why Merriweather: warm editorial serif designed for screen and print, with broad weight range. Pairs cleanly with Lato (both humanist proportions). Free under the Open Font License.

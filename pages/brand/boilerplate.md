@@ -27,7 +27,7 @@ The standard "About ELIXIR-UK" paragraph that goes in the **Notes to editors** f
 
 > **About ELIXIR-UK**
 >
-> ELIXIR-UK is the UK Node of ELIXIR, the European research infrastructure for life science data. It is a consortium of UK research-performing organisations whose members — researchers, developers, maintainers, data stewards, trainers and technical professionals — develop, operate and sustain the tools, services, training and standards underpinning publicly-funded UK life-science research. ELIXIR-UK coordinates and advocates for that work at UK and European level, promoting standards, shaping policy and amplifying UK voices.
+> ELIXIR-UK is the UK Node of ELIXIR, the European research infrastructure for life science data. It is a consortium of UK research-performing organisations whose members – researchers, developers, maintainers, data stewards, trainers and technical professionals – develop, operate and sustain the tools, services, training and standards underpinning publicly-funded UK life-science research. ELIXIR-UK coordinates and advocates for that work at UK and European level, promoting standards, shaping policy and amplifying UK voices.
 >
 > For further details, please contact contact@elixiruknode.org.
 

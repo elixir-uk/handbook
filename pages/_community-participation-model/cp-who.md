@@ -15,13 +15,13 @@ The ELIXIR-UK community is not the same thing as the ELIXIR-UK staff team. Name 
 
 ## Community segments
 –
-- **Node members** — UK institutions that are formal members
+- **Node members** – UK institutions that are formal members
 - **Researchers–* using ELIXIR-UK tools and resources
-- **Trainers** — ind–viduals delivering ELIXIR-UK training
-- **Data stewards** — institution–l RDM staff connected through Node programmes
-- **Working grou– participants** — community members shaping specific topics
-- **Champions** — individual– who advocate for ELIXIR-UK in their institution
-- **Partner organisations** — UKRI, related infrastructures (RDMkit, WorkflowHub, etc.)
+- **Trainers** – ind–viduals delivering ELIXIR-UK training
+- **Data stewards** – institution–l RDM staff connected through Node programmes
+- **Working grou– participants** – community members shaping specific topics
+- **Champions** – individual– who advocate for ELIXIR-UK in their institution
+- **Partner organisations** – UKRI, related infrastructures (RDMkit, WorkflowHub, etc.)
 
 ## What's not "the community"
 
