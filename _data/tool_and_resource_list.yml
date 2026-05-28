@@ -145,7 +145,7 @@
 
 - id: elixir-uk-website
   name: ELIXIR-UK website
-  url: https://elixiruk.org
+  url: https://elixiruknode.org/
   description: The public-facing ELIXIR-UK website.
   type: external-link
   section: [brand, communications-strategy]
