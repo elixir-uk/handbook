@@ -20,22 +20,22 @@ When you're drafting and you're unsure ("is it 'open source' or 'open-source'? I
 | **ELIXIR Europe** | The parent organisation, when context needs disambiguation | No hyphen. |
 | **ELIXIR Hub** | The central coordination office of ELIXIR Europe | Hosted at EMBL-EBI in Hinxton, UK – not part of ELIXIR-UK. |
 | **Node** | One of the 23 national nodes; ELIXIR-UK is one | Capitalised when it's the formal entity ("the UK Node", "our Node"). |
-| **Head of Node** | The role | Capitalised. ELIXIR-UK has joint Heads of Node. |
+| **Head of Node** | The role | Capitalised. ELIXIR-UK currently has two joint Heads of Node. |
 | **Steering Committee** / **Management Committee** | Governance groups | Capitalised. |
 | **Coordination Office** | The team running ELIXIR-UK day-to-day | Capitalised. |
 | **All Hands** | The annual community meeting | Capitalised. Full form: "All Hands meeting". |
 
 ## Naming our community and audiences
 
-Picking the specific noun is usually clearer than reaching for the catch-all. None of the "consider instead" terms below are banned – use them when they're genuinely the right word – but most of the time a more specific noun does more work.
+Picking the specific noun is usually clearer than reaching for the catch-all. None of the "consider instead" terms below are banned – use them when they are genuinely the right word – but most of the time a more specific noun does more work.
 
 | Prefer when you can | Consider instead of | Why |
 |---|---|---|
 | **member** / **community member** | "stakeholder" | Members belong to the community; "stakeholder" is a useful catch-all in formal governance contexts but rarely clearer in editorial copy. |
-| **researcher** / **data steward** / **trainer** | "user" (in most contexts) | Use the specific role unless you're literally talking about service usage statistics. |
+| **researcher** / **data steward** / **trainer** | "user" (in most contexts) | Use the specific role unless you are literally talking about service usage statistics. |
 | **partner** | "stakeholder" | When referring to a collaborating organisation. |
 | **funder** | "stakeholder" | When referring to UKRI, BBSRC, MRC etc. |
-| **service** | "tool" or "platform" (when imprecise) | An ELIXIR-UK Service is a formal designation. Don't dilute the term. |
+| **service** | "resource", "tool" or "platform" (when imprecise) | An ELIXIR-UK Service is a formal designation. Don't dilute the term. |
 | **an ELIXIR-UK service**, **a service endorsed by ELIXIR-UK** | "ELIXIR-UK's [service]", "our service" | We endorse services; we don't own them. Avoid possessive constructions that imply ownership. |
 
 ## FAIR and data terms
@@ -43,7 +43,7 @@ Picking the specific noun is usually clearer than reaching for the catch-all. No
 | Term | Form | Notes |
 |---|---|---|
 | **FAIR** | Always all-caps | Stands for Findable, Accessible, Interoperable, Reusable. Spell out on first use in formal documents. |
-| **FAIRification** | One word, capital F | The process of making data FAIR. |
+| **FAIRification** | One word, capital FAIR | The process of making data FAIR. |
 | **FAIR-aligned** | Hyphenated as adjective | "a FAIR-aligned policy", "data that is FAIR-aligned". |
 | **FAIR data** | No hyphen | "FAIR data management", not "FAIR-data management". |
 | **dataset** | One word | Not "data set". |
@@ -90,16 +90,31 @@ Acronyms that come up often:
 
 | Acronym | Full form | Notes |
 |---|---|---|
-| FAIR | Findable, Accessible, Interoperable, Reusable |  |
-| RDM | Research data management | Lowercase when spelled out. |
-| TRE | Trusted Research Environment |  |
-| SDE | Secure Data Environment |  |
-| HDR UK | Health Data Research UK | Always written with a space, never hyphenated. |
-| UKRI | UK Research and Innovation |  |
+| AHM | All Hands Meeting | |
 | BBSRC | Biotechnology and Biological Sciences Research Council |  |
-| MRC | Medical Research Council |  |
+| CDR | Core Data Resource | |
+| DMP | Data Management Plan | |
+| ECR | Early Career Researcher | |
+| EoI | Expression of Interest | |
 | EOSC | European Open Science Cloud |  |
+| FAIR | Findable, Accessible, Interoperable, Reusable |  |
+| FG | Focus Group | |
+| HDR UK | Health Data Research UK | Always written with a space, never hyphenated. |
+| HoN | Head of Node | |
 | LLM | Large language model | Lowercase when spelled out. |
+| MRC | Medical Research Council |  |
+| NC | Node Coordinator | |
+| RDM | Research data management | Lowercase when spelled out. |
+| RIR | Recommended Interoperability Resource | |
+| RPO | Research Performing Organisation | |
+| SDE | Secure Data Environment |  |
+| SIAB | Scientific and Industry Advisory Board | |
+| TC | Teleconference | Usually a Zoom meeting. |
+| TeC | Technical Coordinator | |
+| TrC | Training Coordinator | |
+| TRE | Trusted Research Environment |  |
+| UKRI | UK Research and Innovation |  |
+| WP | Work Package | |
 
 ## Word forms
 
